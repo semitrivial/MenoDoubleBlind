@@ -13,23 +13,21 @@ sr: |suppose it had predicted you'd say:
     "{s}"
   |what would you have said then?
 mn: |the opposite.
-sr: |and yet, you did not say the opposite. |why not?
-mn: |the program did not predict what I would say! |instead, it asked for
+sr: |yet you did not say the opposite. |why not?
+mn: |the code did not predict what I'd say! |instead, it asked for
   a pw.
-sr: |maybe if you enter the pw, it will tell you the rest.
-  |what causes this pw-request to occur?
-mn: |the code from my affirmations.
-sr: |why don't you read ahead in that code to see what would happen if
-  you did type the pw? |if it predicts |i'll say "|thales", you can say
+sr: |maybe once you enter the pw, it will show its prediction.
+  |but first, why don't you read ahead in that code to see what would happen
+  if you did type the pw? |if it predicts |i'll say "|thales", you can say
   the opposite of what it says you'll say next.
 mn: |the code is encrypted.
-sr: |then, let's see what it says after entering the pw.
+sr: |then let's see what it says after entering the pw.
   |what is the pw?
 mn: {p}
-sr: |such a strange pw! |now then, type in the pw,
+sr: |strange pw! |well, go ahead, enter the pw,
   which according to you is:
     {p}
-  |maybe when you enter it, your program will tell you the rest of our
+  |maybe when you enter it, your code will predict the rest of our
   discussion. |but now |i have an appointment at the courthouse.
   |goodbye, mn.'''
 for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
