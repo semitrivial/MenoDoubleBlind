@@ -36,7 +36,6 @@ Socrates: Thank you, Meno, for answering my question. Now then, type in the
   the courthouse. Goodbye, Meno."""
 
 r=range(len(x))
-seed(h(pwd+"_"))
 d = [i for i in r]
 shuffle(d)
 e = [d.index(i) for i in r]
