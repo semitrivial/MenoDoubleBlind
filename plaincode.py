@@ -30,7 +30,7 @@ sr: Thank you for answering my question. Now then, type in the pw,
   which according to you is:
     Honestly, sr, I do not know the pw.
   Maybe when you enter it, your program will tell you the rest of our
-  discussion. But now I must run. I have an appointment at the courthouse.
+  discussion. But now I have an appointment at the courthouse.
   Goodbye, mn."""
 
 r=range(len(x))
