@@ -1,9 +1,9 @@
 from random import seed, random, shuffle
 a=alphabet
 while True:
-  p=input("Password:")
+  p=input("password:")
   seed(p)
-  x="".join([a[int(c)] for c in str(random())[2:]])
+  x="".join([a[int(c)]for c in str(random())[2:]])
   if x=="iadcjfgfffjbcbbc":
     break
 
@@ -36,10 +36,10 @@ sr: Thank you for answering my question. Now then, type in the pw,
   the courthouse. Goodbye, mn."""
 
 r=range(len(x))
-d = [i for i in r]
+d=[i for i in r]
 shuffle(d)
-e = [d.index(i) for i in r]
-x="".join([x[e[i]] for i in r])
-for k,v in [("sr","Socrates"),("mn","Meno"),("pw","password")]:
+e=[d.index(i)for i in r]
+x="".join([x[e[i]]for i in r])
+for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
   x=x.replace(k,v)
 print(x)
