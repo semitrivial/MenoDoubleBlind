@@ -26,7 +26,7 @@ def enum(grammar, txt):
 affirmation_list = enum(yes_grammar, "Meno: <YES>.")
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
-alphabet += """(){}[]:'"=,_!.|\n\\"""
+alphabet += """(){}[]:'"=,_!. |\n\\"""
 
 def handle_uppercase(code):
   for letter in alphabet:
