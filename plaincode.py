@@ -1,38 +1,37 @@
-from random import seed, random, shuffle
-a=alphabet
+from random import seed,random,shuffle
 while True:
   p=input("password:")
   seed(p)
-  x="".join([a[int(c)]for c in str(random()).replace(".","")])
+  x="".join([alphabet[int(c)]for c in str(random()).replace(".","")])
   if x=="aiadcjfgfffjbcbbc":
     break
-x="""s,p='It prints the dialog so far, then asks for a pw.','Honestly, sr, I do not know the pw.'
+x="""s,p='|it prints the dialog so far, then asks for a pw.','|honestly, sr, |i do not know the pw.'
 x=f'''mn: {s}
-sr: That's clever, mn.
-mn: How so?
-sr: Suppose it had predicted you'd say:
+sr: |that's clever, mn.
+mn: |how so?
+sr: |suppose it had predicted you'd say:
     "{s}"
-  What would you have said then?
-mn: The opposite.
-sr: And yet, you did not say the opposite. Why not?
-mn: The program did not predict what I would say! Instead, it asked for
+  |what would you have said then?
+mn: |the opposite.
+sr: |and yet, you did not say the opposite. |why not?
+mn: |the program did not predict what I would say! |instead, it asked for
   a pw.
-sr: Maybe if you enter the pw, it will tell you the rest.
-  What causes this pw-request to occur?
-mn: The code from my affirmations.
-sr: Why don't you read ahead in that code to see what would happen if
-  you did type the pw? If it predicts I'll say "Thales", you can say
+sr: |maybe if you enter the pw, it will tell you the rest.
+  |what causes this pw-request to occur?
+mn: |the code from my affirmations.
+sr: |why don't you read ahead in that code to see what would happen if
+  you did type the pw? |if it predicts |i'll say "|thales", you can say
   the opposite of what it says you'll say next.
-mn: The code is encrypted.
-sr: Then, let's see what it says after entering the pw.
-  What is the pw?
+mn: |the code is encrypted.
+sr: |then, let's see what it says after entering the pw.
+  |what is the pw?
 mn: {p}
-sr: Thank you for answering my question. Now then, type in the pw,
+sr: |thank you for answering my question. |now then, type in the pw,
   which according to you is:
     {p}
-  Maybe when you enter it, your program will tell you the rest of our
-  discussion. But now I have an appointment at the courthouse.
-  Goodbye, mn.'''
+  |maybe when you enter it, your program will tell you the rest of our
+  discussion. |but now |i have an appointment at the courthouse.
+  |goodbye, mn.'''
 for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
   x=x.replace(k,v)
 print(x)"""
