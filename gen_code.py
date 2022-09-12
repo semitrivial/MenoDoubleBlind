@@ -26,7 +26,7 @@ fp = open("skeleton.txt", "r")
 dialog = fp.read()
 fp.close()
 lines = dialog.splitlines()
-print(f'Need: {len(coded)/2}, Have: {lines.count("Meno: YES.")}')
+print(f'Need: {len(coded)/3}, Have: {lines.count("Meno: YES.")}')
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet += """(){}[]:'"=,_!|\n\\"""
