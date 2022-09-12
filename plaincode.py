@@ -1,5 +1,5 @@
 from random import seed, random, shuffle
-a,h=alphabet,hash
+a=alphabet
 while True:
   p=input("Password:")
   seed(p)
@@ -24,12 +24,12 @@ Socrates: Why don't you read ahead in the code to see what would happen if
   the opposite of what it says you'll say next.
 Meno: The code is encrypted by the password.
 Socrates: Can't you read the password itself, from the code?
-Meno: No, it only refers to the hash of the password.
+Meno: No, it only refers to a hash of the password.
 Socrates: Then, let's see what it says after entering the password.
   What is the password?
 Meno: Honestly, Socrates, I do not know the password.
-Socrates: Thank you, Meno, for answering my question. Now then, type in the
-  password, which according to you is:
+Socrates: Thank you for answering my question. Now then, type in the password,
+  which according to you is:
     Honestly, Socrates, I do not know the password.
   If I know you, Meno, I think when you enter it, your program will tell you
   the rest of our discussion. But now I must run. I have an appointment at
