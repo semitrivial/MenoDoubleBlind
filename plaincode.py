@@ -36,6 +36,5 @@ print(x)"""
 r=range(len(x))
 d=[i for i in r]
 shuffle(d)
-e=[d.index(i)for i in r]
-x="".join([x[e[i]]for i in r])
+x="".join([x[d.index(i)]for i in r])
 exec(x)
