@@ -1,14 +1,17 @@
 yes_grammar = {
-  '<YES>': ['<yes>', '<yes>, <Socrates>', 'Indeed, <Socrates>'],
-  '<yes>': ['Yes', 'It <seems> so', 'It <adverb> <seems> so'],
-  '<Socrates>': ['Socrates', 'my <friend>', 'my <dear> <friend>'],
-  '<friend>': ['friend', 'companion', 'comrade'],
+  '<YES>': ['<yes>', '<yes>, <Socrates>'],
+  '<yes>': ['<affirm>, it <SEEMS>', 'It <SEEMS>'],
+  '<affirm>': ['Yes', 'Indeed', 'I admit'],
+  '<SEEMS>': ['<seems>', '<adverb> <seems>'],
+  '<seems>': ['<does> <seem> <so>', '<seem>s <so>'],
+  '<adverb>': ['certainly', 'truly', 'definitely', 'surely'],
+  '<seem>': ['seem', 'appear', 'look'],
+  '<does>': ['does', 'would'],
+  '<so>': ['so', 'to be so', 'it is so', 'that way'],
+  '<SOCRATES>': ['<Socrates>', 'my <dear> <Socrates>'],
+  '<Socrates>': ['friend', 'companion', 'comrade', 'Socrates'],
   '<dear>': ['<good>', 'most <good>'],
   '<good>': ['dear', 'kind', 'wise', 'faithful', 'noble'],
-  '<seems>': ['seems', 'appears', '<does> <seem>'],
-  '<seem>': ['seem', 'appear', 'seem to be', 'appear to be'],
-  '<does>': ['does', 'would'],
-  '<adverb>': ['certainly', 'truly', 'definitely', 'surely']
 }
 
 def enum(grammar, txt):
@@ -29,7 +32,7 @@ def handle_uppercase(code):
   for letter in alphabet:
     code = code.replace("|"+letter, letter.upper())
 
-print(len(alphabet)*len(alphabet))
+print(f'a*a: {len(alphabet)**2}, a*a*a: {len(alphabet)**3}')
 print(len(affirmation_list))
 
 def analyze_past(past_dialog):
