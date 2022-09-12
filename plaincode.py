@@ -7,7 +7,7 @@ while True:
   if x=="iadcjfgfffjbcbbc":
     break
 
-x="""s='It prints the dialog so far, then asks for a pw.'
+x="""s,p='It prints the dialog so far, then asks for a pw.','Honestly, sr, I do not know the pw.'
 x=f'''mn: {s}
 sr: That's clever, mn.
 mn: How so?
@@ -27,10 +27,10 @@ sr: Why don't you read ahead in that code to see what would happen if
 mn: The code is encrypted.
 sr: Then, let's see what it says after entering the pw.
   What is the pw?
-mn: Honestly, sr, I do not know the pw.
+mn: {p}
 sr: Thank you for answering my question. Now then, type in the pw,
   which according to you is:
-    Honestly, sr, I do not know the pw.
+    {p}
   Maybe when you enter it, your program will tell you the rest of our
   discussion. But now I have an appointment at the courthouse.
   Goodbye, mn.'''
