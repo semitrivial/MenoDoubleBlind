@@ -1,11 +1,11 @@
 from random import seed,random,shuffle
 while True:
-  p=input("password:")
-  seed(p)
-  x="".join([alphabet[int(c)]for c in str(random()).replace(".","")])
-  if x=="aiadcjfgfffjbcbbc":
-    break
-x="""s,r,p='|it prints the dialog so far, then asks for a pw.','predict',|honestly, sr, |i do not know the pw.'
+ p=input("password:")
+ seed(p)
+ x="".join([alphabet[int(c)]for c in str(random()).replace(".","")])
+ if x=="aiadcjfgfffjbcbbc":
+  break
+x="""s,r,p='|it prints the dialog so far, then asks for a pw.','predict','|honestly, sr, |i do not know the pw.'
 x=f'''mn: {s}
 sr: |that's clever, mn.
 mn: |how so?
