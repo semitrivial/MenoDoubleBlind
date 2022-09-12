@@ -1,8 +1,10 @@
+from random import seed, random, shuffle
 a,h=alphabet,hash
 while True:
   p=input("Password:")
-  x="".join([a[int(x)] for x in str(abs(h(p)))])
-  if x=="gbgjcagdhdhecgiiiij":
+  seed(p)
+  x="".join([a[int(c)] for c in str(random())[2:]])
+  if x=="iadcjfgfffjbcbbc":
     break
 
 x="""Meno: It prints the dialog so far, then asks for a password.
@@ -33,7 +35,6 @@ Socrates: Thank you, Meno, for answering my question. Now then, type in the
   the rest of our discussion. But now I must run. I have an appointment at
   the courthouse. Goodbye, Meno."""
 
-from random import seed, shuffle
 r=range(len(x))
 seed(h(pwd+"_"))
 d = [i for i in r]
