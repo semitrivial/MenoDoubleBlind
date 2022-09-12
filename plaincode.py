@@ -7,11 +7,13 @@ while True:
   if x=="iadcjfgfffjbcbbc":
     break
 
-x="""mn: It prints the dialog so far, then asks for a pw.
+x="""s='It prints the dialog so far, then asks for a pw.'
+x=f'''mn: {s}
 sr: That's clever, mn.
 mn: How so?
-sr: Suppose it had predicted you'd say, "It prints the dialog so far,
-  and then asks for a pw." What would you have said then?
+sr: Suppose it had predicted you'd say:
+    "{s}"
+  What would you have said then?
 mn: The opposite.
 sr: And yet, you did not say the opposite. Why not?
 mn: The program did not predict what I would say! Instead, it asked for
@@ -31,13 +33,15 @@ sr: Thank you for answering my question. Now then, type in the pw,
     Honestly, sr, I do not know the pw.
   Maybe when you enter it, your program will tell you the rest of our
   discussion. But now I have an appointment at the courthouse.
-  Goodbye, mn."""
+  Goodbye, mn.'''
+for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
+  x=x.replace(k,v)
+print(x)
+"""
 
 r=range(len(x))
 d=[i for i in r]
 shuffle(d)
 e=[d.index(i)for i in r]
 x="".join([x[e[i]]for i in r])
-for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
-  x=x.replace(k,v)
-print(x)
+exec(x)
