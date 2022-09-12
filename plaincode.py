@@ -3,10 +3,9 @@ a=alphabet
 while True:
   p=input("password:")
   seed(p)
-  x="".join([a[int(c)]for c in str(random())[2:]])
-  if x=="iadcjfgfffjbcbbc":
+  x="".join([a[int(c)]for c in str(random()).replace(".","")])
+  if x=="aiadcjfgfffjbcbbc":
     break
-
 x="""s,p='It prints the dialog so far, then asks for a pw.','Honestly, sr, I do not know the pw.'
 x=f'''mn: {s}
 sr: That's clever, mn.
@@ -36,9 +35,7 @@ sr: Thank you for answering my question. Now then, type in the pw,
   Goodbye, mn.'''
 for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
   x=x.replace(k,v)
-print(x)
-"""
-
+print(x)"""
 r=range(len(x))
 d=[i for i in r]
 shuffle(d)
