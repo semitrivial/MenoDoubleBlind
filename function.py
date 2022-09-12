@@ -1,16 +1,17 @@
 yes_grammar = {
-  '<YES>': ['<yes>', '<yes>, <Socrates>'],
+  '<YES>': ['<yes>', '<yes>, <SOCRATES>'],
   '<yes>': ['<affirm>, it <SEEMS>', 'It <SEEMS>'],
   '<affirm>': ['Yes', 'Indeed', 'I admit'],
   '<SEEMS>': ['<seems>', '<adverb> <seems>'],
-  '<seems>': ['<does> <seem> <so>', '<seem>s <so>'],
+  '<seems>': ['<does> <seem> <SO>', '<seem>s <SO>'],
   '<adverb>': ['certainly', 'truly', 'definitely', 'surely'],
   '<seem>': ['seem', 'appear', 'look'],
   '<does>': ['does', 'would'],
-  '<so>': ['so', 'to be so', 'it is so', 'that way'],
+  '<SO>': ['<so>', 'to be <so>', 'it is <so>'],
+  '<so>': ['so', 'that way', 'the case'],
   '<SOCRATES>': ['<Socrates>', 'my <dear> <Socrates>'],
   '<Socrates>': ['friend', 'companion', 'comrade', 'Socrates'],
-  '<dear>': ['<good>', 'most <good>'],
+  '<dear>': ['<good>', 'most <good>', 'oh <good>'],
   '<good>': ['dear', 'kind', 'wise', 'faithful', 'noble'],
 }
 
