@@ -1,15 +1,24 @@
 yes_grammar = {
   '<YES>': ['<yes>', '<yes>, <Socrates>', 'Indeed, <Socrates>'],
   '<yes>': ['Yes', 'It <seems> so', 'It <adverb> <seems> so'],
-  '<Socrates>': ['Socrates', 'my friend', 'my <dear> friend'],
-  '<dear>': ['dear', 'kind', 'wise', 'faithful', 'noble'],
-  '<seems>': ['seems', 'appears', 'does seem', 'does appear'],
+  '<Socrates>': ['Socrates', 'my <friend>', 'my <dear> <friend>'],
+  '<friend>': ['friend', 'companion', 'comrade'],
+  '<dear>': ['<good>', 'most <good>'],
+  '<good>': ['dear', 'kind', 'wise', 'faithful', 'noble'],
+  '<seems>': ['seems', 'appears', '<does> <seem>'],
+  '<seem>': ['seem', 'appear', 'seem to be', 'appear to be'],
+  '<does>': ['does', 'would'],
   '<adverb>': ['certainly', 'truly', 'definitely', 'surely']
 }
 
 def enum(grammar, txt):
-  return sum([enum(grammar,txt.replace(k,v)) for (k,v0)
-    in grammar.items() for v in v0 if k in txt],[]) or [txt]
+  for key in grammar.keys():
+    if key in txt:
+      results = []
+      for val in grammar[key]:
+        results.extend(enum(grammar, txt.replace(key, val)))
+      return results
+  return [txt]
 
 affirmation_list = enum(yes_grammar, "Meno: <YES>.")
 
