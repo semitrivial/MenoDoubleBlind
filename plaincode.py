@@ -26,7 +26,7 @@ mn: |the code is encrypted.
 sr: |then, let's see what it says after entering the pw.
   |what is the pw?
 mn: {p}
-sr: |thank you for answering my question. |now then, type in the pw,
+sr: |such a strange pw! |now then, type in the pw,
   which according to you is:
     {p}
   |maybe when you enter it, your program will tell you the rest of our
