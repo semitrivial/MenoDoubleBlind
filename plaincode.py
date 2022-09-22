@@ -20,8 +20,7 @@ sr: |good. |enter the pw, which according to you is:
 for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
   x=x.replace(k,v)
 print(x)"""
-r=range(len(x))
-d=[i for i in r]
+d=[i for i in range(len(x))]
 a.shuffle(d)
 x="".join(x[i]for i in d)
 exec(x)
