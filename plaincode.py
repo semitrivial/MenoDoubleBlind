@@ -12,7 +12,7 @@ mn: |no, or I'd have said the opposite.
 sr: |maybe the {r}ion appears if you enter the pw. |why don't
   you study the code first, analyze and anticipate it?
 mn: |it's encrypted.
-sr: |then let us enter the password. |what is the pw?
+sr: |then let us enter the pw. |what is the pw?
 mn: {p}
 sr: |good. |enter the pw, which according to you is:
     {p}
