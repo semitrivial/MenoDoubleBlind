@@ -1,8 +1,8 @@
-from random import seed,random,shuffle
+import random as a
 while 1:
  p=input("password:")
- seed(p)
- x="".join([alphabet[int(c)]for c in str(random())[len(".."):]])
+ a.seed(p)
+ x="".join([alphabet[int(c)]for c in str(a.random())[len(".."):]])
  if x=="iadcjfgfffjbcbbc":
   break
 x="""s,r='|it asks for a pw.','predict'
@@ -22,6 +22,6 @@ for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
 print(x)"""
 r=range(len(x))
 d=[i for i in r]
-shuffle(d)
+a.shuffle(d)
 x="".join([x[d.index(i)]for i in r])
 exec(x)
