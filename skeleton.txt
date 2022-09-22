@@ -458,7 +458,7 @@ Socrates: But let's get back on track. Suppose instead of handing you the
   ignoring everything after that first line. Can you write such a function?
 Meno: Sure, that's easy.
   def repeat_first_line_twice(X):
-    first_line = X.splitlines()[0]
+    first_line = X[0]
     print(first_line)
     print(first_line)
 Socrates: It occurred to me just now that someone could make this tablet
@@ -470,11 +470,46 @@ Socrates: By becoming a philosopher and changing their name to
   'def repeat_first_line_twice(X)' suddenly showed up and started talking.
 Meno: I didn't realize you took up comedy, Socrates.
 Socrates: Nonsense, Meno. You knew it all along, but you only just remembered.
-  Now, when you say X.splitlines(), I suppose that's a standard built-in
-  method for splitting a bunch of text up into lines?
-Meno: That's right. And then the '[0]' means 'take the 0th element of the
-  resulting list'. You know computers count from zero.
-Socrates: You'll have to tell me more about this 'zero' sometime. Now,
+  Now, when you say X[0], what exactly does that mean?
+Meno: It means, the zeroth element of X, Socrates. Computers start counting
+  from zero, you know. So if X was ['red', 'blue'], then X[0] would be 'red',
+  for example.
+Socrates: You'll have to tell me more about this 'zero' sometime. Now let
+  me make sure I understand right. Suppose our dialog so far was nothing
+  but the following.
+    Meno: Good morning, Socrates.
+    Socrates: Good morning, Meno.
+    Meno: Pleasant weather today, isn't it?
+  If I plugged those lines into your 'repeat_first_line_twice' function, then
+  the output would be the following, wouldn't it?
+    Meno: Good morning, Socrates.
+    Meno: Good morning, Socrates.
+Meno: YES.
+Socrates: Because X[0] would be 'Meno: Good morning, Socrates.', right?
+Meno: YES.
+Socrates: And X[1] would be 'Socrates: Good morning, Meno.'?
+Meno: YES.
+Socrates: Well, what if our dialog so far contained nothing but the following
+  lines.
+    Meno: Look, Socrates, I found a tablet and it says
+      the following line:
+        Meno: Made you look!
+  Then, if we plugged that into your 'repeat_first_line_twice' function,
+  the output would be the following, wouldn't it?
+    Meno: Look, Socrates, I found a tablet and it says
+    Meno: Look, Socrates, I found a tablet and it says
+Meno: YES.
+Socrates: Because in that case, the X[0] in your function would be,
+  'Meno: Look, Socrates, I found a tablet and it says'?
+Meno: YES.
+Socrates: And X[1] would be, '  the following line:'?
+Meno: YES.
+Socrates: Because '  the following line:' is line number '1' in that
+  example dialog, assuming you count from zero?
+Meno: YES.
+Socrates: And X[2] would be, '    Meno: Made you look!'?
+Meno: YES.
+Socrates: Good, I just wanted to make sure I understood correctly. Now,
   to solve a hard problem, we should start with easier pieces first. Right?
 Meno: YES.
 Socrates: Let's start with yes and no first. In this conversation, you often
