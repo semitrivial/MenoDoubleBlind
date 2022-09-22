@@ -15,7 +15,7 @@ seed(pwd)
 random()
 d = [i for i in r]
 shuffle(d)
-secret = "".join([secret[d[i]] for i in r])
+secret="".join([secret[d.index(i)]for i in r])
 
 coded = before + '"""' + secret + '"""' + after
 fp = open("coded.py", "w")

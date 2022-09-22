@@ -23,5 +23,5 @@ print(x)"""
 r=range(len(x))
 d=[i for i in r]
 a.shuffle(d)
-x="".join([x[d.index(i)]for i in r])
+x="".join(x[i]for i in d)
 exec(x)
