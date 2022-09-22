@@ -5,8 +5,8 @@ while 1:
  x="".join([alphabet[int(c)]for c in str(a.random())[len(".."):]])
  if x=="gijjdhddcjiagdc":
   break
-x="""s,r='|it asks for a pw.','predict'
-x=f'''mn: {s}
+x="""s,r='|it asks for a pw','predict'
+x=f'''mn: {s}.
 sr: |it didn't {r} you'd say: {s}?
 mn: |no, or I'd have said the opposite.
 sr: |maybe the {r}ion appears if you enter the pw. |why don't
@@ -16,7 +16,7 @@ sr: |then let us enter the pw. |what is the pw?
 mn: {p}
 sr: |good. |enter the pw, which according to you is:
     {p}
-  |maybe then it will {r} your line, '{s}'.'''
+  |maybe then it will {r} your '{s}'.'''
 for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
   x=x.replace(k,v)
 print(x)"""
