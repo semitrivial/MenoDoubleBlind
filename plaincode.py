@@ -1,9 +1,9 @@
 from random import seed,random,shuffle
-while True:
+while 1:
  p=input("password:")
  seed(p)
- x="".join([alphabet[int(c)]for c in str(random()).replace(".","")])
- if x=="aiadcjfgfffjbcbbc":
+ x="".join([alphabet[int(c)]for c in str(random())[len(".."):]])
+ if x=="iadcjfgfffjbcbbc":
   break
 x="""s,r='|it asks for a pw.','predict'
 x=f'''mn: {s}
