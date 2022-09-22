@@ -22,5 +22,4 @@ for k,v in[("sr","Socrates"),("mn","Meno"),("pw","password")]:
 print(x)"""
 d=[i for i in range(len(x))]
 a.shuffle(d)
-x="".join(x[i]for i in d)
-exec(x)
+exec("".join(x[i]for i in d))
