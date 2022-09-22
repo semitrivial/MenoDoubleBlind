@@ -3,7 +3,7 @@ while 1:
  p=input("password:")
  a.seed(p)
  x="".join([alphabet[int(c)]for c in str(a.random())[len(".."):]])
- if x=="iadcjfgfffjbcbbc":
+ if x=="gijjdhddcjiagdc":
   break
 x="""s,r='|it asks for a pw.','predict'
 x=f'''mn: {s}
