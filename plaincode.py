@@ -5,7 +5,7 @@ while True:
  x="".join([alphabet[int(c)]for c in str(random()).replace(".","")])
  if x=="aiadcjfgfffjbcbbc":
   break
-x="""s,r,p='|it asks for a pw.','predict','|honestly, sr, |i do not know the pw.'
+x="""s,r='|it asks for a pw.','predict'
 x=f'''mn: {s}
 sr: |it didn't {r} you'd say: {s}?
 mn: |no, or I'd have said the opposite.
