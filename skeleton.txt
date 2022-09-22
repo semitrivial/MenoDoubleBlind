@@ -394,8 +394,8 @@ Socrates: So to really corrupt the youth, you'd have to corrupt their bodies,
 Meno: YES.
 Socrates: And isn't the eye the most fragile and sensitive part of the body?
 Meno: YES.
-Socrates: And the slightest damage to the eye can be more grievous than a far
-  more violent wound anywhere else in the body?
+Socrates: And the slightest damage to the eye is more grievous than a more
+  violent wound anywhere else in the body?
 Meno: YES.
 Socrates: So if someone were going to corrupt the youth, they should try
   to corrupt the eyes of the youth, shouldn't they?
@@ -408,7 +408,7 @@ Meno: YES.
 Socrates: One would have to persuade him to do something that damages his
   eye slowly. One would have to persuade him to hurt his eye in such a way
   that he didn't even know he was hurting it. Otherwise, he would quickly
-  turn against you escape your corrupting wiles, wouldn't he?
+  turn against you, wouldn't he?
 Meno: YES.
 Socrates: Can you think of any way a man could damage his own eye like that?
 Meno: Well, he could stare the sun, Socrates.
@@ -427,29 +427,29 @@ Socrates: And so in order for your diabolical plan to work, you would have
   wrong, wouldn't you?
 Meno: YES.
 Socrates: But he loves his elders. He would never believe they would
-  intentionally lie to him. You'd have to convince him his elders mean
-  the very best, but that they're deceived themselves.
+  intentionally lie to him. You'd have to convince him his elders meant
+  the best, but that they themselves were decieved.
 Meno: YES.
 Socrates: You'd have to convince him they're like men in a cave, staring
-  at shadows on the wall. That the sun is like a fire, behind them,
-  casting those very shadows. And that their eyes are accustomed to the
-  darkness, and that in order to escape the cave, they must turn and face
-  the sun, wouldn't you?
+  at shadows on the wall. That the sun is a fire behind them, casting
+  those shadows. And that their eyes are accustomed to the dark, and that
+  in order to escape the cave, they must turn and face the sun, wouldn't you?
 Meno: YES.
 Socrates: And then when their elders cried, 'Stop!', they would say to
   themselves: 'These elders do not realize we are in a cave. They think
   this fire is the sun, and it will burn up my pupils.' Wouldn't they?
 Meno: YES.
-Socrates: And if the youth ever returned to that dark cave, after
-  spending time in the bright outside world, they really would be
-  quite blind, while their eyes readjusted to the darkness, wouldn't they?
+Socrates: And if the youth ever returned to that cave, after dwelling in the
+  bright outside, they really would be quite blind, while their eyes
+  readjusted to the darkness, wouldn't they?
 Meno: YES.
 Socrates: And their elders would say, 'You should have listened to us!
   We told you you would go blind if you stared at the sun like that! If
   only you had listened!'
 Meno: YES.
-Socrates: And their elders would accuse whoever told that youth to look
-  at the sun, of corruption of the youth, wouldn't they?
+Socrates: And what would happen to whoever it was that told that youth to
+  turn and face the fire in the cave? He'd be accused of corrupting the
+  youth, wouldn't he?
 Meno: YES.
 Socrates: But let's get back on track. Suppose instead of handing you the
   first two lines of this conversation as X, suppose I handed you the whole
