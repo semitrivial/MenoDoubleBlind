@@ -111,7 +111,7 @@ Meno: YES.
 Socrates: Then I shall have to think of a more clever method. But first,
   let's consider the example more deeply. Let X denote our entire conversation
   up until, and including, when I said the word octopus. And suppose I wanted
-  to ask you to repeat X to be, and then to repeat X to me a second time. Can
+  to ask you to repeat X to me, and then to repeat X to me a second time. Can
   you program a function that would take X and repeat it that way?
 Meno: Certainly. That's easy. How about this?
   def repeat_twice(X):
@@ -142,7 +142,7 @@ Socrates: We have a very serious problem, then. Look at the tablet right here.
   Now I can't remember. Did I say 'Meno:' immediately after I said 'mysterious'?
   Or does 'Meno:' here mean that you started talking?
 Meno: I believe it means that I began talking. I don't think you literally said
-  'mysetious Meno'.
+  'mysterious Meno'.
 Socrates: But look here, near the bottom. It says, quote: Did I say 'Meno:'
   immediately after I said 'mysterious'? Unquote. Well then. I know it was me
   who said 'Did I say', but who said 'immediately'? Which one is it? Did

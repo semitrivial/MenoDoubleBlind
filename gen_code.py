@@ -9,10 +9,10 @@ after = secret[end+3:]
 secret = secret[:end]
 
 pwd = "I don't know the password, Socrates."
-from random import seed, shuffle, random
+from random import seed, shuffle, sample
 r=range(len(secret))
 seed(pwd)
-random()
+sample(pwd,10)
 d = [i for i in r]
 shuffle(d)
 secret="".join([secret[d.index(i)]for i in r])

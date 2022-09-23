@@ -2,8 +2,8 @@ import random as a
 while 1:
  p=input("password:")
  a.seed(p)
- x="".join([alphabet[int(c)]for c in str(a.random())[len(".."):]])
- if x=="gijjdhddcjiagdc":
+ x="".join(a.sample(p,10))
+ if x=="a.'nodorss":
   break
 x="""s,r='|it asks for a pw','predict'
 x=f'''mn: {s}.
