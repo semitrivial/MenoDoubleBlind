@@ -509,34 +509,3 @@ Socrates: Because '  the following line:' is line number '1' in that
 Meno: YES.
 Socrates: And X[2] would be, '    Meno: Made you look!'?
 Meno: YES.
-Socrates: Good, I just wanted to make sure I understood correctly. Now,
-  to solve a hard problem, we should start with easier pieces first. Right?
-Meno: YES.
-Socrates: Let's start with yes and no first. In this conversation, you often
-  answer my questions, but you don't just say 'yes', do you? You say things
-  like 'yes, my dear Socrates'. Don't you?
-Meno: YES.
-Socrates: And I suppose you've been generating those affirmations using
-  a Chomskian grammar, haven't you. Well then, can you write a computer
-  program that will generate all those different ways you have of saying
-  'yes', Meno? Take your time. I'll wait.
-Meno: Hmmm. Well, let me think. Ho hum. Yes. I think this does it.
-  yes_grammar = {
-    '<YES>': ['<yes>', '<yes>, <Socrates>', 'indeed, <Socrates>'],
-    '<yes>': ['yes', 'I <think> so', 'it <seems> so', 'it <adverb> <seems> so'],
-    '<Socrates>': ['Socrates', 'my friend', 'my <dear> friend'],
-    '<dear>': ['dear', 'kind', 'wise', 'faithful', 'noble'],
-    '<think>': ['suppose', 'think', 'believe'],
-    '<seems>': ['seems', 'appears', 'does seem', 'does appear'],
-    '<adverb>': ['certainly', 'truly', 'definitely']
-  }
-  def recursive_grammar_enumerator(grammar, fragment)
-    results = []
-    for token in grammar.keys():
-      if token in line:
-        for option in grammar[token]:
-          mod_fragment = line.replace(token, option)
-          results.extend(recursive_grammar_enumerator(grammar, mod_fragment))
-    return results or [fragment]
-  def affirmation_list():
-    return recursive_grammar_enumerator(yes_grammar, '<YES>')
