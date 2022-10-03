@@ -514,17 +514,12 @@ Meno: YES.
 Meno: It asks for a passphrase.
 Socrates: So now the question is whether or not the program predicted
   what you would say when you ran it. And what you said when you ran
-  it is: 'It asks for a passphrase.' So tell me, Meno, did it predict
-  that you would say the following?
-    'It asks for a passphrase.'
-Meno: No, or I'd have said the opposite.
-Socrates: Ahh, and now you're in a bind, Meno. For until you enter the
-  passphrase, you will not know what it will say once you enter it.
-  For example, maybe if you just enter the passphrase, then your program
-  will immediately say,
-    Meno: It asks for a passphrase.
-  And then right after that on the very next line, perhaps it will say,
-    Meno: No, or I'd have said the opposite.
+  it is:
+    It asks for a passphrase.
+  Now you're in a bind, Meno. For until you enter the passphrase, you
+  will not know what it will say once you enter it. For example, maybe
+  if you just enter the passphrase, your program will immediately say,
+    It asks for a passphrase.
   And you can't say your code heard this part of the conversation we are
   having now, after you ran it. For an algorithm has no ears to hear with,
   and while it is waiting for a user to enter a passphrase, it cannot
@@ -533,12 +528,11 @@ Socrates: Ahh, and now you're in a bind, Meno. For until you enter the
   good as if it predicted it all it advance, without the passphrase. Ah!
   But you can read the code yourself, Meno. It is too late for you to say
   the opposite of
-    It asks for a passphrase
-  or
-    No, or I'd have said the opposite.
+    It asks for a passphrase.
   But maybe you can just study the code, Meno, and figure out what the
-  third thing is that it would predict from you. Figure that out, Meno,
-  and then say the opposite!
+  next thing is that it will predict from you. Figure that out, Meno,
+  and then say the opposite! Study the code, Meno! Analyze it, and
+  anticipate it!
 Meno: It's encrypted.
 Socrates: You really do surprise me, Meno, and I bow to your ingenuity.
   For truly you are much more a genius than I am, for I would never have
@@ -548,12 +542,9 @@ Socrates: You really do surprise me, Meno, and I bow to your ingenuity.
   you could study it, and you could have seen it would predict you would
   say,
     It asks for a passphrase.
-    No, or I'd have said the opposite.
     It's encrypted.
   And even though it was too late to say the opposite of
     It asks for a passphrase
-  or
-    No, or I'd have said the opposite,
   still, you could still have said the opposite of
     It's encrypted,
   if you could only have decrypted it. Well, Meno, it seems you have no
@@ -568,7 +559,6 @@ Socrates: Thank you, Meno! I should have guessed a devious mind like
   to me already, then I think as soon as you enter that passphrase, your
   program will say:
     Meno: It asks for a passphrase.
-    Meno: No, or I'd have said the opposite.
     Meno: It's encrypted.
     Meno: I don't know the password, Socrates.
   But now I must leave you, Meno.
