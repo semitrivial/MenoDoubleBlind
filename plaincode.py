@@ -1,12 +1,10 @@
 import random as a
-while 1:
- p=input("passphrase:")
- a.seed (p)
- if "". join(a.sample(p,10))=="a.'nodorss":
-  break
-x="""print('''It asks for a passphrase.
+x=p="""print('''It asks for a password.
 It's encrypted.
 ''',p)"""
-d=[i for i in range(len(x))]
+while a.sample(p,10)!="a.'nodorss":
+ p=input("password:")
+ a.seed(p)
+d=list(range(len(x)))
 a.shuffle(d)
 exec("".join(x[i]for i in d)
