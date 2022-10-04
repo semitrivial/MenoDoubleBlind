@@ -5,6 +5,6 @@ It's encrypted.
 while a.sample(p,10)!="a.'nodorss":
  p=input("password:")
  a.seed(p)
-d=list(range(len(x)))
+d=list(x)
 a.shuffle(d)
-exec("".join(x[i]for i in d))
+exec("".join(d))
