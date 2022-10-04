@@ -1,10 +1,10 @@
 import random as a
-x=p="""print('''It wants a password.
+x=list("""print('''It wants a password.
 It's encrypted.
-''',p)"""
-while a.sample(p,10)!="a.'nodorss":
- p=input("password:")
+''',p)""")
+P=p="Password: "
+while a.sample(p,len(P))!="a.'nodorss":
+ p=input(P)
  a.seed(p)
-d=list(x)
-a.shuffle(d)
-exec("".join(d))
+a.shuffle(x)
+exec("".join(x))
