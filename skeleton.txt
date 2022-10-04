@@ -511,24 +511,24 @@ Socrates: And X[2] would be, '    Meno: Made you look!'?
 Meno: YES.
 
 
-Meno: It asks for a passphrase.
+Meno: It wants a password.
 Socrates: So now the question is whether or not the program predicted
   what you would say when you ran it. And what you said when you ran
   it is:
-    It asks for a passphrase.
-  Now you're in a bind, Meno. For until you enter the passphrase, you
+    It wants a password.
+  Now you're in a bind, Meno. For until you enter the password, you
   will not know what it will say once you enter it. For example, maybe
-  if you just enter the passphrase, your program will immediately say,
-    It asks for a passphrase.
+  if you just enter the password, your program will immediately say,
+    It wants a password.
   And you can't say your code heard this part of the conversation we are
   having now, after you ran it. For an algorithm has no ears to hear with,
-  and while it is waiting for a user to enter a passphrase, it cannot
+  and while it is waiting for a user to enter a password, it cannot
   hear what is being said around it. So if, once the password is entered,
   it then predicts what was said in the meantime, then that is just as
-  good as if it predicted it all it advance, without the passphrase. Ah!
+  good as if it predicted it all it advance, without the password. Ah!
   But you can read the code yourself, Meno. It is too late for you to say
   the opposite of
-    It asks for a passphrase.
+    It wants a password.
   But maybe you can just study the code, Meno, and figure out what the
   next thing is that it will predict from you. Figure that out, Meno,
   and then say the opposite! Study the code, Meno! Analyze it, and
@@ -536,30 +536,30 @@ Socrates: So now the question is whether or not the program predicted
 Meno: It's encrypted.
 Socrates: You really do surprise me, Meno, and I bow to your ingenuity.
   For truly you are much more a genius than I am, for I would never have
-  thought to encrypt the code with a passphrase. Well, if the code is
+  thought to encrypt the code with a password. Well, if the code is
   encrypted, then I suppose you cannot study it to see what it would
-  predict upon receiving the right passphrase. If you could decrypt it,
+  predict upon receiving the right password. If you could decrypt it,
   you could study it, and you could have seen it would predict you would
   say,
-    It asks for a passphrase.
-    It's encrypted.
+    It wants a password.
+    I would, except it's encrypted.
   And even though it was too late to say the opposite of
-    It asks for a passphrase
+    It wants a password.
   still, you could still have said the opposite of
-    It's encrypted,
+    I would, except it's encrypted.
   if you could only have decrypted it. Well, Meno, it seems you have no
-  choice now. You must enter the passphrase, and we shall see what your
-  program predicted. So then! Meno! Tell me! What is the passphrase?
+  choice now. You must enter the password, and we shall see what your
+  program predicted. So then! Meno! Tell me! What is the password?
 Meno: I don't know the password, Socrates.
 Socrates: Thank you, Meno! I should have guessed a devious mind like
-  yours would have come up with such a self-referential passphrase.
-  So! The passphrase, in your own words, dear Meno, is:
+  yours would have come up with such a self-referential password.
+  So! The password, in your own words, dear Meno, is:
     I don't know the password, Socrates.
   Enter it, then, and if your wisdom is as great as you have demonstrated
-  to me already, then I think as soon as you enter that passphrase, your
+  to me already, then I think as soon as you enter that password, your
   program will say:
-    Meno: It asks for a passphrase.
-    Meno: It's encrypted.
+    Meno: It wants a password.
+    Meno: I would, except it's encrypted.
     Meno: I don't know the password, Socrates.
   But now I must leave you, Meno.
 
