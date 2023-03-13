@@ -8,6 +8,11 @@ alphabet += alphabet.upper()
 alphabet += """(){}[]:'"=,_!|\n\\"""
 
 def get_first_choice(txt):
+    try:
+        txt[:BLOCK_SIZE].index("[")
+    except ValueError:
+        return None, None, None
+
     depth = 0
     for i in range(len(txt)):
         x = txt[i]
@@ -43,6 +48,8 @@ def enum_choices(choices):
                 parsed.append(choice)
                 left = i+1
     parsed.append(choices[left:])
+    if len(parsed) == 1:
+        parsed.append("")
     return parsed
 
 def choose_block(txt, needle):
@@ -51,8 +58,7 @@ def choose_block(txt, needle):
     if choices is None:
         block = txt[:BLOCK_SIZE]
         s = sum(ord(x) for x in block) % len(alphabet)
-        print(f"Want {needle}, got {s}")
-        if alphabet[s] != needle:
+        if s != needle:
             raise KeyError
         remainder = txt[BLOCK_SIZE:]
         return block, remainder
@@ -68,5 +74,7 @@ result = ""
 for w in want:
     needle = alphabet.index(w)
     block, remainder = choose_block(raw, needle)
-    result += choose_block(raw, needle)
+    print(f"---Successfully got {w}")
+    print(f"...{block}...")
+    result += block
     raw = remainder
