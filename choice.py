@@ -5,7 +5,7 @@ BLOCK_SIZE = 100
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet += alphabet.upper()
-alphabet += """(){}[]:'"=,_!|\n\\"""
+alphabet += """ (){}[]:'"=,_!|\n\\"""
 
 def get_first_choice(txt):
     try:
@@ -74,7 +74,7 @@ result = ""
 for w in want:
     needle = alphabet.index(w)
     block, remainder = choose_block(raw, needle)
-    print(f"---Successfully got {w}")
-    print(f"...{block}...")
+    print(f"---Successfully got '{w}'")
+    print("   ..." + block.replace('\n', '\n    ') + "...")
     result += block
     raw = remainder

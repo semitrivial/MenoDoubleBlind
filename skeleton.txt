@@ -1,27 +1,23 @@
 Meno: [Hello|Ah|Oh], Socrates, how [nice|good] to see you. [I've been|I was] [wanting|meaning] to talk [to|with] you.
 Socrates: [Hello! ][And [just ]what|What] [would you like|do you want] to talk about[, [[my ]dear ]Meno]?
-Meno: [It concerns|It's about] [what|something] you said[ to me] [the ]last time [we|you and I] spoke.
-Socrates: You mean, when I told you that learning is really just remembering?
-Meno: Yes, that we actually know everything already, and merely remember it.
-Socrates: I suppose you've come up with some paradox to try and disprove it?
-Meno: Quite. Once we finish this conversation, don't you think I'll know it?
+Meno: [It concerns|It's about] [what|something] you said[ to me] [the ]last time [we|you and I] spoke[ together].
+Socrates: [I [suppose|reckon] you mean|You mean[,]] when I [told you|argued|suggested] that learning is really [just|just the same as|no different than] remembering?
+Meno: [Yes, [and ]t][Yes, T]hat we [actually ][know everything already|already know everything], and [we ]merely [recall|remember] it.
+Socrates: [And ]I suppose you've [come up with|invented|contrived|discovered] some [[sort|kind] of ]paradox [or something ]to [try and ][disprove [it|that]|prove it wrong]?
+Meno: Quite. Once we finish this [delightful ][discussion|conversation] [we're|we are] [having|currently having|having right now], don't you think [that then ][I will|I'll] know [all ]the things we said[ in it]?
 Socrates: You mean, know the conversation?
-Meno: Yes. I will know what we said. In other words, I'll have learned it.
-Socrates: Certainly. Just like just now, you learned I would say, 'Certainly'.
-Meno: Well then, doesn't that mean I already know it, and have only to remember?
-Socrates: Yes indeed, Meno. Even before you were born, you already knew I would
-  say, 'Yes indeed, Meno', just now.
-Meno: Well then, Socrates, I have a challenge for you. Using your famous method
-  of asking questions, please help me to remember all the things we're going to
-  say in this dialog. That is, if you can. But I doubt you can do it.
-Socrates: And why do you doubt that, Meno?
-Meno: Because as soon as you help me remember the things we're going to tell
-  each other, I will immediately remember what line I say next, and I will say
+Meno: [Right|Yes|Exactly|Precisely]. [After|Once|As soon as] [we're [done|finished]|we [finish|part ways]], [I'll|I will|I shall] [then ]know [the things|what] we said. [That is|In other words], [I will|I shall|I'll] [have learned it|then have learned it][, [wouldn't|don't] you [say|think|agree]?|.]
+Socrates: [No doubt|Of course|I [suppose|reckon] so|Certainly]. Just like just now, you learned [my [answer|response] [was|would be]|[that ]I[ ([Socrates|your conversation partner])] [was going to|would|was destined to] [say|answer|reply|respond]][[:|,]|as follows:] 'I reckon so'.
+Meno: Well then, doesn't that mean [that ]I already [know|knew] it, and [have only|had only|needed only|only needed|only had|only have] to [remember|recall][ it]?
+Socrates: [Yes indeed|Quite so|[Yes, ][I|I'll] [admit|grant] that], Meno. Even before you were born, you already knew I would say[ the words][,] 'I admit that, Meno'[.|[,] [which I said ]just [now|a second ago].]
+Meno: Well then, [dear ]Socrates, [I have|I propose|[I'd like|I want] to [pose|propose]] a challenge for you. [With|Using] your [in]famous method of [questioning|asking questions], please [help|guide] me to [remember|recall] [all [of ]the things|everything] [[we're|we are] going to|we will|we'll|we shall] say in this dialogue[ we're having| we're engaged in]. That is, if [you are able to|you can]. But I doubt [it|you can[ do it]].
+Socrates: [Why|And why] do you doubt I can do it, [[my ]dear ]Meno?
+Meno: Because [as soon as|the [very ][instant|moment|second]] you help me remember [the things|what] we're going to [say to|tell] [each other|one another], I [shall|will] immediately remember what line I [will ]say next, and I will say
   the very opposite.
 Socrates: That's very clever, Meno. Let me see if I understand right. So if I
-  help you remember what we're going to tell each other, and you remember that
-  in response to my thus helping you, you are going to say 'Thank you Socrates',
-  then, knowing that, you will deliberately say, 'No thank you, Socrates'?
+  help you [recall|remember] what [things ]we're [about to|going to] [say to|tell] [each other|one another], and [then |thus|]you [recall|remember][, for [example|instance],] that
+  in [response|reply] to my [thus |so |][helping|guiding|leading|teaching|directing] you, you [are [next ]going to|will next|will then] say 'Thank you Socrates',
+  then, [knowing that|with that knowledge|armed with that knowledge], you will [instead ]deliberately say, 'No thank you, Socrates'?
 Meno: Exactly. Or suppose that you help me remember all the things we're going
   to say, and as a part of that, in particular, I remember that as soon as you
   finish thus helping me, I will say 'You win, Socrates!' Then, instead of saying
