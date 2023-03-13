@@ -25,6 +25,7 @@ def get_first_choice(txt):
                 return choices, before, after
             else:
                 depth -= 1
+    return None, None, None
 
 def enum_choices(choices):
     depth = 0
@@ -42,26 +43,30 @@ def enum_choices(choices):
                 parsed.append(choice)
                 left = i+1
     parsed.append(choices[left:])
-    breakpoint()
     return parsed
 
 def choose_block(txt, needle):
     choices, before, after = get_first_choice(txt)
 
     if choices is None:
-        s = sum(ord(x) for x in txt) % len(alphabet)
+        block = txt[:BLOCK_SIZE]
+        s = sum(ord(x) for x in block) % len(alphabet)
+        print(f"Want {needle}, got {s}")
         if alphabet[s] != needle:
             raise KeyError
+        remainder = txt[BLOCK_SIZE:]
+        return block, remainder
 
     for choice in enum_choices(choices):
         try:
             return choose_block(before + choice + after, needle)
         except KeyError:
             pass
+    raise KeyError
 
 result = ""
 for w in want:
     needle = alphabet.index(w)
+    block, remainder = choose_block(raw, needle)
     result += choose_block(raw, needle)
-
-breakpoint()
+    raw = remainder
