@@ -1,4 +1,6 @@
 raw = open('skeleton.txt', 'r').read()
+raw = raw.replace(" ","")
+raw = raw.replace("\n", "")
 want = open('coded.py', 'r').read()
 
 BLOCK_SIZE = 100
@@ -7,7 +9,7 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet += alphabet.upper()
 alphabet += """ (){}[]:'"=,_!|\n\\"""
 
-def get_first_choice(txt):
+def get_first_fork(txt):
     try:
         txt[:BLOCK_SIZE].index("[")
     except ValueError:
@@ -53,7 +55,7 @@ def enum_choices(choices):
     return parsed
 
 def choose_block(txt, needle):
-    choices, before, after = get_first_choice(txt)
+    choices, before, after = get_first_fork(txt)
 
     if choices is None:
         block = txt[:BLOCK_SIZE]
