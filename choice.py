@@ -32,7 +32,7 @@ def get_first_fork(txt):
                 return choices, before, after
             else:
                 depth -= 1
-    return None, None, None
+    raise ValueError
 
 def enum_choices(choices):
     depth = 0
