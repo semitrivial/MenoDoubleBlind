@@ -1,10 +1,11 @@
 import random as a
 j="".join
 while a:
- p=input("Password: ").lower()
+ w,z="password: ", "ttonaws on"
+ p=input(w).lower()
  a.seed(p)
- x=j(a.sample(p,len(p)))
- if x=="ttonaws on'kwyi adnpe rs ocos,dar .s":
+ x=j(a.sample(p,len(w)))
+ if x==z:
   break
 x="""print(f'''it wants a password.
 it's encrypted.

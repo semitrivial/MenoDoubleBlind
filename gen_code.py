@@ -12,7 +12,8 @@ pwd = "I don't know any password, Socrates.".lower()
 from random import seed, shuffle, sample
 r=range(len(secret))
 seed(pwd)
-sample_len = len(pwd)
+prompt = "password: "
+sample_len = len(prompt)
 sample(pwd,sample_len)
 d = [i for i in r]
 shuffle(d)
