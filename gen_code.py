@@ -8,11 +8,12 @@ end = secret.index('"""')
 after = secret[end+3:]
 secret = secret[:end]
 
-pwd = "I don't know the password, Socrates."
+pwd = "I do not know the password, Socrates.".lower()
 from random import seed, shuffle, sample
 r=range(len(secret))
 seed(pwd)
-sample(pwd,10)
+sample_len = len(pwd)
+sample(pwd,sample_len)
 d = [i for i in r]
 shuffle(d)
 secret="".join([secret[d.index(i)]for i in r])
@@ -30,4 +31,3 @@ print(f'Need: {len(coded)/3}, Have: {lines.count("Meno: YES.")}')
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet += """(){}[]:'"=,_!|\n\\"""
-exec(coded)
