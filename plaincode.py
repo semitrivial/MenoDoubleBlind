@@ -1,11 +1,11 @@
 import random as a
-x,j,w,z="""print(f'''it wants a password.
+x,j,z="""print(f'''it wants a password.
 it's encrypted.
-{p}''')""","".join,"password: ","ttonaws on"
+{p}''')""","".join,", yo ooned"
 while a:
- p=input(w).lower()
+ p=input("password: ")
  a.seed(p)
- if j(a.sample(p,len(w)))==z:
+ if j(a.sample(p,len(z)))==z:
   break
 d=[i for i in range(len(x))]
 a.shuffle(d)
