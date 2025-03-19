@@ -1,7 +1,7 @@
 import random as a
-x,j,z="""print(f'''it wants a password.
+z,x,j=", yo ooned","""print(f'''it wants a password.
 it's encrypted.
-{p}''')""","".join,", yo ooned"
+{p}''')""","".join
 while a:
  p=input("password: ")
  a.seed(p)
