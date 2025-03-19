@@ -90,9 +90,9 @@ Meno: YES.
 Socrates: Then it's perfectly alright for me to use earlier pieces of our
   conversation like that?
 Meno: YES.
-Socrates: Well, supposing I said to you: 'Take whole entire conversation up
+Socrates: Well, supposing I said to you: 'Take our whole entire conversation up
   until I said the word octopus. Repeat that whole conversation back to me.
-  Then repeat that whole conversation back to me a secon time.' Would that
+  Then repeat that whole conversation back to me a second time.' Would that
   solve your challenge?
 Meno: NO.
 Socrates: Because the content of the resulting conversation would not equal
@@ -379,7 +379,7 @@ Socrates: And all these things we've been saying are just idle thoughts,
 Meno: YES.
 Socrates: So one cannot corrupt the youth just by contemplating thoughts
   together with them. For they can change their thoughts as easily as you
-  can imagine a mountain of gold, can't you?
+  can imagine a mountain of gold, can't they?
 Meno: YES.
 Socrates: And changing people's thoughts is like writing Greek on the surface
   of the water. The water is so pliable you can write on it with your finger.
@@ -541,7 +541,7 @@ Socrates: You really do surprise me, Meno, and I bow to your ingenuity.
     I would, except it's encrypted.
   And even though it was too late to say the opposite of
     It wants a password.
-  still, you could still have said the opposite of
+  still, you could have said the opposite of
     I would, except it's encrypted.
   if you could only have decrypted it. Well, Meno, it seems you have no
   choice now. You must enter the password, and we shall see what your
