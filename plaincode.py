@@ -4,8 +4,7 @@ while a:
  w,z="password: ", "ttonaws on"
  p=input(w).lower()
  a.seed(p)
- x=j(a.sample(p,len(w)))
- if x==z:
+ if j(a.sample(p,len(w)))==z:
   break
 x="""print(f'''it wants a password.
 it's encrypted.
