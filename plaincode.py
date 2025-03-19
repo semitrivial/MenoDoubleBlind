@@ -1,5 +1,5 @@
 import random as a
-while 1:
+while a:
  p=input("Password: ").lower()
  a.seed(p)
  x="".join(a.sample(p,len(p)))
