@@ -5,6 +5,6 @@ it's encrypted.
 p=input("password: ")
 a.seed(p)
 if j(a.sample(p,len(z)))==z:
- d=[i for i in range(len(x))]
+ d=list(range(len(x)))
  a.shuffle(d)
  exec(j(x[i]for i in d))
