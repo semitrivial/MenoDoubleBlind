@@ -80,3 +80,7 @@ for w in want:
     print("   ..." + block.replace('\n', '\n    ') + "...")
     result += block
     raw = remainder
+
+#3336/34436 gives 12/331 (3.6%)
+#Need about 29x more on the right
+#Need about 2.7x more on the left

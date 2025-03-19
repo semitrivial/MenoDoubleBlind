@@ -8,7 +8,7 @@ end = secret.index('"""')
 after = secret[end+3:]
 secret = secret[:end]
 
-pwd = "I do not know the password, Socrates.".lower()
+pwd = "I don't know any password, Socrates.".lower()
 from random import seed, shuffle, sample
 r=range(len(secret))
 seed(pwd)
