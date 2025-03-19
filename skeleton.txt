@@ -367,15 +367,13 @@ Meno: YES. And next you're going to say, you could goad me into anticipating
   groups of groups of groups of groups of groups of groups of lines.
 Socrates: And so on forever?
 Meno: YES. And now I see why they accuse you of corrupting the youth.
-Socrates: But Meno, that's ridiculous. I mean, if you wanted to grow two
-  feet taller, you'd have a very difficult time doing it. But if you want
-  to think new things, you can do that without any effort. So don't you
-  think it's much easier to change your mind than it is to change your body?
+Socrates: But Meno, that's ridiculous. All I have ever done to the youths
+  is inspire them to think a little. But anyone can think anything they
+  want, and then turn around and unthink it just as easily.
 Meno: YES.
 Socrates: And all these things we've been saying are just idle thoughts,
-  aren't they? You could ponder these things all day and night. But trying
-  to change your hair color or your eye color by pondering the kind of things
-  we're discussing, would be totally futile and impossible, wouldn't it?
+  aren't they? You could ponder these things all day and night, and then
+  the very next day, you could ponder the exact opposite.
 Meno: YES.
 Socrates: So one cannot corrupt the youth just by contemplating thoughts
   together with them. For they can change their thoughts as easily as you
@@ -384,6 +382,42 @@ Meno: YES.
 Socrates: And changing people's thoughts is like writing Greek on the surface
   of the water. The water is so pliable you can write on it with your finger.
   But the instant that you've written it, your writing disappears, doesn't it?
+Meno: YES.
+Socrates: In fact, isn't that what Thales meant, when he said that everything
+  is made out of water?
+Meno: I don't know, Socrates. I have read Thales's book, but I could never
+  understand that part of it. For the world contains things like stone and
+  metal, which do not seem to be made of water.
+Socrates: I always thought that Thales was talking about the impossibility of
+  leaving a lasting impression anywhere. Aren't all the writings of the ancients
+  long lost?
+Meno: YES.
+Socrates: And perhaps even the writings of Thales will be lost someday, isn't
+  that possible?
+Meno: It seems hard to imagine that the writings of such a great mind as Thales
+  could ever be lost, Socrates.
+Socrates: Not even in a thousand years?
+Meno: By your own arguments from our previous encounter, Socrates, nothing is
+  ever really lost. It's just forgotten.
+Socrates: You have defeated me by my own argument, Meno. Very clever.
+  Perhaps Thales was wrong, or I was wrong in how I interpreted him.
+  If only he were here, that we could question him! Maybe the world is
+  not all made of water, maybe there really is something permanent
+  and substantial in a human, besides just the thoughts of the mind.
+Meno: Well, yes, Socrates. Humans have physical bodies, you know.
+Socrates: And those physical bodies can be corrupted?
+Meno: YES.
+Socrates: But not by mere thought, surely? I mean, if you wanted to make yourself
+  two feet taller, it would be quite difficult to do that merely by thinking
+  thoughts, wouldn't it?
+Meno: YES.
+Socrates: But if you merely want to think new things, you can do that without
+  any effort. So don't you think it's much easier to change your mind than it
+  is to change your body?
+Meno: YES.
+Socrates: Whereas trying to change your hair color or your eye color by
+  pondering the kind of things we're discussing, would be totally futile
+  and impossible, wouldn't it?
 Meno: YES.
 Socrates: So to really corrupt the youth, you'd have to corrupt their bodies,
   not their minds. Wouldn't you?
