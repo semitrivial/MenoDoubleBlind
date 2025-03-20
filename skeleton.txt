@@ -716,10 +716,10 @@ Socrates: So the program we are looking for begins with "im". Very good.
   knew those two... "p"... yes, yes... Done! The program you have written
   is:
     import random as a
+    p=input("password: ")
     z,x,j=", yo ooned","""ntey''tf ' ti
     d.anispp }r
     'rtd)ascs pitpo{'a(ns'wr.'ew""","".join
-    p=input("password: ")
     a.seed(p)
     if j(a.sample(p,len(z)))==z:
      d=list(range(len(x)))
