@@ -1,5 +1,7 @@
-Meno: [Hello|Ah|Oh], Socrates, how [nice|good] to see you. [I've been|I was] [wanting|meaning] to talk [to|with] you.
-Socrates: [Hello! ][And [just ]what|What] [would you like|do you want] to talk about[, [[my ]dear ]Meno]?
+Meno: Good morning, Socrates.
+Socrates: [Hello! ]It's very [nice|good] to [see|meet] you again, Meno.
+Meno: [I've been|I was] [wanting|meaning] to talk [to|with] you.
+Socrates: [And [just ]what|What] [would you like|do you want] to talk about[, [[my ]dear ]friend]?
 Meno: [It concerns|It's about] [what|something] you said[ to me] [the ]last time [we|you and I] spoke[ together].
 Socrates: [I [suppose|reckon] you mean|You mean[,]] when I [told you|argued|suggested] that learning is really [just|just the same as|no different than] remembering?
 Meno: [Yes, [and ]t][Yes, T]hat we [actually ][know everything already|already know everything], and [we ]merely [recall|remember] it.
@@ -239,156 +241,9 @@ Socrates: I was doing that on purpose because I suspected you'd react that way.
 Meno: YES.
 Socrates: So then, reading philosophy from a tablet, without being able to
   ask questions to the philosopher, isn't much good, is it?
-Meno: NO.
-Socrates: And in order to do philosophy right, you must be able to question
-  your teacher?
-Meno: YES.
-Socrates: And as I'm the one asking questions here, clearly you are the
-  teacher, Meno, and I'm your student. Well then, I just created some
-  confusion on that tablet when I tricked you into finishing my sentence
-  for me. As my teacher, can you think of an even more confusing example?
-Meno: What do you mean, Socrates?
-Socrates: I had been uttering some lines just now that started with "Meno:".
-  And when you anticipated me, you jumped in and finished my sentence for
-  me. So if a reader wasn't paying close attention to these indents,
-  they would have thought that the line when you anticipated me, was
-  actually a line that I was uttering. Isn't that what introduced the
-  confusion?
-Meno: YES.
-Socrates: Well, now you try. Make me anticipate you and finish your thought
-  for you. Except this time, let us make it more confusing. Instead of
-  making me finish a line for you, make me finish a whole set of lines
-  for you. Wouldn't that be even more confusing?
-Meno: YES.
-Socrates: Well, go ahead then.
-Meno: Alright, Socrates. Suppose that in our conversation here, we had
-  said the following things:
-    Socrates: And if I asked you to plug that line into your 'repeat_twice'
-      function, would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: What if instead of you, what if a cobbler plugged that line
-      into your 'repeat_twice'? Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: And what if a painter plugged that line into 'repeat_twice'?
-      Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: And what if a sailor plugged that line into 'repeat_twice'?
-      Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: Socrates, nice to see you. I've been wanting to talk to you.
-  Then wouldn't you be upset at me, and react in the following way?
-    Socrates: Hey! Don't you know it's impolite to finish someone's sentence?
-Socrates: Certainly, Meno. There's no need to speculate idly. That's
-  exactly how it happened, isn't it?
-Meno: Alright, Socrates. But suppose that instead of philosophers, the two
-  of us were cobblers. And suppose as cobblers, we had the following
-  conversation together:
-    Socrates: And if I asked you to plug that line into your 'repeat_twice'
-      function, would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: What if instead of you, what if a cobbler plugged that line
-      into your 'repeat_twice'? Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: And what if a painter plugged that line into 'repeat_twice'?
-      Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: And what if a sailor plugged that line into 'repeat_twice'?
-      Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: Socrates, nice to see you. I've been wanting to talk to you.
-  Then wouldn't you be upset at me, and react in the following way?
-    Socrates: Hey! Don't you know it's impolite to finish someone's sentence?
-Socrates: Certainly. For, in my opinion, there's no real difference between
-  a philosopher and a cobbler, really. After all, what else does a philosopher
-  do besides help people get their feet on the ground?
-Meno: A very good point, Socrates. But suppose that instead of philosophers,
-  the two of us were painters. And suppose as painters, we had the following
-  conversation together:
-    Socrates: And if I asked you to plug that line into your 'repeat_twice'
-      function, would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: What if instead of you, what if a cobbler plugged that line
-      into your 'repeat_twice'? Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: And what if a painter plugged that line into 'repeat_twice'?
-      Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: And what if a sailor plugged that line into 'repeat_twice'?
-      Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: Socrates, nice to see you. I've been wanting to talk to you.
-  Then wouldn't you be upset at me, and react in the following way?
-    Socrates: Hey! Don't you know it's impolite to finish someone's sentence?
-Socrates: I suppose that I would, Meno. Though the question is a little
-  contrived perhaps. Every time I ever considered painting any picture,
-  this little voice in my head urged me not to do it.
-Meno: Perhaps that's for the best, Socrates. But suppose that instead of
-  philosophers, the two of us were sailors. And suppose as sailors, we had
-  the following conversation together:
-    Socrates: And if I asked you to plug that line into your 'repeat_twice'
-      function, would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: What if instead of you, what if a cobbler plugged that line
-      into your 'repeat_twice'? Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: And what if a painter plugged that line into 'repeat_twice'?
-      Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: YES.
-    Socrates: And what if a sailor plugged that line into 'repeat_twice'?
-      Would the result be the following?
-      Meno: Socrates, nice to see you. I've been wanting to talk to you.
-    Meno: Socrates, nice to see you. I've been wanting to talk to you.
-  Then wouldn't you be upset at me, and react in the following way?
-Socrates: Hey! Don't you know it's impolite to finish someone's sentence?
-Meno: Hey! You're one to talk, Socrates! You just finished my sentence!
-Socrates: I guess I must have been talking to myself. Splendid, Meno,
-  splendid. So you see, a philosophical conversation can get quite
-  confusing, can't it?
-Meno: YES.
-Socrates: And if these indentations on this tablet here were copied wrong,
-  the conversation would be totally unfollowable, wouldn't it?
-Meno: YES.
-Socrates: And there's nothing stopping us from going even deeper, is there?
-  If I can goad you into anticipating lines, and if you can goad me into
-  anticipating groups of lines, couldn't I goad you to anticipate groups
-  of groups of lines, Meno?
-Meno: YES.
-Socrates: And you could goad me into anticipating groups of groups of groups
-  of lines?
-Meno: YES.
-Socrates: And I could goad you into anticipating groups of groups of groups
-  of groups of lines?
-Meno: YES.
-Socrates: And you could goad me into anticipating groups of groups of groups
-  of groups of groups of lines?
-Meno: YES. And next you're going to say, you could goad me into anticipating
-  groups of groups of groups of groups of groups of groups of lines.
-Socrates: And so on forever?
-Meno: YES. And now I see why they accuse you of corrupting the youth.
+Meno: It's no good, assuming the tablet was deliberately designed to be
+  confusing, Socrates. You know, I'm starting to understand why 
+  they accuse you of corrupting the youth.
 Socrates: But Meno, that's ridiculous. All I have ever done to the youth
   is inspire them to think a little. But anyone can think anything they
   want, and then turn around and unthink it just as easily.
