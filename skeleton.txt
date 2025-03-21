@@ -1,9 +1,3 @@
-Todo:
-  *Add material about memorizing things in order to inhabit the
-    intelligible world
-  *Add material about poetry preserving language
-
-
 Meno: [Hello|Ah|Oh], Socrates, how [nice|good] to see you. [I've been|I was] [wanting|meaning] to talk [to|with] you.
 Socrates: [Hello! ][And [just ]what|What] [would you like|do you want] to talk about[, [[my ]dear ]Meno]?
 Meno: [It concerns|It's about] [what|something] you said[ to me] [the ]last time [we|you and I] spoke[ together].
@@ -13,7 +7,29 @@ Socrates: [And ]I suppose you've [come up with|invented|contrived|discovered] so
 Meno: Quite. Once we finish this [delightful ][discussion|conversation] [we're|we are] [having|currently having|having right now], don't you think [that then ][I will|I'll] know [all ]the [various ]things we [will have ]said[ in it]?
 Socrates: You mean, know the conversation?
 Meno: [Right|Yes|Exactly|Precisely]. [After|Once|As soon as] [we're [done|finished]|we [finish|part ways]], [I'll|I will|I shall] [then ]know [the things|what] we said. [That is|In other words], [I will|I shall|I'll] [have learned it|then have learned it][, [wouldn't|don't] you [say|think|agree]?|.]
-Socrates: I reckon so, Meno. Just like just now, you learned [my [answer|response] [was|would be]|[that ]I[ ([Socrates|your conversation partner])] [was going to|would|was destined to] [say|answer|reply|respond]][[:|,]|as follows:] 'I reckon so, Meno'.
+Socrates: I'm not sure about that, Meno. I often find I mis-remember conversations,
+  or, even worse, when I think that I remember them and understand them, it turns
+  out I either remember wrong, or understand wrong. Besides that, your question
+  makes me uneasy, for I feel as if I am in danger of falling into a trap somehow.
+Meno: What! Does the great Socrates have trouble with his memories?
+Socrates: I often wish I had greater memory, Meno. For I feel sometimes as though
+  I flit between two worlds. One is intelligible and beautiful, the other is
+  sensible and profane. For example, when my house is well organized, and I
+  remember where I have put everything, it is as if I dwell in a house created by
+  the geometers, for I can find my shirt or my shoes by an act of pure thinking.
+  But more often, my house is not organized, and I must grope around for my
+  shirt or my shoes, and I feel as if I'm cast out of that house of the geometers,
+  and plunged into a carnal house of the senses.
+Meno: Well, I, for one, take pride in my house always being organized. For I have
+  servants who organize it for me. And, look here: I have a servant writing this
+  conversation on a stone tablet, here. You know him, Socrates: he is the same boy
+  you conversed with about geometry the last time you visited. I treasure your
+  words like gold, Socrates, and I will preserve them, and guard them, the same way
+  I would treat a great treasure.
+Socrates: You flatter me very greatly, Meno. But I suspect you're just saying that
+  because you want to catch me in some trap. Very well, Meno. For the sake of the
+  argument, I grant that after we have this conversation, you shall have learned
+  it.
 Meno: Well then, doesn't that mean [that ]I already [know|knew] it, and [have only|had only|needed only|only needed|only had|only have] to [remember|recall][ it]?
 Socrates: Yes, I grant that, Meno. [Even|Long] before [you were born|your mother gave birth to you], you already knew I would say[ the words][,] 'Yes, I grant that, Meno'[.|[,] [which I said ]just [now|a second ago].]
 Meno: Well then, [dear ]Socrates, [I have|I propose|[I'd like|I want] to [pose|propose]] a challenge for you. [With|Using] your [in]famous method of [questioning|asking questions], please [help|guide] me to [remember|recall] [all [of ]the things|everything] [[we're|we are] going to|we will|we'll|we shall] say in this dialogue[ we're having| we're engaged in]. That is, if [you are able to|you can]. But I doubt [it|you can[ do it]].
@@ -393,9 +409,13 @@ Socrates: In fact, I always assumed that's what Thales meant, when he said
   that everything is made of water. He meant that, in time, all the impressions
   we make on the world fade, as if we inscribed them on the face of the sea.
   You could not corrupt the Aegean by writing on its surface, no matter how
-  scandalous the things you wrote there; neither could you ever corrupt a man
-  just by writing thoughts in his mind.
-Meno: But surely you do admit some corrupt youth exist, don't you, Socrates?
+  scandalous the things you wrote there. Even language itself changes. And we
+  attempt to nail that down, by imposing sharp constraints on it in the form
+  of poetry. But over long enough time, even that fails, and it's like trying
+  keep the tide from going out by nailing the water to the shoreline. In the
+  same way, I believe you could never corrupt a man just by writing thoughts
+  into his mind, Meno.
+Meno: But surely you do admit some corrupt youths exist, don't you, Socrates?
 Socrates: I admit it.
 Meno: Then how could any youth be corrupted, if not through their minds?
 Socrates: Youths have physical bodies, too, besides just their minds, don't they?
@@ -717,24 +737,26 @@ Socrates: So the program we are looking for begins with "im". Very good.
   is:
     import random as a
     p=input("password: ")
-    z,x,j=", yo ooned","""ntey''tf ' ti
+    z,x=", yo ooned","""ntey''tf ' ti
     d.anispp }r
-    'rtd)ascs pitpo{'a(ns'wr.'ew""","".join
-    a.seed(p)
-    if j(a.sample(p,len(z)))==z:
-     d=list(range(len(x)))
-     a.shuffle(d)
-     exec(j(x[i]for i in d))
-  Now, Meno! Run the computer program! What does it say... or rather,
-  what do you say, upon seeing the output? I understand you are going
-  to say the exact opposite of whatever it says you are going to say,
-  in order to humiliate me. What's the matter? Why do you not speak,
-  Meno? The suspense is unbearable! Say what it predicts you'll say
-  or else say the opposite, Meno, but say something! Why do you not
-  speak, my friend? You behave like the sophistical men whom I talk to,
-  when they are unable to answer my questions and find themselves in a
-  kind of trance. Are you for some reason unable to discern what
-  the program predicts you will say?
+    'rtd)ascs pitpo{'a(ns'wr.'ew"""
+    d,j=list(range(len(x))),"".join
+    _,c=a.seed(p),j(a.sample(p,len(z)))
+    a.shuffle(d)
+    if c==z:exec(j(x[i]for i in d))
+  And if, against all odds, this little program does predict you,
+  Meno, then I find it beautiful for its sheer compactness, and I
+  wonder how much more compact it could have been if we'd been
+  more pressed for time in this conversation of ours. Run the
+  program now, Meno! What does it say... or rather, what do you say,
+  upon seeing the output? I understand you plan to say the exact
+  opposite of whatever it says you are going to say,
+  in order to humiliate me. What's wrong? Why are you quiet,
+  Meno? The suspense! Say what the program predicts you'll say,
+  or else say the opposite, Meno, but say something! You behave like
+  the sophistical men I talk to, when my innocent questions put them
+  in some kind of trance. Are you for some reason unable to discern
+  what the program predicts you will say?
 Meno: It wants a password.
 Socrates: So now the question is whether or not the program predicted
   what you would say when you ran it. And what you said when you ran
