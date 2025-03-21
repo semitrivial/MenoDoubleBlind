@@ -3,7 +3,7 @@ raw = raw.replace(" ","")
 raw = raw.replace("\n", "")
 want = open('coded.py', 'r').read()
 
-BLOCK_SIZE = 100
+BLOCK_SIZE = 200
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet += """ (){}[]:'"=,_!|\n\\"""

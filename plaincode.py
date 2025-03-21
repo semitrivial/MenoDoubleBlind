@@ -1,8 +1,8 @@
 import random as a
 p=input("password: ")
-z,x=", yo ooned","""print(f'''it wants a password.
+z,x=", yo ooned","""print('''it wants a password.
 it's encrypted.
-{p}''')"""
+'''+p)"""
 d,j=list(range(len(x))),"".join
 _,c=a.seed(p),j(a.sample(p,len(z)))
 a.shuffle(d)
