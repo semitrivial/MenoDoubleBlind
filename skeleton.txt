@@ -9,10 +9,7 @@ Socrates: [And ]I suppose you've [come up with|invented|contrived|discovered] so
 Meno: Quite. Once we finish this [delightful ][discussion|conversation] [we're|we are] [having|currently having|having right now], don't you think [that then ][I will|I'll] know [all ]the [various ]things we [will have ]said[ in it]?
 Socrates: You mean, know the conversation?
 Meno: [Right|Yes|Exactly|Precisely]. [After|Once|As soon as] [we're [done|finished]|we [finish|part ways]], [I'll|I will|I shall] [then ]know [the things|what] we said. [That is|In other words], [I will|I shall|I'll] [have learned it|then have learned it][, [wouldn't|don't] you [say|think|agree]?|.]
-Socrates: I'm not sure about that, Meno. I often find I mis-remember conversations,
-  or, even worse, when I think that I remember them and understand them, it turns
-  out I either remember wrong, or understand wrong. Besides that, your question
-  makes me uneasy, for I feel as if I am in danger of falling into a trap somehow.
+Socrates: I'm not [really ][so ][sure|certain] [about|of] that[, Meno]. [I often|More often than not, I] [find|realize] I mis-remember conversations, or, [what's|even] worse, when I think [that ]I remember [them ]and understand them, [and then ]it [later |eventually |sometimes |][turns out|happens] [that] I [either] remember wrong, or understand wrong. Besides[ that], [your question|this question of yours] makes me [a little ][uneasy|nervous], for I feel as if I am in danger of falling into a trap somehow.
 Meno: What! Does the great Socrates have trouble with his memories?
 Socrates: I often wish I had greater memory, Meno. For I feel sometimes as though
   I flit between two worlds. One is intelligible and beautiful, the other is
