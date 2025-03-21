@@ -1,5 +1,5 @@
 Meno: Good morning, Socrates.
-Socrates: [Hello! ]It's very [nice|good] to [see|meet] you again, Meno.
+Socrates: Good morning to you, Meno, my friend.
 Meno: [I've been|I was] [wanting|meaning] to talk [to|with] you.
 Socrates: [And [just ]what|What] [would you like|do you want] to talk about[, [[my ]dear ]friend]?
 Meno: [It concerns|It's about] [what|something] you said[ to me] [the ]last time [we|you and I] spoke[ together].
@@ -45,24 +45,34 @@ Meno: Exactly. Or suppose that you help me remember all the things we're going
   'You win, Socrates!', I will say, 'You lose, Socrates!'. Nor will I be lying,
   because my very saying 'You lose, Socrates!' will prove that you lost, because
   if the memory you made me remember was accurate, I would have said 'You win'.
+Socrates: But what if I help you remember all the things we're going to say,
+  and, as a part of that, in particular, you remember that as soon as I finish
+  thus helping you, you will say, 'You lose, Socrates!' Then, according to your
+  plan, you will say the opposite, which is, 'You win, Socrates!' Won't I then
+  have won, by your own admission, Meno?
+Meno: No, Socrates. The purpose of this challenge is not for you to get
+  me to say the words, "You win, Socrates!" Rather, the purpose of this challenge
+  is for you to guide me to remember what I'm going to say, whether that's
+  "You lose, Socrates!" or "You win, Socrates!", it doesn't matter. And when I
+  intentionally say the opposite of what I remember I was going to say, then
+  you lose the challenge, Socrates, whether that opposite statement is "You win,
+  Socrates!" or "You lose, Socrates!"
 Socrates: Very well. This is a fun challenge. And I think if I'm to have any
   hope at succeeding, I will need to resort to computer programming.
-Meno: YES. For this is obviously closely related to things like Kleene's
-  recursion theorem and so on. But even computer programming won't rescue you
-  from my paradox.
+Meno: YES. For this is obviously closely related to things like the recursion theorem and the incompleteness theorem and so on. But even computer programming won't rescue you from my paradox.
 Socrates: We'll see. But if I do succeed at this challenge, that would be quite
   impressive, wouldn't it?
 Meno: YES.
-Socrates: And the reason you it would be impressive is because I helped you
+Socrates: And the reason it would be impressive is because I helped you
   predict the very future, right?
 Meno: YES.
 Socrates: Would it be equally impressive if I helped you remember the past? For
   example, if I helped you remember that you started this conversation by saying
-  'Ah, Socrates, how nice to see you'?
+  'Good morning, Socrates'?
 Meno: NO.
 Socrates: Well then, by Olympus, wouldn't it at least be impressive if I helped
   you remember a large amount of the past? For example, if I helped you remember
-  this whole entire conversation from 'Ah, Socrates, how nice to see you', all
+  this whole entire conversation from 'Good morning, Socrates', all
   the way up to 'Well then, by Olympus'? Wouldn't that be impressive?
 Meno: NO.
 Socrates: So what you've said in the past is, in some sense, trivial?
@@ -78,15 +88,13 @@ Socrates: But if I invoked something trivial, that would be fine, right?
   For example, if, as part of my questioning, I remind you that we are standing
   in Athens, that would be perfectly reasonable, right?
 Meno: YES.
-Socrates: So for example, suppose I ask you: take the first two sentences you
-  said to me, and repeat them to me again right now, and then afterward, please
-  repeat them to me again a second time. And suppose I claimed that, by doing so
+Socrates: So for example, suppose I ask you: take the first sentence you
+  said to me, and repeat it to me again right now, and then afterward, please
+  repeat it to me again a second time. And suppose I claimed that, by doing so
   you would recite our entire conversation. Would I be right?
 Meno: NO.
 Socrates: Why not?
-Meno: Well, suppose I did exactly that. Then I would say: 'Ah, Socrates, how
-  nice to see you. I've been wanting to talk to you. Ah, Socrates, how
-  nice to see you. I've been wanting to talk to you.'
+Meno: Well, suppose I did exactly that. Then I would say: 'Good morning, Socrates. Goodmorning, Socrates.'
 Socrates: Well, wouldn't that be a conversation? Albeit, a bit one-sided?
 Meno: YES.
 Socrates: But I would be wrong when I claimed that that one-sided conversation
@@ -121,11 +129,11 @@ Socrates: Because the content of the resulting conversation would not equal
 Meno: Yes. For example, in the resulting conversation, you would say:
   '...up until I said the word octopus'. And then I would say (because at
   that point I would have finished the first repetition and start in on the
-  second one): 'Ah, Socrates, how nice to meet you...'
+  second one): 'Good morning, Socrates.'
 Socrates: Whereas, in our actual conversation, after I said the word octopus,
-  you did not immediately say 'Ah, Socrates, how nice to meet you'?
+  you did not immediately say 'Good morning, Socrates'?
 Meno: YES.
-Socrates: Then I shall have to think of a more clever method. But first,
+Socrates: Then we shall have to think of a more clever method. But first,
   let's consider the example more deeply. Let X denote our entire conversation
   up until, and including, when I said the word octopus. And suppose I wanted
   to ask you to repeat X to me, and then to repeat X to me a second time. Can
@@ -136,8 +144,8 @@ Meno: Certainly. That's easy. How about this?
     print(X)
 Socrates: So then, if I asked you to take the first sentence you said to me,
   and plug it in to 'repeat_twice', the resulting output would be as follows?
-  Ah, Socrates, how nice to meet you.
-  Ah, Socrates, how nice to meet you.
+  Good morning, Socrates.
+  Good morning, Socrates.
 Meno: YES.
 Socrates: What if I asked you to take the nineteenth sentence you said to me,
   and plug that into 'repeat_twice'? What would the result be?
@@ -154,14 +162,11 @@ Meno: YES.
 Socrates: But isn't your servant writing some other things here? Look. He
   writes 'Meno:' whenever you begin talking. He writes 'Socrates:' when I do.
 Meno: YES.
-Socrates: We have a very serious problem, then. Look at the tablet right here.
-  It says: 'But what you'll say in the future, is deep and mysterious? Meno:'
-  Now I can't remember. Did I say 'Meno:' immediately after I said 'mysterious'?
-  Or does 'Meno:' here mean that you started talking?
-Meno: I believe it means that I began talking. I don't think you literally said
-  'mysterious Meno'.
+Socrates: We have a very serious problem, then. Look at the tablet right here, near the very top. It says: 'Good morning to you, Meno, my friend. Meno:' Now I can't remember. Did I say 'Meno:' immediately after I said 'Good morning to you, Meno, my friend'? Or does 'Meno:' here mean that you started talking?
+Meno: I believe it means that I started talking. I don't think you literally said
+  'Meno, my friend, Meno'.
 Socrates: But look here, near the bottom. It says, quote: Did I say 'Meno:'
-  immediately after I said 'mysterious'? Unquote. Well then. I know it was me
+  immediately after I said 'Good morning to you, Meno, my friend'? Unquote. Well then. I know it was me
   who said 'Did I say', but who said 'immediately'? Which one is it? Did
   Socrates say, 'Did I say Meno: immediately after...'? Or did I say 'Did I say'
   and then Meno jumped in and said 'immediately after'?
@@ -179,69 +184,62 @@ Socrates: And your challenge is quite hopeless. For if I claim to remind you
 Meno: NO.
 Socrates: But maybe we can modify the challenge. Do you at least know what
   is written on the tablet? For example, that the very first letter on the
-  tablet is 'M'?
+  tablet is 'G'?
 Meno: YES.
-Socrates: Then maybe instead of helping you to recall our whole conversation
-  (past, present, and future), I could instead help you to recall the whole
-  contents of the tablet (past, present, and future). Your little paradox
+Socrates: Then maybe instead of helping you to recall our future conversation,
+  I could instead help you to recall the future
+  contents of the tablet. Your little paradox
   would still apply, wouldn't it?
 Meno: YES.
-Socrates: That is, as soon as I remind you of the whole contents of the
-  tablet (past, present, and future), you could immediately say something
-  not included in those contents, and thus deliberately prove me wrong?
+Socrates: And I wouldn't even need to help you recall my own future contributions to the tablet, would I? Wouldn't you say I won if I could just help you recall your future contributions to the tablet?
+Meno: I'm not sure what you mean exactly by that, Socrates.
+Socrates: Let me give you an example. Suppose I helped you to remember that your own future contributions to the tablet would be:
+  Wow!
+  You win, Socrates!
+And suppose that immediately after I so helped you, you said, "Wow!" And then suppose I said, "Do I win, Meno?" And then you said, "You win, Socrates!" In that scenario, would you grant me victory? Even though I did not help you remember my future contributions, namely "Do I win, Meno?", but only your own contributions?
+Meno: I suppose I would grant you victory in that case, Socrates.
+Socrates: Then suppose I announce: "Meno's next contribution to the tablet shall be 'You win, Socrates.' Meno: You win, Socrates." That is to say, first, I announce that Meno's next contribution on the tablet will be, "You win, Socrates". At that point, I suppose you'll want to pipe in and say "You lose, Socrates". But before you have a chance to do that, I quickly say, "Meno: You win, Socrates". Wouldn't I win then?
+Meno: That would be cheating, Socrates. You know they say, only a fool puts words in other people's mouths. We would both know that you had cheated and had not won. And before you say that someone reading this tablet here would think you had won, because they were confused by your linguistic trick, the truth is, not even a reader of the tablet after the fact would think you won. And that's because your challenge is not to help me remember a little part of my future contributions to the tablet. Your challenge is to help me remember all of my future contributions to the tablet, and in the correct order, too. So in that example of yours, after you say "You win, Socrates. Meno: You win, Socrates," I would say, "You cheat, Socrates." And then even to someone reading the tablet, who was not here in person, they would know you did not win. Because they would see that I contributed the words, "You cheat, Socrates" to the tablet, and you did not predict those.
+Socrates: You are very cunning, Meno. I think not even Ulysses could trick you.
+Meno: Why do you say that, Socrates?
+Socrates: Do you remember how Ulysses tricked Polyphemus, the cyclops? He lied to
+  Polyphemus, he said his name was Noman. Then when Polyphemus's friends came
+  and asked if some man was slaying him, Polyphemus said, 'Noman is
+  slaying me.' Didn't Ulysses do that on purpose, so that the cyclops's friends would misunderstand and think Polyphemus had said "No man is slaying me"? Isn't that exactly the kind of syntactical-semantical confusion you have so effortlessly avoided just now?
 Meno: YES.
-Socrates: Since we can't tell who said what when from our tablet, I think
-  instead of talking about sentences or words on the tablet, we should talk
-  about lines, and characters. Those make more sense, don't they?
-Meno: YES.
-Socrates: And didn't Homer teach us the importance of distinguishing syntax
-  from semantics like this?
-Meno: What do you mean, Socrates?
-Socrates: Isn't that how Ulysses fooled Polyphemus, the cyclops? He lied to
-  Polyphemus, he said his name was Noman. So when Polyphemus's friends came
-  and asked if some man was slaying him, he said, 'It is Noman that is
-  slaying me.' Isn't that exactly the kind of confusion we must avoid, Meno?
-Meno: YES.
-Socrates: You challenged me to teach you to predict this very dialog. Don't
-  you see now how unfair that is? Don't you see you should have challenged
-  me to teach you to predict the lines, the spaces, the characters?
-Meno: YES.
-Socrates: And the first line of the tablet is, 'Meno: Ah, Socrates, how nice
-  to see you. I've been wanting to talk to you.'?
+Socrates: I think this challenge is very difficult, and I almost want to give up, except a voice in my head compels me not to do that. Certainly this task is beyond my own power, and I can only hope that it is within your power, Meno. So I will ask you questions and we will see whether you can figure out how to defeat yourself in this challenge, though I daresay you have a conflict of interest in the matter. Let us start from the beginning. Doesn't the first line on this tablet say, "Meno: Good morning, Socrates."?
 Meno: YES.
 Socrates: And if I asked you to plug that line into your 'repeat_twice'
   function, would the result be the following?
-  Meno: Ah, Socrates, how nice to see you. I've been wanting to talk to you.
-  Meno: Ah, Socrates, how nice to see you. I've been wanting to talk to you.
+  Meno: Good morning, Socrates.
+  Meno: Good morning, Socrates.
 Meno: YES.
 Socrates: What if instead of you, what if a cobbler plugged that line
   into your 'repeat_twice'? Would the result be the following?
-  Meno: Ah, Socrates, how nice to see you. I've been wanting to talk to you.
-  Meno: Ah, Socrates, how nice to see you. I've been wanting to talk to you.
+  Meno: Good morning, Socrates.
+  Meno: Good morning, Socrates.
 Meno: YES.
 Socrates: And what if a painter plugged that line into 'repeat_twice'?
   Would the result be the following?
-  Meno: Ah, Socrates, how nice to see you. I've been wanting to talk to you.
-  Meno: Ah, Socrates, how nice to see you. I've been wanting to talk to you.
+  Meno: Good morning, Socrates.
+  Meno: Good morning, Socrates.
 Meno: YES.
 Socrates: And what if a sailor plugged that line into 'repeat_twice'?
   Would the result be the following?
-  Meno: Ah, Socrates, how nice to see you. I've been wanting to talk to you.
-Meno: Ah, Socrates, how nice to see you. I've been wanting to talk to you.
+  Meno: Good morning, Socrates.
+Meno: Good morning, Socrates.
 Socrates: Hey! Don't you know it's impolite to finish someone's sentence for
   him?
 Meno: I'm sorry, Socrates. It's just that you were being rather predictable.
 Socrates: I was doing that on purpose because I suspected you'd react that way.
   You see, I wanted to show you something. Look on the tablet near the bottom
-  here, where you finished my sentence for me. Don't you think someone could
+  here, where you finished my sentence for me just now. Don't you think someone could
   get very confused reading this?
 Meno: YES.
 Socrates: So then, reading philosophy from a tablet, without being able to
   ask questions to the philosopher, isn't much good, is it?
-Meno: It's no good, assuming the tablet was deliberately designed to be
-  confusing, Socrates. You know, I'm starting to understand why 
-  they accuse you of corrupting the youth.
-Socrates: But Meno, that's ridiculous. All I have ever done to the youth
+Meno: Sure it's no good, Socrates, provided the tablet was deliberately designed to be confusing! You know, I'm starting to understand why they accuse you of corrupting the youth.
+Socrates: Meno, that's a ridiculous rumour. All I have ever done to the youth
   is inspire them to think a little. But anyone can think anything they
   want, and then turn around and unthink it just as easily.
 Meno: YES.
@@ -250,12 +248,12 @@ Socrates: And all these things we've been saying are just idle thoughts,
   the very next day, you could ponder the exact opposite.
 Meno: YES.
 Socrates: So one cannot corrupt the youth just by contemplating thoughts
-  together with them. For one can change their one's thoughts just as easily
-  as once can imagine a mountain of gold, don't you agree?
+  together with them. For one can change one's thoughts just as easily
+  as one can imagine a mountain of gold, don't you agree?
 Meno: YES.
 Socrates: And changing people's thoughts is like writing Greek on the surface
-  of the water. The water is so pliable you can write on it with your finger.
-  But the instant that you've written it, your writing disappears, doesn't it?
+  of the water. The water is so pliable you can write on it with your bare finger.
+  But the instant that you've written there, your writing disappears, doesn't it?
 Meno: YES.
 Socrates: In fact, I always assumed that's what Thales meant, when he said
   that everything is made of water. He meant that, in time, all the impressions
@@ -263,13 +261,13 @@ Socrates: In fact, I always assumed that's what Thales meant, when he said
   You could not corrupt the Aegean by writing on its surface, no matter how
   scandalous the things you wrote there. Even language itself changes. And we
   attempt to nail that down, by imposing sharp constraints on it in the form
-  of poetry. But over long enough time, even that fails, and it's like trying
-  keep the tide from going out by nailing the water to the shoreline. In the
+  of poetry. But over long enough time, even that fails, and it's like trying to
+  keep the tide from going out by nailing the water to the sand. In the
   same way, I believe you could never corrupt a man just by writing thoughts
   into his mind, Meno.
 Meno: But surely you do admit some corrupt youths exist, don't you, Socrates?
 Socrates: I admit it.
-Meno: Then how could any youth be corrupted, if not through their minds?
+Meno: Then how could any youth be corrupted, if not through his mind?
 Socrates: Youths have physical bodies, too, besides just their minds, don't they?
 Meno: YES.
 Socrates: So to really corrupt the youth, you'd have to corrupt their bodies,
@@ -343,23 +341,22 @@ Socrates: Because the youth's eyes were damaged? Or because of the thoughts
   in the youth's head?
 Meno: Because the youth's eyes were damaged, obviously.
 Socrates: So then, there is no danger of me corrupting you, Meno, merely by
-  making you think about groups of lines and groups of groups of lines, is
-  there?
+  making you think about lines of text on a tablet, is there?
 Meno: NO.
 Socrates: In that case, let's proceed. For the last thing I would ever want
   to do to you is corrupt you, dear Meno.
 Meno: Yes, Socrates, let's get back to the issue at hand. I don't want you
-  to dodge my challenge by going off on wild tangents. Let me remind you of
+  to dodge my challenge by going off on some wild tangent. Let me remind you of
   your precarious position. You claimed, last time we met, that there is no
   such thing as learning, rather, there is only remembering. I have pointed
   out that by that logic, I already know all the contents of this conversation
   we are having. And I have challenged you to help me remember those contents.
   And you are stuck, for if you succeed in this challenge, I shall immediately
-  say the very opposite of what you make me remember I was about to say next.
+  say the very opposite of what you help me remember I was about to say next.
 Socrates: Thank you, dear Meno, for holding me accountable.
 Meno: Let's get on with it, then.
 Socrates: Yes, we must proceed. Well, then, suppose instead of handing you the
-  first two lines of this conversation as X, suppose I handed you the whole
+  first line of this conversation as X, suppose I handed you the whole
   conversation as X, up until I said 'Yes, we must proceed'. And
   suppose I wanted your function to output the first five characters.
   What would it output?
@@ -385,9 +382,11 @@ Meno: Sure. Here's the modified version:
     print(X[:10])
 Socrates: And if we changed "ten" to "fourty", what would your function
   output?
-Meno: It would output: "Meno:Goodmorning,Socrates!Socrates:Ah,Me".
-Socrates: Oh, now I understand what you mean about removing line-breaks.
-  I think we're making progress. We are not limited to printing fragments
+Meno: It would output "Meno:Goodmorning,Socrates.Socrates:Goodm".
+Socrates: And it's a good thing we removed the linebreaks, for otherwise it would have output the following:
+  Meno:Goodmorning,Socrates.
+  Socrates:Good
+And I think that would be much harder to work with. So I think we're making progress. We are not limited to printing fragments
   of earlier conversation directly, are we? We can transform those
   fragments first, before printing them, can't we? For example, you could
   write a program that prints the first ten characters of the conversation,
@@ -428,7 +427,7 @@ Socrates: It is not I who have the choice to give up or continue, Meno,
   performing calculations that are invisible to me. And in the context of
   computer programming, what do we call something that does things that way,
   performing scratch-work in the background to calculate what it will
-  output next?
+  do next?
 Meno: We call that a program, Socrates.
 Socrates: Well, let me change my approach then. Suppose I described some
   elaborate transformation. And suppose you performed that transformation
@@ -452,7 +451,8 @@ Socrates: What about the following scenario? Suppose I described a transformatio
   and you performed that transformation on this conversation so far, from the start
   until the moment when I said, "What about the following scenario?" And suppose
   the output was:
-    if socrates_statement == "What do you think?":
+    socrates_line = input("Enter Socrates' next line: ")
+    if socrates_line == "What do you think?":
       print("I think you win, Socrates.")
     else:
       print("I think you lose, Socrates.")
@@ -465,18 +465,18 @@ Socrates: What if, instead of my saying, "What do you think?", I instead said,
 Meno: YES.
 Socrates: Why?
 Meno: Because the transformation produced a program saying how I will
-  respond to you. And it said that if you say "What do you think?", I will
+  respond to you. And it said that if you next say "What do you think?", I will
   say "I think you win, Socrates." And that otherwise, I will say,
-  "I think you lose, Socrates." And since you said, "How now, Meno?",
+  "I think you lose, Socrates." And since you say, "How now, Meno?",
   rather than, "What do you think?", and since I then say "I think you
   lose, Socrates.", the prediction was correct.
 Socrates: But that would never happen, would it?
 Meno: No, because I would deliberately defy the prediction. If you said,
   "What do you think?", I would calculate that the prediction is that I will
-  say "I think you win, Socrates.", and I would defy that prediction and say
+  say "I think you win, Socrates," and I would defy that prediction and say
   "I think you lose, Socrates." And if you said, "How now, Meno?", I would
   calculate that the prediction is that I will say "I think you lose,
-  Socrates.", and I would defy that prediction and say "I think you win,
+  Socrates," and I would defy that prediction and say "I think you win,
   Socrates." And we would both know I was lying, and that you really lost.
 Socrates: You have really put me in a bind here, Meno. I fail to see any
   way for me to win, unless perhaps some god descends from the machine
@@ -498,29 +498,27 @@ Socrates: It feels almost hopeless, but I do have one ray of hope. It is
 Meno: It would be an absolute miracle if that transformation turned our
   conversation into any valid program at all, Socrates. I'm
   almost certain it would produce pure gibberish. Indeed, since our
-  conversation starts with "Meno:GoodmorningSocrates.", that cipher you
-  just proposed would yield an output starting with "Nfop:HppenpsojohTpdsbufs.",
-  and I doubt any computer program starts that way.
+  conversation starts with "Meno:Goodmorning,Socrates.", that cipher you
+  just proposed would yield an output starting with "Nfop:Hppenpsojoh,Tpdsbufs."
+  I doubt any computer program starts that way.
 Socrates: I guess the problem is that a haystack can't be made entirely out of
   needles, and if our conversation does secretly hide some program that
   predicts you, many characters of the conversation must work together to
-  hide each character of that program. Maybe every five characters in our
+  hide each character of the program. Maybe every five characters in our
   conversation hide one character of the desired program. For example, maybe
   the correct cipher, instead of changing "a" into "b", changes "Meno:" into
   "p", and changes "Goodm" into "r", and changes "ornin" into "i", and changes
-  "gSocr" into "n", and changes "ates." into "t", so that, altogether, the
+  "g,Soc" into "n", and changes "rates" into "t", so that, altogether, the
   first twenty-five characters of our conversation get changed into "print".
   Do you think that's likely to work?
-Meno: Maybe slightly, but I think five-to-one is still far too many needles
-  and too little hay, Socrates.
-Socrates: Would ten characters of conversation per one character or program
+Meno: It's more likely than the previous cipher, but only marginally. It would still be a miracle if it worked, only slightly less of a miracle. Five-to-one is still far too many needles and too little hay, Socrates.
+Socrates: Would ten characters of conversation per one character of program
   suffice, then? I mean, could our cipher transform "Meno:Goodm" into "p",
-  and "orningSocr" into "r", and so on?
+  and "orning,Soc" into "r", and so on?
 Meno: I think ten-to-one is still too many needles, Socrates.
 Socrates: Well then, how many characters of conversation do you think would
   be enough, to encode one character of this program we are looking for?
-Meno: I don't really know. I guess it depends how many characters there are
-  in the alphabet used to write the program.
+Meno: I don't really know. I guess it depends on the size of the alphabet used to write the program.
 Socrates: You mean, if programs were written with a larger alphabet, then
   we would need more characters of conversation per character of program, Meno?
 Meno: YES.
@@ -531,17 +529,17 @@ Socrates: Then I guess since we don't have all day to stand here talking,
   compete in some obfuscated code contest.
 Meno: I think a reasonable alphabet for writing programs would be:
     alphabet = "abcdefghijklmnopqrstuvwxyz"
-    alphabet += "(){}[]:'\"=,_!|\n\\"
-Socrates: Fourty-two characters in all, right? Since I assume by \" you mean
-  a single ASCII quotation mark, and by \n you mean a single linebreak, and
-  by \\ you mean a single backslash. No uppercase letters?
+    alphabet += "(){}[]:'\"=,+_\n"
+Socrates: Fourty characters in all, right? Since I assume by \" you mean
+  a single ASCII quotation mark, and by \n you mean a single linebreak.
+  No uppercase letters?
 Meno: For your sake, Socrates, I will consider it a victory for you if our
-  program predicts I will say "hey.", even if my servant here actually writes
-  "Hey." with the H uppercase.
-Socrates: Most generous of you, Meno. Alright then, how would you define a
-  cipher? It should take a string of one hundred characters from our conversation
-  and convert them to a single character from that alphabet you just proposed.
-Meno: Well, there's a convenient function called "ord" which turns characters
+  program predicts I will say "hey", even if my servant here actually writes
+  "Hey" with the H uppercase.
+Socrates: Most generous of you, Meno. Well then, assuming this bare-bones alphabet is rich enough to write computer programs, how many characters of our conversation should we use to encode each character of our program? We already saw that "one", "five", and "ten" are too small. Maybe twenty?
+Meno: Socrates, I know you haven't studied computer science, but really. Twenty is still way too small. I think you're still off by an order of magnitude. Let's make it two hundred.
+Socrates: Alright, two hundred it shall be. So every two hundred characters of our conversation will hide one single character of a computer program. Alright then, how would you define the cipher? It should take a string of two hundred characters from our conversation and convert that string into a single character from that fourty-letter alphabet you defined earlier.
+Meno: Let me think, Socrates. Hmm. Well, there's a convenient function called "ord" which turns characters
   into numbers. For example, ord("a") is 97, ord("b") is 98, ord("+") is 43,
   and so on. Don't worry about those exact numbers, Socrates, this "ord"
   function is built into my programming language (Python). Since our
@@ -549,37 +547,40 @@ Meno: Well, there's a convenient function called "ord" which turns characters
   those using fancy unicode open- and close-quotes, whereas other people
   might use other quote symbols, I guess to be safe we should consider all the
   quotes in our conversation to be plain ASCII quotes, just like we delete
-  all the spaces and line-breaks and tabs in the conversation. With this
+  all the spaces and line-breaks and tabs in the conversation. These plain ASCII
+  quotes have ords: for the single-quote, ord("'")=39, and for the double-quote,
+  ord('"')=34. With this
   ord function, we can turn characters into numbers, add those numbers up,
   and then take the remainder of the sum upon division by the length of my
-  program alphabet. In other words, if the sum is 42 or higher, smash it
-  down into the range from 0 to 41, so it can be used as the index of a
+  program alphabet. In other words, if the sum is 40 or higher, smash it
+  down into the range from 0 to 39, so it can be used as the index of a
   character in our alphabet. Writing it all in computer code:
     def cipher(X):
-      index = sum(ord(character) for character in X) % len(alphabet)
-      return alphabet[index]
+      total = sum(ord(character) for character in X)
+      remainder = total % len(alphabet)
+      return alphabet[remainder]
   This function will work for inputs X of any length. Of course it is mainly
-  intended for inputs X of length 100.
+  intended for inputs X of length 200.
 Socrates: To make sure I understand everything, what would be the value
-  of, say, cipher("Meno")?
-Meno: Well, ord("M") is 77, ord("e") is 101, ord("n") is 110, and ord("o")
-  is 111. Add those up and you get 399. Now, the length of alphabet is
-  42. If you divide 399 by 42, you get 9 with a remainder of 21. So the
-  index we get is 399 % 42 = 21. So cipher("Meno") is alphabet[21],
-  character number 21 in our alphabet, counting from zero. Which is "v".
-  Altogether, cipher("Meno")="v".
-Socrates: Amazing, Meno! And what do we get when we take the first hundred
+  of, say, cipher("Meno:")?
+Meno: Well, ord("M") is 77, ord("e") is 101, ord("n") is 110, ord("o")
+  is 111, and ord(":") is 58. Add those up and you get 457. Now, the length of the alphabet is
+  40. If you divide 457 by 40, you get 11 with a remainder of 17. So the
+  index we get is 457 % 40 = 17. So cipher("Meno:") is alphabet[17],
+  character number 17 in our alphabet, counting from zero. Which is "r".
+  Altogether, cipher("Meno:")="r".
+Socrates: Amazing, Meno! And what do we get when we take the first 200
   characters of our conversation and plug them into this cipher?
-Meno: The first one hundred characters of our conversation make the string:
+Meno: The first 200 characters of our conversation make the string:
     "(...)"
   Plugging that into the cipher function, we get an "i".
-Socrates: And what about the next hundred characters?
-Meno: The next one hundred characters are:
+Socrates: And what about the 200 characters?
+Meno: The next 200 characters are:
     "(...)"
   Plugging that in, we get an "m".
 Socrates: So the program we are looking for begins with "im". Very good.
   By Zeus! Alright, Meno, now keep going and plug in all the blocks
-  of length 100 from our conversation, right until when I say "By Zeus!"
+  of length 200 from our conversation, right until when I say "By Zeus!"
   Do we get a valid program? Wait! Don't answer that. You must be very
   careful what you say next, Meno. Here, take my staff and write the
   output of your cipher in the sand here, and I will read it aloud,
@@ -608,7 +609,8 @@ Socrates: So the program we are looking for begins with "im". Very good.
   or else say the opposite, Meno, but say something! You behave like
   the sophistical men I talk to, when my innocent questions put them
   in some kind of trance. Are you for some reason unable to discern
-  what the program predicts you will say?
+  what the program predicts you will say? Is there some problem with
+  our program? What is wrong with our program?
 Meno: It wants a password.
 Socrates: So now the question is whether or not the program predicted
   what you would say when you ran it. And what you said when you ran
@@ -634,19 +636,17 @@ Socrates: So now the question is whether or not the program predicted
   wants a password", but you still have time to say "You lose, Socrates,"
   and defy the prediction. What's the matter Meno? Can't you figure out
   from the code what the password is, or at least what it would do after
-  you enter the password?
+  you enter the password? Is there something wrong with the program, Meno?
 Meno: It's encrypted.
 Socrates: You really do surprise me, Meno, and I bow to your ingenuity.
-  For truly you are much more a genius than I am, for I would never have
-  thought to encrypt the code with an encrypted password. Well, if the
-  code is encrypted, then I suppose you cannot study it to see what it
-  would predict upon receiving the right password. If you could decrypt
-  it, you could study it, and you could have seen it would predict you
-  would say,
+  Well, if the code is encrypted, then I suppose you cannot study it to
+  see what it would predict upon receiving the right password. If you
+  could decrypt it, you could study it, and you could have seen it would
+  predict you would say,
     It wants a password.
     It's encrypted.
-  And even though it was too late to say the opposite of "It wants a password."
-  still, you could have said the opposite of "It's encrypted.",
+  And even though it was too late to say the opposite of "It wants a password,"
+  still, you could have said the opposite of "It's encrypted",
   if you could only have decrypted it. Well, Meno, it seems you have no
   choice now. You must enter the password, and we shall see what your
   program predicted. So then! Meno! Tell me! What is the password?
@@ -661,17 +661,5 @@ Socrates: Thank you, Meno! I should have guessed a devious mind like
     it wants a password.
     it's encrypted.
     I don't know any password, Socrates.
-  But now I must leave you, Meno.
-
-
-
-
-
-
-
-
-
-
-
-
+  But now I must leave you, Meno, for I have an appointment at the courthouse.
 
