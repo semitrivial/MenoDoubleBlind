@@ -10,53 +10,22 @@ Meno: Quite. Once we finish this [delightful ][discussion|conversation] [we're|w
 Socrates: You mean, know the conversation?
 Meno: [Right|Yes|Exactly|Precisely]. [After|Once|As soon as] [we're [done|finished]|we [finish|part ways]], [I'll|I will|I shall] [then ]know [the things|what] we said. [That is|In other words], [I will|I shall|I'll] [have learned it|then have learned it][, [wouldn't|don't] you [say|think|agree]?|.]
 Socrates: I'm not [really ][so ][sure|certain] [about|of] that[, Meno]. [I often|More often than not, I] [find|realize] I mis-remember conversations, or, [what's|even] worse, when I think [that ]I remember [them ]and understand them, [and then ]it [later |eventually |sometimes |][turns out|happens] [that] I [either] remember wrong, or understand wrong. Besides[ that], [your question|this question of yours] makes me [a little ][uneasy|nervous], for I feel as if I am in danger of falling into a trap somehow.
-Meno: What! Does the great Socrates have trouble with his memories?
-Socrates: I often wish I had greater memory, Meno. For I feel sometimes as though
-  I flit between two worlds. One is intelligible and beautiful, the other is
-  sensible and profane. For example, when my house is well organized, and I
-  remember where I have put everything, it is as if I dwell in a house created by
-  the geometers, for I can find my shirt or my shoes by an act of pure thinking.
-  But more often, my house is not organized, and I must grope around for my
-  shirt or my shoes, and I feel as if I'm cast out of that house of the geometers,
-  and plunged into a carnal house of the senses.
-Meno: Well, I, for one, take pride in my house always being organized. For I have
-  servants who organize it for me. And, look here: I have a servant writing this
-  conversation on a stone tablet, here. You know him, Socrates: he is the same boy
-  you conversed with about geometry the last time you visited. I treasure your
-  words like gold, Socrates, and I will preserve them, and guard them, the same way
-  I would treat a great treasure.
+Meno: What! Does the great Socrates have trouble with his [memory|memories]?
+Socrates: [I often|Quite often I] wish [that ]I [[could remember|remembered] things better|had [better|greater] memory], Meno. For I feel sometimes as though I flit between two worlds. One is intelligible and beautiful, the other is sensible and profane. For example, when my house is well[-| ]organized, [and|so|so that] I remember where I [have ]put [everything|my things], [it's|it is] as if I [live|dwell] in a house [designed|created|built] by the geometers, for I can find my shirt or my shoes by an act of pure thinking. But more often, my house is not organized, and I must grope around for my shirt or my shoes, [and I feel ]as if [I'm|I've been] cast out [of|from] that house of the geometers, and [plunged into|imprisoned in] a carnal house of the [five ]senses.
+Meno: Well, I, for one, take pride in my house always being organized. For I have servants who organize it for me. And, look here: I have a servant [writing|inscribing] this [very ]conversation [of ours ]on a stone tablet, here. You know him[, Socrates]: [he|it] is the same boy [you [conversed|spoke] with|with whom you [spoke|conversed]] about geometry the last time you visited. I treasure your words like gold, Socrates, and I will preserve them, and guard them, [just as|just like|the same way] I would [guard|treat] a [great|valuable|priceless] treasure.
 Socrates: You flatter me very greatly, Meno. But I suspect you're just saying that
   because you want to catch me in some trap. Very well, Meno. For the sake of the
   argument, I grant that after we have this conversation, you shall have learned
   it.
 Meno: Well then, doesn't that mean [that ]I already [know|knew] it, and [have only|had only|needed only|only needed|only had|only have] to [remember|recall][ it]?
-Socrates: Yes, I grant that, Meno. [Even|Long] before [you were born|your mother gave birth to you], you already knew I would say[ the words][,] 'Yes, I grant that, Meno'[.|[,] [which I said ]just [now|a second ago].]
+Socrates: Yes, I grant that, Meno. [Even|Long] before [you were born|your mother gave birth to you], you already knew I would say[ the words][,] 'Yes, I grant that, Meno,' [which I [said|uttered|spoke] ]just [now|a [second|moment] ago].
 Meno: Well then, [dear ]Socrates, [I have|I propose|[I'd like|I want] to [pose|propose]] a challenge for you. [With|Using] your [in]famous method of [questioning|asking questions], please [help|guide] me to [remember|recall] [all [of ]the things|everything] [[we're|we are] going to|we will|we'll|we shall] say in this dialogue[ we're having| we're engaged in]. That is, if [you are able to|you can]. But I doubt [it|you can[ do it]].
 Socrates: [Why|And why] do you doubt I can do it, [[my ]dear ]Meno?
-Meno: Because [as soon as|the [very ][instant|moment|second]] you help me remember [the things|what] we're going to [say to|tell] [each other|one another], I [shall|will] immediately remember what line I [will ]say next, and I will say
-  the very opposite.
-Socrates: That's very clever, Meno. Let me see if I understand right. So if I
-  help you [recall|remember] what [things ]we're [about to|going to] [say to|tell] [each other|one another], and [then |thus|]you [recall|remember][, for [example|instance],] that
-  in [response|reply] to my [thus |so |][helping|guiding|leading|teaching|directing] you, you [are [next ]going to|will next|will then] say 'Thank you Socrates',
-  then, [knowing that|with that knowledge|armed with that knowledge], you will [instead ]deliberately say, 'No thank you, Socrates'?
-Meno: Exactly. Or suppose that you help me remember all the things we're going
-  to say, and as a part of that, in particular, I remember that as soon as you
-  finish thus helping me, I will say 'You win, Socrates!' Then, instead of saying
-  'You win, Socrates!', I will say, 'You lose, Socrates!'. Nor will I be lying,
-  because my very saying 'You lose, Socrates!' will prove that you lost, because
-  if the memory you made me remember was accurate, I would have said 'You win'.
-Socrates: But what if I help you remember all the things we're going to say,
-  and, as a part of that, in particular, you remember that as soon as I finish
-  thus helping you, you will say, 'You lose, Socrates!' Then, according to your
-  plan, you will say the opposite, which is, 'You win, Socrates!' Won't I then
-  have won, by your own admission, Meno?
-Meno: No, Socrates. The purpose of this challenge is not for you to get
-  me to say the words, "You win, Socrates!" Rather, the purpose of this challenge
-  is for you to guide me to remember what I'm going to say, whether that's
-  "You lose, Socrates!" or "You win, Socrates!", it doesn't matter. And when I
-  intentionally say the opposite of what I remember I was going to say, then
-  you lose the challenge, Socrates, whether that opposite statement is "You win,
-  Socrates!" or "You lose, Socrates!"
+Meno: Because [as soon as|the [very ][instant|moment|second]] you help me remember [the things|what] we're going to [say to|tell] [each other|one another], I [shall|will] immediately remember what line I [will ]say next, and I will say the very opposite.
+Socrates: That's very clever, Meno. Let me see if I understand right. So if I help you [recall|remember] what [things ]we're [about to|going to] [say to|tell] [each other|one another], and [then |thus|]you [recall|remember][, for [example|instance],] that in [response|reply] to my [thus |so |][helping|guiding|leading|teaching|directing] you, you [are [next ]going to|will next|will then] say 'Thank you Socrates,' then, [knowing that|with that knowledge|armed with that knowledge], you will [instead ][deliberately|purposefully] [say|defy that prediction by saying][,] 'No thank you, Socrates'?
+Meno: Exactly. Or suppose that you help me remember all the things we're going to say, and as a part of that, in particular, I [then ]remember that [as soon as|the instant|the moment] [you finish|you're finished|you're done] thus [helping|guiding] me, I will [then ]say 'You win, Socrates!' [And then|Then], [instead of|rather than] saying 'You win, Socrates!', I will say, 'You lose, Socrates!' Nor will I be lying, because my very saying 'You lose, Socrates!' will [prove|demonstrate|show|be proof] that you [did indeed lose|lost|failed], [because|for] if the memory you [made|helped] me remember was accurate, I would have said 'You win.'
+Socrates: But what if I help you remember all the things we're going to say, and, as a part of that, in particular, you [remember|recall] that as soon as I finish thus [helping|assisting] you, you will say, 'You lose, Socrates!' Then, according to your [plan|scheme|strategy|stratagem], you will say the opposite, which is, 'You win, Socrates!' [Wouldn't|Won't] I then have won, by your own admission[?|, Meno?]
+Meno: No, [Socrates|my friend]. The [purpose|point] of this challenge is not for you to [make me|get me to] [say|utter] the [words|phrase], "You win, Socrates!" Rather, the purpose of this challenge is for you to guide me to remember what I'm going to say, whether that's "You lose, Socrates!" or "You win, Socrates!", it doesn't matter. And when I intentionally say the opposite of what I remember I was going to say, then you lose the challenge, Socrates, whether that opposite statement is "You win, Socrates!" or "You lose, Socrates!"
 Socrates: Very well. This is a fun challenge. And I think if I'm to have any
   hope at succeeding, I will need to resort to computer programming.
 Meno: YES. For this is obviously closely related to things like the recursion theorem and the incompleteness theorem and so on. But even computer programming won't rescue you from my paradox.
