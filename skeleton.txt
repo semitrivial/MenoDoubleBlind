@@ -102,21 +102,20 @@ Socrates: [Let me|I shall] give you an example. Suppose I [helped|could help] yo
   Wow!
   You win, Socrates!
 And suppose [that ][immediately after|the very [instant|moment|second]|as soon as] I so helped you, you [said|were to say], "Wow!" And then suppose [that ]I said, "Do I win, Meno?" [And then|After which] you [then ]said, "You win, Socrates!" In that scenario, would you grant me victory? Even though I did not help you remember my future contributions, namely "Do I win, Meno?", but only your own contributions?
-Meno: I suppose I would [grant|not begrudge you] [the ]victory in that case, Socrates.
-Socrates: Then suppose I announce: "Meno's next contribution to the tablet shall be 'You win, Socrates.' Meno: You win, Socrates." That is to say, first, I announce that Meno's next contribution on the tablet will be, "You win, Socrates". At that point, I suppose you'll want to pipe in and say "You lose, Socrates". But before you have a chance to do that, I quickly say, "Meno: You win, Socrates". Wouldn't I win then?
-Meno: That would be cheating, Socrates. You know they say, only a fool puts words in other people's mouths. We would both know that you had cheated and had not won. And before you say that someone reading this tablet here would think you had won, because they were confused by your linguistic trick, the truth is, not even a reader of the tablet after the fact would think you won. And that's because your challenge is not to help me remember a little part of my future contributions to the tablet. Your challenge is to help me remember all of my future contributions to the tablet, and in the correct order, too. So in that example of yours, after you say "You win, Socrates. Meno: You win, Socrates," I would say, "You cheat, Socrates." And then even to someone reading the tablet, who was not here in person, they would know you did not win. Because they would see that I contributed the words, "You cheat, Socrates" to the tablet, and you did not predict those.
-Socrates: You are very cunning, Meno. I think not even Ulysses could trick you.
-Meno: Why do you say that, Socrates?
-Socrates: Do you remember how Ulysses tricked Polyphemus, the cyclops? He lied to Polyphemus, he said his name was Noman. Then when Polyphemus's friends came and asked if some man was slaying him, Polyphemus said, 'Noman is slaying me.' Didn't Ulysses do that on purpose, so that the cyclops's friends would misunderstand and think Polyphemus had said "No man is slaying me"? Isn't that exactly the kind of syntactical-semantical confusion you have so effortlessly avoided just now?
+Meno: [I suppose ]I would [grant you|not begrudge you] [the |a |]victory[ in that case| if that were to happen|, if [all[ of] ]that were to happen|], Socrates.
+Socrates: [Then|Well,] suppose I [were to ]announce: "Meno's next contribution to the tablet shall be 'You win, Socrates.' Meno: You win, Socrates." [That is to say|In other words], first, I announce that Meno's next contribution on the tablet will be, "You win, Socrates". [And at|At] that [point|moment], I suppose [you would|you'd] [want|try] to [pipe|jump] in and say "You lose, Socrates". But before you have [a chance|the opportunity|the time|a moment][ to do that], I quickly [say|add], "Meno: You win, Socrates". Wouldn't I win then?
+Meno: [|No! |By no means! | Hardly! ]That would be cheating, [Socrates|friend]. You know they say, only a fool puts words in other people's mouths. We would both know that you had cheated and had not won. And before you say that someone reading this tablet here would think you had won, because they were confused by your linguistic trick, the truth is, not even a reader of the tablet after the fact would think you won. And that's because your challenge is not to help me remember a little part of my future contributions to the tablet. Your challenge is to help me remember all of my future contributions to the tablet, and in the correct order, too. So in that example [of yours|you just gave], after [you say|you've said] "You win, Socrates. Meno: You win, Socrates," I would [then ]say, "You cheat, Socrates." And then even someone reading the tablet[ years later], who was [not|never] here in person, [would [still ]know|could [still ][tell|see]] you did not win. Because they would see that I contributed the words, "You cheat, Socrates" to the tablet, [and|whereas] you did not predict those.
+Socrates: You are [very |most |][cunning|clever], Meno. I [think not|doubt] even Ulysses could [trick|outsmart] you.
+Meno: [Why do you say that|What do you mean by that], Socrates?
+Socrates: Do you remember how Ulysses tricked Polyphemus, the cyclops? He lied to Polyphemus, he said his name was Noman. [Then w|W]hen Polyphemus's friends came and asked if some man was slaying him, Polyphemus [said|shouted], 'Noman is slaying me.' Didn't Ulysses do that on purpose, so that the cyclops's friends would [misunderstand[,]|be misled] and think Polyphemus [had ]said "No man is slaying me"? Isn't that exactly the kind of syntactical-semantical confusion you have so effortlessly avoided just now?
 Meno: I [guess|suppose|reckon] [it is|so].
-Socrates: I think this challenge is very difficult, and I almost want to give up, except a voice in my head compels me not to do that. Certainly this task is beyond my own power, and I can only hope that it is within your power, Meno. So I will ask you questions and we will see whether you can figure out how to defeat yourself in this challenge, though I daresay you have a conflict of interest in the matter. Let us start from the beginning. Doesn't the first line on this tablet say, "Meno: Good morning, Socrates."?
+Socrates: I think this challenge is [very|quite] difficult, and I almost want to give up, except a [certain ]voice [in|inside] my head compels me not to[ do that]. Certainly this task [is beyond|exceeds] my own power[, and|;] I can only [hope|pray] that it is within your power, Meno. So I will ask you questions[,] and [we will|we'll] [see|find out] whether you can [figure out how|find a way] to defeat yourself in this challenge, though I daresay you have a conflict of interest[ in the matter| here|]. Let us start from the beginning. Doesn't the first line on this tablet say, "Meno: Good morning, Socrates"?
 Meno: We've [thoroughly |already |]established that.
-Socrates: And if I asked you to plug that line into your 'repeat_twice' function, would the result be the following?
+Socrates: [And i|I]f I asked you to plug that line into your 'repeat_twice' function, would the [result|output] be [the following|as follows]?
   Meno: Good morning, Socrates.
   Meno: Good morning, Socrates.
-Meno: [Yes|Yes, of course].
-Socrates: What if instead of you, what if a cobbler plugged that line
-  into your 'repeat_twice'? Would the result be the following?
+Meno: [Yes|Yes, [of course|it would[ be]|I believe so]].
+Socrates: What if instead of you, a cobbler [were to plug|plugged] that line into [your ]'repeat_twice'? Would the result be the following?
   Meno: Good morning, Socrates.
   Meno: Good morning, Socrates.
 Meno: Again[,] yes.
@@ -124,41 +123,41 @@ Socrates: And what if a painter plugged that line into 'repeat_twice'?
   Would the result be the following?
   Meno: Good morning, Socrates.
   Meno: Good morning, Socrates.
-Meno: [Yes, it|It] would [still be so|be the same], even if we were painters.
+Meno: [Yes, [it|the result|the output]|[Indeed. |Of course. |Certainly. |][It|The result|The output]] [would [still be so|be the same|not change|still not change]|wouldn't change|wouldn't differ], even if we were painters.
 Socrates: And what if a sailor plugged that line into 'repeat_twice'?
   Would the result be the following?
   Meno: Good morning, Socrates.
 Meno: Good morning, Socrates.
-Socrates: Hey! Don't you know it's impolite to finish someone's sentence for him?
-Meno: I'm sorry, Socrates. It's just that you were being rather predictable.
-Socrates: I was doing that on purpose because I suspected you'd react that way. You see, I wanted to show you something. Look on the tablet near the bottom here, where you finished my sentence for me just now. Don't you think someone could get very confused reading this?
+Socrates: Hey! Don't you [know|think] it's [impolite|not polite|rude|a bit rude|a little rude|inconsiderate] to finish [someone[ else]|another person|another man]'s sentence for him[ like that]?
+Meno: [I'm sorry|Forgive me], Socrates. [It's just that|But] you were being rather predictable[ just now].
+Socrates: I was doing that on purpose[,] [because|for] I suspected you'd react that way[ eventually]. You see, I wanted to show you something. Look on the tablet near the bottom here, where you finished my sentence for me just now. Don't you think someone could get confused[,] reading this?
 Meno: [Quite|Absolutely] confused.
-Socrates: So then, reading philosophy from a tablet, without being able to ask questions to the philosopher, isn't much good, is it?
-Meno: Sure it's no good, Socrates, provided the tablet was deliberately designed to be confusing! You know, I'm starting to understand why they accuse you of corrupting the youth.
-Socrates: Meno, that's a ridiculous rumour. All I have ever done to the youth is inspire them to think a little. But anyone can think anything they want, and then turn around and unthink it just as easily.
-Meno: [Yes|Certainly].
-Socrates: And all these things we've been saying are just idle thoughts, aren't they? You could ponder these things all day and night, and then the very next day, you could ponder the exact opposite.
-Meno: [You're right|I agree].
-Socrates: So one cannot corrupt the youth just by contemplating thoughts together with them. For one can change one's thoughts just as easily as one can imagine a mountain of gold, don't you agree?
-Meno: If you put it that way, [yes|sure].
-Socrates: And changing people's thoughts is like writing Greek on the surface of the water. The water is so pliable you can write on it with your bare finger. But the instant that you've written there, your writing disappears, doesn't it?
-Meno: [Yes|Certainly].
-Socrates: In fact, I always assumed that's what Thales meant, when he said that everything is made of water. He meant that, in time, all the impressions we make on the world fade, as if we inscribed them on the face of the sea. You could not corrupt the Aegean by writing on its surface, no matter how scandalous the things you wrote there. Even language itself changes. And we attempt to nail that down, by imposing sharp constraints on it in the form of poetry. But over long enough time, even that fails, and it's like trying to keep the tide from going out by nailing the water to the sand. In the same way, I believe you could never corrupt a man just by writing thoughts into his mind, Meno.
-Meno: But surely you do admit some corrupt youths exist, don't you, Socrates?
+Socrates: So then, reading philosophy from a [tablet|book|tablet, or a book], without [being able|the ability|the chance] to ask [the philosopher questions|questions [to|of] the philosopher], [isn't|is not] much good, is it?
+Meno: Sure it's no good, Socrates, [provided|if] the tablet was deliberately designed to be confusing! You know, I'm [almost ]starting to understand why [they|some people] accuse you of corrupting the youth.
+Socrates: Meno, that's a ridiculous [rumour|slander]. All [[I have|I've] ever done|I ever did] to the youth is [inspire|motivate|encourage] them to think a little[ bit]. [But|And] anyone can think [anything|whatever] they want, and then turn around and unthink it just as easily.
+Meno: [True|Certainly].
+Socrates: And all these things we've been saying are just idle thoughts, aren't they? You could ponder these things all day and [all ]night, and then the very next [day|morning], you could ponder the exact opposite.
+Meno: [You're right|I agree|That's right].
+Socrates: [So o|O]ne cannot corrupt the youth[, then,] just by contemplating thoughts together with them. For one can change one's thoughts just as [easily|effortlessly] as one can imagine a mountain [made ]of gold, [don't|wouldn't] you agree?
+Meno: [If|When] you put [it|things] [that way|like that], [yes|sure].
+Socrates: And changing people's thoughts is like writing Greek on the surface of the water. [For t|T]he water is so pliable[,] you can write on it with your bare finger[s]. But the instant that you've written there, your writing [disappears|vanishes], doesn't it?
+Meno: [Yes|Certainly|It does|It certainly does].
+Socrates: In fact, I always assumed that's what Thales meant, when he said[ that] everything is made [out ]of water. He meant that[, in time,] all the impressions we make on [the|this] world fade[| away| out], [just ]as [if|though] we inscribed them on the face of the sea. You could not corrupt the Aegean by writing on its surface, no matter how scandalous the things you wrote there. Even [language itself|the language we speak] [changes|slowly changes|gradually changes]. And we [attempt|try] to nail that down, by imposing sharp constraints on it in [our|the form of] poetry. But over long enough time, even that fails, and it's like trying to keep the tide from going out by nailing the water to the sand. [In the same way|Likewise|Similarly], [I believe ]you [could never|couldn't ever] corrupt a man just by writing thoughts [into|onto|upon] his mind, Meno.
+Meno: But surely you [do|must] admit some corrupt youths exist, don't you, Socrates?
 Socrates: I admit it.
-Meno: Then how could any youth be corrupted, if not through his mind?
+Meno: [Then|Well,] how could any youth be corrupted, if not through his [mind|thoughts]?
 Socrates: Youths have physical bodies, too, besides just their minds, don't they?
 Meno: [Yes|Of course].
-Socrates: So to really corrupt the youth, you'd have to corrupt their bodies, not their minds. Wouldn't you?
+Socrates: So to really corrupt the youth, you'd have to corrupt their bodies, not their minds.[ Wouldn't you?]
 Meno: [Perhaps|Maybe].
-Socrates: And isn't the eye the most fragile and sensitive part of the body?
-Meno: [So it would seem|It would seem so].
-Socrates: And the slightest damage to the eye is more grievous than a violent wound elsewhere on the body?
+Socrates: And isn't the eye [by far ]the most fragile and sensitive [part of the body|body part|body-part]?
+Meno: [So it would [appear|seem]|It would [appear|seem] so].
+Socrates: And isn't the slightest damage to the eye more grievous than a [violent|terrible] wound elsewhere on the body?
 Meno: Within reasonable limits, [yes|sure].
-Socrates: So if someone were going to corrupt the youth, they should try to corrupt the eyes of the youth, shouldn't they?
+Socrates: So if someone [wanted|were going] to corrupt the youth, they should try to corrupt the eyes of the youth, shouldn't they?
 Meno: [Perhaps|Maybe].
-Socrates: And perhaps that's why people think I have a corrupting influence, not because of the words I say, but because of these bulging, bugging eyes I have. And because my eyes bulge out, people assume their children's eyes will bulge out from talking to me. As if it is not we who converse, but as if our eyes are men conversing with each other. But no-one could convince a man to harm his own eye, right?
-Meno: [No-one|Nobody].
+Socrates: And [perhaps|maybe] that's why people think [I'm|I have] [such ]a corrupting influence[,|:] not because of [these|the] words I say, but because of these bulging, bugging eyes I have. And because my eyes bulge out, people [assume|think|fear|worry] their children's eyes will bulge out from talking to me. As if it is not we who converse, but as if our eyes are men conversing [with each other|together]. But no man could convince a person to [deliberately |purposely |intentionally |][harm|hurt|damage] his own eye, [right|surely|could he]?
+Meno: No man except maybe Noman.
 Socrates: Then, to corrupt a man's eye, one would have to trick him into doing something that hurts his eye, yes?
 Meno: I guess so[, Socrates].
 Socrates: One would have to persuade him to do something that damages his eye slowly. One would have to persuade him to hurt his eye in such a way that he didn't even know he was hurting it. Otherwise, he would quickly turn against you, wouldn't he?
