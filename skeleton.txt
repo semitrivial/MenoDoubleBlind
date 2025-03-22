@@ -59,48 +59,50 @@ Socrates: In that one-sided example, I used earlier pieces of our conversation a
 Meno: That's right.
 Socrates: Then it's perfectly alright for me to use earlier pieces of our conversation [like that|that way]?
 Meno: [Certainly|Yes, that's [certainly ][fine|alright]].
-Socrates: Well, supposing I said to you: 'Take our whole entire conversation up until I said the word octopus. Repeat that whole conversation back to me. Then repeat that whole conversation back to me a second time.' Would that solve your challenge?
+Socrates: Well, [supposing|suppose] I [said to|instructed] you: 'Take [our|this] [whole|entire|whole entire] conversation up until I said the word octopus. Repeat that whole conversation back to me. Then repeat that whole conversation back to me a second time.' Would that [solve|[be|give] a solution to] your challenge?
 Meno: [Not at all|Certainly not|Of course not|Obviously not].
-Socrates: Because the content of the resulting conversation would not equal our actual conversation?
-Meno: Yes. For example, in the resulting conversation, you would say: '...up until I said the word octopus'. And then I would say (because at that point I would have finished the first repetition and start in on the second one): 'Good morning, Socrates.'
-Socrates: Whereas, in our actual conversation, after I said the word octopus, you did not immediately say 'Good morning, Socrates'?
+Socrates: Because the content[s] of the resulting conversation would [not [equal|be equal to]|be unequal to] [our|the] actual conversation?
+Meno: Yes. For example, in the resulting conversation, you would say: '...up until I said the word octopus'. [And then|Then], because at that point [I would|I'd] [have finished|be done with] the first repetition and it would be time [for|to start in on] the second one, I would say: 'Good morning, Socrates.'
+Socrates: Whereas, in [our|the] [actual|true|real] conversation, [after|when] I said the word octopus, you did not immediately say 'Good morning, Socrates'?
 Meno: [Yes|Right|That's right].
-Socrates: Then we shall have to think of a more clever method. But first, let's consider the example more deeply. Let X denote our entire conversation up until, and including, when I said the word octopus. And suppose I wanted to ask you to repeat X to me, and then to repeat X to me a second time. Can you program a function that would take X and repeat it that way?
-Meno: Certainly. That's easy. How about this?
+Socrates: Then we shall have to think of a more clever method. But first, let's consider the example more deeply. Let X denote our [whole|entire] conversation up until, and including, when I said [the word octopus|"octopus"]. [And suppose|Suppose] I wanted [to ask ]you to repeat X to me, and then to repeat X to me a second time. [Can|Could] you [program|write] a function that would take X and repeat it that way?
+Meno: Certainly[. T|, t]hat's easy. How about this?
   def repeat_twice(X):
     print(X)
     print(X)
-Socrates: So then, if I asked you to take the first sentence you said to me, and plug it in to 'repeat_twice', the resulting output would be as follows? Good morning, Socrates. Good morning, Socrates.
+Socrates: So[ then,] if I [asked|instructed] you to take the first [sentence|line] you [said to me|greeted me with], and plug it [in to|into] [this ]'repeat_twice'[ function], the resulting output would be as follows?
+  Good morning, Socrates.
+  Good morning, Socrates.
 Meno: [That's right|Yes|Quite so].
-Socrates: What if I asked you to take the nineteenth sentence you said to me, and plug that into 'repeat_twice'? What would the result be?
-Meno: I'm afraid I do not remember exactly what that nineteenth thing was.
-Socrates: Can you think of any way of recalling it?
-Meno: Well, yes. We could read it off my servant boy's tablet here. He's been diligently writing down this conversation for me. You know I treasure your words more than gold, Socrates.
-Socrates: I should warn you not to read or write too much philosophy, Meno. For you cannot ask questions of a book, and neither can a book question you. But in this case I admit it's convenient. You say that by consulting this tablet, we can recall exactly what the nineteenth sentence you said was?
+Socrates: [And w|What] if I asked you to take the nineteenth sentence you said to me, and plug that into 'repeat_twice'? What would [be the result|the result be]?
+Meno: [I'm afraid ]I [can't|cannot|don't|do not] remember exactly what that nineteenth sentence was.
+Socrates: [Can|Can't] you think of [any|some] way [of [recalling it|reminding yourself]|we could recall it]?
+Meno: [Well, y|Y]es. We could [read it [from|in|off [from|of]]|[look it up|look for it] in] my servant boy's tablet here. He's been diligently writing down this conversation for me. You know I [treasure|value] your words more than gold, Socrates.
+Socrates: I [should|must] [again|once more] warn you not to read[ or write] too much philosophy, [Meno|my dear friend]. For you cannot [question|ask questions of] a book, [and ]neither can [a|the] book question you. But in this case I admit it's convenient. You say [that ]by consulting [this|your servant's] tablet, we can recall [exactly|precisely] what the nineteenth sentence you said was?
 Meno: [Yes|Indeed|That's right|Easily|With ease].
-Socrates: But isn't your servant writing some other things here? Look. He writes 'Meno:' whenever you begin talking. He writes 'Socrates:' when I do.
+Socrates: But isn't your servant writing [some ]other things here? Look. He writes 'Meno:' [whenever|when] you begin [talk|speak]ing. He writes 'Socrates:' [whenever|when] I [do|talk|speak].
 Meno: [Yes|Sure].
-Socrates: We have a very serious problem, then. Look at the tablet right here, near the very top. It says: 'Good morning to you, Meno, my friend. Meno:' Now I can't remember. Did I say 'Meno:' immediately after I said 'Good morning to you, Meno, my friend'? Or does 'Meno:' here mean that you started talking?
-Meno: I believe it means that I started talking. I don't think you literally said 'Meno, my friend, Meno'.
-Socrates: But look here, near the bottom. It says, quote: Did I say 'Meno:' immediately after I said 'Good morning to you, Meno, my friend'? Unquote. Well then. I know it was me who said 'Did I say', but who said 'immediately'? Which one is it? Did Socrates say, 'Did I say Meno: immediately after...'? Or did I say 'Did I say' and then Meno jumped in and said 'immediately after'?
+Socrates: We have a [very ]serious problem, then. Look [here on the tablet|at the tablet right here], [near|right near] the [very ]top. It says: 'Good morning to you, Meno, my friend. Meno:' Now I can't remember. Did I say 'Meno:' immediately after I said 'Good morning to you, Meno, my friend'? Or [rather, ]does 'Meno:' here mean that you [started|began] talking?
+Meno: I believe it means [that ]I started talking. I [don't think|[highly |really ]doubt] you literally said 'Meno, my friend, Meno'.
+Socrates: But look [right ]here, near the bottom[ of [the|our|your] tablet]. It says, quote: Did I say 'Meno:' immediately after I said 'Good morning to you, Meno, my friend'? Unquote. Well[,] then. I know it was [me|I] who said 'Did I say', but [then ]who said 'immediately'? [Which one is it? ]Did Socrates say, 'Did I say Meno: immediately after...'? Or did I [merely ]say 'Did I say' and then [at that point ]Meno [jumped in|interrupted[ me]] [and said|to say] 'immediately after'?
 Meno: I'm pretty sure you said 'Did I say Meno: immediately after...'
-Socrates: But the tablet itself doesn't tell us for certain?
+Socrates: But the tablet itself [doesn't|does not] tell us for certain?
 Meno: I [suppose|guess] it [might not|doesn't].
-Socrates: And just think. If you were reading this tablet by your lonesome, you couldn't even ask it whether this 'Socrates:' here means that Meno said 'Socrates:', or whether it means Socrates started talking. So you see the danger, then, of reading too much philosophy?
+Socrates: And just think. If you were reading this tablet by your lonesome, you couldn't even ask it whether this 'Socrates:' here means that Meno said 'Socrates:', or whether it means Socrates [started|began] [talking|speaking]. [So|Now] [do ]you see the danger, [then|my friend], of reading too much philosophy?
 Meno: [Perhaps|Maybe].
-Socrates: And your challenge is quite hopeless. For if I claim to remind you what our whole conversation is, you won't be able to check if my claim is true. For you can't tell from this tablet who said what when, can you?
+Socrates: And your challenge is quite hopeless. For if I claim to remind you what our whole conversation is, you [won't be able|will be unable] to check [whether|if|whether or not] my claim is true. [For|Because] you can't tell from this tablet who said what when, can you?
 Meno: I [suppose|guess] not.
-Socrates: But maybe we can modify the challenge. Do you at least know what is written on the tablet? For example, that the very first letter on the tablet is 'G'?
+Socrates: But maybe we can modify the challenge. Do you at least know what is written on the tablet? For [example|instance], that the very first letter [on the tablet ]is [a ]'G'?
 Meno: [Yes|Certainly|Indeed].
-Socrates: Then maybe instead of helping you to recall our future conversation, I could instead help you to recall the future contents of the tablet. Your little paradox would still apply, wouldn't it?
+Socrates: Then maybe instead of helping you to recall our future conversation, I could instead help you to recall the future contents of the tablet. Your little paradox would still [apply|confound me|trap me], [wouldn't it|would it not]?
 Meno: [It would|Quite|Absolutely].
-Socrates: And I wouldn't even need to help you recall my own future contributions to the tablet, would I? Wouldn't you say I won if I could just help you recall your future contributions to the tablet?
-Meno: I'm not sure what you mean exactly by that, Socrates.
-Socrates: Let me give you an example. Suppose I helped you to remember that your own future contributions to the tablet would be:
+Socrates: [And ]I wouldn't even need to help you recall my own future contributions to the tablet, would I? Wouldn't you [say I won|grant me victory] if I could just help you recall your future contributions to the tablet?
+Meno: [I'm not|I don't think I'm] [entirely |quite |]sure what you mean by that, Socrates.
+Socrates: [Let me|I shall] give you an example. Suppose I [helped|could help] you to remember that your own future contributions to the tablet would be[ this]:
   Wow!
   You win, Socrates!
-And suppose that immediately after I so helped you, you said, "Wow!" And then suppose I said, "Do I win, Meno?" And then you said, "You win, Socrates!" In that scenario, would you grant me victory? Even though I did not help you remember my future contributions, namely "Do I win, Meno?", but only your own contributions?
-Meno: I suppose I would grant you victory in that case, Socrates.
+And suppose [that ][immediately after|the very [instant|moment|second]|as soon as] I so helped you, you [said|were to say], "Wow!" And then suppose [that ]I said, "Do I win, Meno?" [And then|After which] you [then ]said, "You win, Socrates!" In that scenario, would you grant me victory? Even though I did not help you remember my future contributions, namely "Do I win, Meno?", but only your own contributions?
+Meno: I suppose I would [grant|not begrudge you] [the ]victory in that case, Socrates.
 Socrates: Then suppose I announce: "Meno's next contribution to the tablet shall be 'You win, Socrates.' Meno: You win, Socrates." That is to say, first, I announce that Meno's next contribution on the tablet will be, "You win, Socrates". At that point, I suppose you'll want to pipe in and say "You lose, Socrates". But before you have a chance to do that, I quickly say, "Meno: You win, Socrates". Wouldn't I win then?
 Meno: That would be cheating, Socrates. You know they say, only a fool puts words in other people's mouths. We would both know that you had cheated and had not won. And before you say that someone reading this tablet here would think you had won, because they were confused by your linguistic trick, the truth is, not even a reader of the tablet after the fact would think you won. And that's because your challenge is not to help me remember a little part of my future contributions to the tablet. Your challenge is to help me remember all of my future contributions to the tablet, and in the correct order, too. So in that example of yours, after you say "You win, Socrates. Meno: You win, Socrates," I would say, "You cheat, Socrates." And then even to someone reading the tablet, who was not here in person, they would know you did not win. Because they would see that I contributed the words, "You cheat, Socrates" to the tablet, and you did not predict those.
 Socrates: You are very cunning, Meno. I think not even Ulysses could trick you.
