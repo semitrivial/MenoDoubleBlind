@@ -194,39 +194,39 @@ Socrates: Yes, we must proceed. Well, [then, ]suppose instead of handing you the
 Meno: It would output 'Meno:'
 Socrates: [[And|Well,] w|W]hat if I wanted [your function|it] to output the first ten characters?
 Meno: [Then i|I]t would output 'Meno:Goodm'.
-Socrates: [[And|Well,] w|W]hat would that function be, that outputs the first ten characters?
+Socrates: [[And|Well,] w|W]hat would that function be, that outputs [the|those] first ten characters?
 Meno: It would be [like ]this:
   def output_first_ten(X):
     print(X{:10})
-Socrates: But look here. There's some space on your servant's tablet between 'Meno:' and 'Good'. And if someone included that space in the X that they passed you, then your function would not output 'Meno:Goodm', rather it would output 'Meno: Good', wouldn't it?
+Socrates: But look here. There's [some|a] space on your servant's tablet between 'Meno:' and 'Good'. [If|And if] someone included that space in the X [that ]they [handed|passed] [to ]you, then your [function|output_first_ten] would not output 'Meno:Goodm'[; rather,|, [but ]rather] it would output 'Meno: Good', wouldn't it?
 Meno: [Yes|That's right|It would].
-Socrates: Could you modify your function to discard any such spaces? You'd better modify it to discard tabs and line-breaks too, while we're at it.
+Socrates: [[Can|Could] you modify [your|the] function|[Can|Could] your function be modified] to discard [all|any] such spaces? [We'd better|You'd better modify it to] discard tabs and line-breaks too, while we're at it.
 Meno: Sure. Here's the modified version:
-  def output_first_ten_nospace(X):
+  def output_first_ten_[no[_]space[s]|without_space[s]](X):
     X=X.replace(" ","") # Remove spaces
     X=X.replace("\n","") # Remove line-breaks
     X=X.replace("\t","") # Remove tabs
     print(X{:10})
-Socrates: And if we changed "ten" to "fourty", what would your function output?
+Socrates: [[And i|I|Well, i]f|Suppose] [we changed [ten to forty|"ten" to "forty"]|ten were [replaced by|changed [to|into]] forty|we replaced ten with forty], what would your function output[ then]?
 Meno: It would output "Meno:Goodmorning,Socrates.Socrates:Goodm".
-Socrates: And it's a good thing we removed the linebreaks, for otherwise it would have output the following:
+Socrates: [I|And i]t's [good|a good thing] [that ]we removed [the ]linebreaks, for otherwise [I suppose ][it|the function] would have [output|printed] the following:
   Meno:Goodmorning,Socrates.
   Socrates:Good
-And I think that would be much harder to work with. So I think we're making progress. We are not limited to printing fragments of earlier conversation directly, are we? We can transform those fragments first, before printing them, can't we? For example, you could write a program that prints the first ten characters of the conversation, but converted to uppercase. What would the result be?
+And I think that would be [much ][harder|tougher] to [reason about|work with|wrap my head around]. [So ]I think we're making progress. [We're|We are] not limited to printing fragments of earlier conversation directly, are we? We [could|can] [transform|alter] those fragments first, before printing them, can't we? For [example|instance], you could write a program that prints the first ten characters of [the|our] [conversation|discussion], but [converted|transformed] [to|into] uppercase. What would the result be?
 Meno: It would be 'MENO:GOODM'.
-Socrates: In that case, can we say that you have taken an initial fragment of our conversation, and you have transformed it in a certain way, and that 'MENO:GOODM' was the output?
+Socrates: In that case, could we say that you have taken an initial fragment of our conversation, and you have [transformed|modified] it [in ]a certain way, and[ that] 'MENO:GOODM' [was|is] the [output|result]?
 Meno: [Yes|Certainly|That's right].
-Socrates: Well, as to your challenge, suppose I described a more elaborate transformation. And suppose you performed that transformation on this conversation so far, from the start until the moment when I said "Well, as to your challenge". And suppose that the output was:
+Socrates: Now as to your challenge, [suppose|imagine] I described a more [elaborate|complicated|sophisticated|intricate] transformation. [[S|And s]uppose|And let's [say|suppose|imagine]] you performed [that|said|my] transformation on [this|our] conversation so far, from the start until the moment when I said "Now as to your challenge". And suppose [that ]the output was:
   You win, Socrates.
   You're welcome.
   I admit it.
-And suppose that as soon as you performed that transformation and saw the output, you immediately said, "You win, Socrates." And suppose after that, I said, "Thank you, Meno." And suppose after that, you said, "You're welcome." And suppose after that, I said, "So you admit that there is no learning, there is only remembering?" And suppose after that, you said, "I admit it." Then I would have passed your challenge?
+[[And|Now] [suppose|imagine]|[Suppose|Imagine]] that [as soon as|once] you performed that transformation[,] and [saw|realized] [[the|its] output|the result], you immediately said, "You win, Socrates." And suppose after that, I said, "Thank you, Meno." And suppose after that, you said, "You're welcome." And suppose [after that|next], I [said|asked], "Do you admit [that ]there is no learning, [there is|but] only remembering?" [And s|S]uppose after that, you [said|answered|replied], "I admit it." Then [wouldn't I have|I would have] passed your challenge?
 Meno: Yes, but that would never happen.
 Socrates: Why not?
-Meno: Because in that situation, after seeing that output, which predicts I will say "You win, Socrates", I would respond by saying the opposite. I would say, "You lose, Socrates". And if instead the output started with "You lose, Socrates", then I would say the opposite of that, and say, "You win, Socrates", but we would both know that I was lying, and that you really lost.
+Meno: [Because i|I]n that situation, after seeing [said|that] output, which predicts I will say "You win, Socrates", [[I'd|I would] instead say|[I'd|I would] respond by saying] the opposite. I would say, "You lose, Socrates". And if instead the output started with "You lose, Socrates", [then ][I would|I'd] say the opposite of that[ instead], [and say|which is|namely], "You win, Socrates", but [we'd|we would] both know [that I was lying, and that ]you [really ]lost.
 Socrates: Yes, that's what makes this challenge so devious, Meno.
 Meno: Do you give up yet, Socrates?
-Socrates: It is not I who have the choice to give up or continue, Meno, it is you. For I am only asking questions, you are the one answering them. Indeed, I think that's why this approach cannot work. For you are not a book, Meno. You are not just pre-written lines of text. You do not choose your words blindly, but you choose them in response to things. And before you speak, you consider in your mind what you are going to say, mentally performing calculations that are invisible to me. And in the context of computer programming, what do we call something that does things that way, performing scratch-work in the background to calculate what it will do next?
+Socrates: It is not I who have the choice to give up or continue, Meno, it is you. For I am only asking questions, you are the one answering them. Indeed, I think that's why this approach cannot work. For you are not a book, Meno. You are not just pre-written lines of text. You [do not|don't] choose [[your ]words|words to say] blindly, like someone blind from [sun-gazing|staring at the sun]; [rather, ]you [choose|calculate] them in response to things. And before you speak, you consider in your mind what you are going to say, mentally performing calculations that are invisible to me. And in the context of computer programming, what do we call something that does things that way, performing scratch-work in the background to calculate what it will do next?
 Meno: We call that a program, Socrates.
 Socrates: Well, let us change our approach then. Suppose we described some elaborate transformation. And suppose you performed that transformation on this conversation so far, from the start until the moment when I said, "Well, let me change my approach then." And suppose the output was:
   print("""You win, Socrates.
@@ -269,7 +269,7 @@ Meno: I think a reasonable alphabet for writing programs would be:
   alphabet = "abcdefghijklmnopqrstuvwxyz"
   alphabet += " ()[]:'=,+.#\n"
   alphabet += '"'
-Socrates: Fourty characters in all, right? Since I assume by \n you mean a single linebreak. No uppercase letters?
+Socrates: Forty characters in all, right? Since I assume by \n you mean a single linebreak. No uppercase letters?
 Meno: For your sake, Socrates, I will consider it a victory for you if our program predicts I will say "hey", even if my servant here actually writes "Hey" with the H uppercase.
 Socrates: Most generous of you, Meno. Well then, assuming this bare-bones alphabet is rich enough to write computer programs, how many characters of our conversation should we use to encode each character of our program? We already saw that "one", "five", and "ten" are too small. Maybe twenty?
 Meno: Socrates, I know you haven't studied computer science, but really. Twenty is still way too small. I think you're still off by an order of magnitude. Let's make it two hundred.
