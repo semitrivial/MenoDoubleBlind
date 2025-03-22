@@ -31,32 +31,32 @@ Socrates: And the reason it would be impressive is because I helped you predict 
 Meno: Yes.
 Socrates: [And would|Would] it be equally impressive if I helped you [to ]remember the past? For [example|instance], if I [helped|were to help] you [remember|recall] that you [began|started] this [whole ][conversation|discussion] by saying 'Good morning, Socrates'?
 Meno: No.
-Socrates: Well then, by Olympus, wouldn't it at least be impressive if I helped you remember a large amount of the past? For example, if I helped you remember this whole entire conversation from 'Good morning, Socrates', all the way up to 'Well then, by Olympus'? Wouldn't that be impressive?
+Socrates: Well then, by Olympus, wouldn't it at least be impressive if I helped you remember a large amount of the past? For [example|instance], if I helped you [to remember|to recall|remember] this [whole|entire|whole entire] conversation from 'Good morning, Socrates', all the way up to 'Well then, by Olympus'? [Wouldn't that be|Would that not be] impressive?
 Meno: No.
-Socrates: So what you've said in the past is, in some sense, trivial?
+Socrates: So what you've said in the past is, in [some|a certain] sense, trivial?
+Meno: [Yes|Quite trivial|Most trivial][, Socrates].
+Socrates: But what you'll say in the future is deep and mysterious?
 Meno: Yes.
-Socrates: But what you'll say in the future, is deep and mysterious?
-Meno: Yes.
-Socrates: And if I tried to invoke something deep and mysterious, then that would be cheating, right? For example, if I said, 'You are next going to say the thing that you are next going to say', that would certainly not be impressive, would it?
-Meno: No.
-Socrates: But if I invoked something trivial, that would be fine, right? For example, if, as part of my questioning, I remind you that we are standing in Athens, that would be perfectly reasonable, right?
-Meno: Yes.
-Socrates: So for example, suppose I ask you: take the first sentence you said to me, and repeat it to me again right now, and then afterward, please repeat it to me again a second time. And suppose I claimed that, by doing so you would recite our entire conversation. Would I be right?
-Meno: No.
+Socrates: And if I tried to invoke something deep and mysterious, then that would be cheating, right? For [example|instance], [if I said|were I to say], 'You [are next going to say|will next say] the thing that you [are next going to say|will next say],' that would [certainly ]not be impressive, would it?
+Meno: That would be [most|quite] unimpressive.
+Socrates: But if I [invoked|were to invoke] something trivial, that would be fine, right? For example, if, as part of my questioning, I remind you [that ]we are standing in Athens, that would be [perfectly ]reasonable, [right|wouldn't it]?
+Meno: [Of course|Perfectly reasonable].
+Socrates: So for example, suppose I ask you: take the first sentence you said to me, and repeat it to me again right now, and then afterward, please repeat it to me [again ]a second time. And suppose I [claimed|asserted] that, by [doing so|so doing], you would recite our [entire|whole] conversation. Would I be right?
+Meno: [Absolutely|Certainly] not.
 Socrates: Why not?
-Meno: Well, suppose I did exactly that. Then I would say: 'Good morning, Socrates. Goodmorning, Socrates.'
-Socrates: Well, wouldn't that be a conversation? Albeit, a bit one-sided?
-Meno: Yes.
-Socrates: But I would be wrong when I claimed that that one-sided conversation was our entire conversation we are having?
-Meno: Yes.
+Meno: Well, suppose I did exactly [what you propose|that]. Then I would say: 'Good morning, Socrates. Goodmorning, Socrates.'
+Socrates: Well, [wouldn't that be|isn't that] a conversation? Albeit, a [bit|little] one-sided?
+Meno: It would be a [very ]short[,| and] one-sided conversation.
+Socrates: But [I would|I'd] be wrong when I claimed that [that ]one-sided conversation was [our|this] [entire|whole] conversation we are having?
+Meno: [Absolutely|Most|Quite] wrong.
 Socrates: Why?
-Meno: Well, for one thing, at the beginning of this conversation we are having, I did not greet you twice in a row like that. For another thing, you responded to me, whereas in the one-sided conversation in question, you didn't respond to me.
-Socrates: So the reason why this supposed one-sided conversation would not win your challenge, is because of the content of the results?
-Meno: Yes.
-Socrates: And is there any other reason why this supposed one-sided conversation would not win your challenge?
+Meno: Well, for one[ thing], at the start of this conversation [we're|we are] having, I did not greet you twice in a row like that. For another[ thing], you responded to me, [whereas|but] in the one-sided conversation in question, you [did not|didn't][ respond[ to me]].
+Socrates: So the reason [why ]this supposed one-sided conversation would not win your challenge, is because of the content of the results?
+Meno: [Yes|Indeed|Quite so].
+Socrates: [And is|Is] there any other reason why this supposed one-sided conversation would not [win|beat] your challenge?
 Meno: No.
-Socrates: In that one-sided example, I used earlier pieces of our conversation as tools. But you say, the only reason why that example would fail to solve the challenge, is because of the content of the resulting one-sided conversation?
-Meno: Yes.
+Socrates: In that one-sided example, I used earlier pieces of our conversation as tools. But you say, the [lone|only|sole] reason [why ]that example [would fail|failed] to solve the challenge, is because of the content of the resulting one-sided conversation?
+Meno: That's right.
 Socrates: Then it's perfectly alright for me to use earlier pieces of our conversation like that?
 Meno: Yes.
 Socrates: Well, supposing I said to you: 'Take our whole entire conversation up until I said the word octopus. Repeat that whole conversation back to me. Then repeat that whole conversation back to me a second time.' Would that solve your challenge?
