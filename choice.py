@@ -54,12 +54,19 @@ def enum_choices(choices):
         parsed.append("")
     return parsed
 
+def myord(x):
+    if x == '{':
+        return ord("[")
+    if x == '}':
+        return ord("]")
+    return ord(x)
+
 def choose_block(txt, needle):
     choices, before, after = get_first_fork(txt)
 
     if choices is None:
         block = txt[:BLOCK_SIZE]
-        s = sum(ord(x) for x in block) % len(alphabet)
+        s = sum(myord(x) for x in block) % len(alphabet)
         if s != needle:
             raise KeyError
         remainder = txt[BLOCK_SIZE:]

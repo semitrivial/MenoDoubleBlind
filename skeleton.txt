@@ -197,7 +197,7 @@ Meno: [Then i|I]t would output 'Meno:Goodm'.
 Socrates: [[And|Well,] w|W]hat would that function be, that outputs the first ten characters?
 Meno: It would be [like ]this:
   def output_first_ten(X):
-    print(X[:10])
+    print(X{:10})
 Socrates: But look here. There's some space on your servant's tablet between 'Meno:' and 'Good'. And if someone included that space in the X that they passed you, then your function would not output 'Meno:Goodm', rather it would output 'Meno: Good', wouldn't it?
 Meno: [Yes|That's right|It would].
 Socrates: Could you modify your function to discard any such spaces? You'd better modify it to discard tabs and line-breaks too, while we're at it.
@@ -206,7 +206,7 @@ Meno: Sure. Here's the modified version:
     X=X.replace(" ","") # Remove spaces
     X=X.replace("\n","") # Remove line-breaks
     X=X.replace("\t","") # Remove tabs
-    print(X[:10])
+    print(X{:10})
 Socrates: And if we changed "ten" to "fourty", what would your function output?
 Meno: It would output "Meno:Goodmorning,Socrates.Socrates:Goodm".
 Socrates: And it's a good thing we removed the linebreaks, for otherwise it would have output the following:
