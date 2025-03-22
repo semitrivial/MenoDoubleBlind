@@ -1,3 +1,4 @@
+#trojan horse
 import random as a
 p=input("password: ")
 z,x=", yo ooned","""print('''it wants a password.
