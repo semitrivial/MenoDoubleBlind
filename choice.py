@@ -6,7 +6,8 @@ want = open('coded.py', 'r').read()
 BLOCK_SIZE = 200
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
-alphabet += """ (){}[]:'"=,_!|\n\\"""
+alphabet += "()[]:'=,+*_#\n"
+alphabet += '"'
 
 def get_first_fork(txt):
     try:

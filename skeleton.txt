@@ -13,10 +13,7 @@ Socrates: I'm not [really ][so ][sure|certain] [about|of] that[, Meno]. [I often
 Meno: What! Does the great Socrates have trouble with his [memory|memories]?
 Socrates: [I often|Quite often I] wish [that ]I [[could remember|remembered] things better|had [better|greater] memory], Meno. For I feel sometimes as though I flit between two worlds. One is intelligible and beautiful, the other is sensible and profane. For example, when my house is well[-| ]organized, [and|so|so that] I remember where I [have ]put [everything|my things], [it's|it is] as if I [live|dwell] in a house [designed|created|built] by the geometers, for I can find my shirt or my shoes by an act of pure thinking. But more often, my house is not organized, and I must grope around for my shirt or my shoes, [and I feel ]as if [I'm|I've been] cast out [of|from] that house of the geometers, and [plunged into|imprisoned in] a carnal house of the [five ]senses.
 Meno: Well, I, for one, take pride in my house always being organized. For I have servants who organize it for me. And, look here: I have a servant [writing|inscribing] this [very ]conversation [of ours ]on a stone tablet, here. You know him[, Socrates]: [he|it] is the same boy [you [conversed|spoke] with|with whom you [spoke|conversed]] about geometry the last time you visited. I treasure your words like gold, Socrates, and I will preserve them, and guard them, [just as|just like|the same way] I would [guard|treat] a [great|valuable|priceless] treasure.
-Socrates: You flatter me very greatly, Meno. But I suspect you're just saying that
-  because you want to catch me in some trap. Very well, Meno. For the sake of the
-  argument, I grant that after we have this conversation, you shall have learned
-  it.
+Socrates: You flatter me very greatly, Meno. But I suspect you're just saying that because you want to catch me in some trap. Very well, Meno. For the sake of the argument, I grant that after we have this conversation, you shall have learned it.
 Meno: Well then, doesn't that mean [that ]I already [know|knew] it, and [have only|had only|needed only|only needed|only had|only have] to [remember|recall][ it]?
 Socrates: Yes, I grant that, Meno. [Even|Long] before [you were born|your mother gave birth to you], you already knew I would say[ the words][,] 'Yes, I grant that, Meno,' [which I [said|uttered|spoke] ]just [now|a [second|moment] ago].
 Meno: Well then, [dear ]Socrates, [I have|I propose|[I'd like|I want] to [pose|propose]] a challenge for you. [With|Using] your [in]famous method of [questioning|asking questions], please [help|guide] me to [remember|recall] [all [of ]the things|everything] [[we're|we are] going to|we will|we'll|we shall] say in this dialogue[ we're having| we're engaged in]. That is, if [you are able to|you can]. But I doubt [it|you can[ do it]].
@@ -497,11 +494,10 @@ Socrates: Then I guess since we don't have all day to stand here talking,
   for writing computer programs? Within reason, I mean. We're not trying to
   compete in some obfuscated code contest.
 Meno: I think a reasonable alphabet for writing programs would be:
-    alphabet = "abcdefghijklmnopqrstuvwxyz"
-    alphabet += "(){}[]:'\"=,+_\n"
-Socrates: Fourty characters in all, right? Since I assume by \" you mean
-  a single ASCII quotation mark, and by \n you mean a single linebreak.
-  No uppercase letters?
+  alphabet = "abcdefghijklmnopqrstuvwxyz"
+  alphabet += "()[]:'=,+*_#\n"
+  alphabet += '"'
+Socrates: Fourty characters in all, right? Since I assume by \n you mean a single linebreak. No uppercase letters?
 Meno: For your sake, Socrates, I will consider it a victory for you if our
   program predicts I will say "hey", even if my servant here actually writes
   "Hey" with the H uppercase.
@@ -542,13 +538,14 @@ Socrates: Amazing, Meno! And what do we get when we take the first 200
   characters of our conversation and plug them into this cipher?
 Meno: The first 200 characters of our conversation make the string:
     "(...)"
-  Plugging that into the cipher function, we get an "i".
+  Plugging that into the cipher function, we get an "#".
 Socrates: And what about the 200 characters?
 Meno: The next 200 characters are:
     "(...)"
-  Plugging that in, we get an "m".
-Socrates: So the program we are looking for begins with "im". Very good.
-  By Zeus! Alright, Meno, now keep going and plug in all the blocks
+  Plugging that in, we get an "t".
+Socrates: So the program we are looking for begins with "#t". Meno, do you think it's possible that "#t" could be the beginning of a valid program?
+Meno: Socrates, any line that starts with "#" is a comment, meant for the human reader and not for the machine to run. The program could start with a comment like "#this program predicts meno" or "#the following code generates meno's next lines" or really any comment that starts with "#t"; it's just a comment, so it has no effect on what the program does. So I guess theoretically yes, "#t" could be the start of a valid program.
+Socrates: By Zeus! Alright, Meno, now keep going and plug in all the blocks
   of length 200 from our conversation, right until when I say "By Zeus!"
   Do we get a valid program? Wait! Don't answer that. You must be very
   careful what you say next, Meno. Here, take my staff and write the
@@ -557,6 +554,7 @@ Socrates: So the program we are looking for begins with "im". Very good.
   my friend. You have written an "i"... and now an "m"... we already
   knew those two... "p"... yes, yes... Done! The program you have written
   is:
+    #trojan horse
     import random as a
     p=input("password: ")
     z,x=", yo ooned","""ntey''tf ' ti
