@@ -168,34 +168,34 @@ Socrates: So [then, ]to corrupt the youth in the most [efficient|reliable|effici
 Meno: Yes. That is, if one wanted to corrupt the youth, Socrates. Not that either of us wants that.
 Socrates: But if you [did convince|convinced] a young man to stare at the sun, wouldn't wiser men [come to his rescue|rescue him]? Wouldn't they [tell him|say], 'Stop! You [must not|mustn't] stare at the sun! It will [make you go blind|blind you]!'?
 Meno: [Yes|Indeed].
-Socrates: And so in order for your diabolical plan to work, you would have to anticipate that, wouldn't you? You'd have to not just persuade your young victim that he should gaze at the sun, but even predict that his elders will say 'Stop!'. You'd have to make him think his elders were wrong, wouldn't you?
+Socrates: And so in order for your diabolical plan to work, you would have to anticipate that, wouldn't you? Not unlike [how|the way in which] we're trying to anticipate Meno here. You'd have to not just persuade your young victim [that ]he should gaze at the sun, but even predict [that ]his elders [would|will] [tell him|say] 'Stop!' [And y|Y]ou'd have to make him think his elders were [wrong|mistaken], wouldn't you?
 Meno: [There would|There'd] be no other way[to do it].
-Socrates: But he loves his elders. He would never believe they would intentionally lie to him. You'd have to convince him his elders meant the best, but that they themselves were decieved.
+Socrates: But he loves his elders[!|.] [He would|He'd] never believe they would intentionally [lie to|mislead|deceive] him. You'd have to convince him his elders meant [the best|well], [but|and] that they themselves [were|had been] decieved.
 Meno: [[I suppose y|Y][ou'd|ou would] have to].
-Socrates: You'd have to convince him they're like men in a cave, staring at shadows on the wall. That the sun is a fire behind them, casting those shadows. And that their eyes are accustomed to the dark, and that in order to escape the cave, they must turn and face the sun, wouldn't you?
+Socrates: You'd have to convince him they're like men in a cave, staring at shadows on the wall. That the sun is a fire behind them, casting those shadows. And that their eyes are accustomed to the dark, and that in order to escape[ the cave], they must turn and face the sun, wouldn't you?
 Meno: [That would be|That is|That'd be] one way to do it.
-Socrates: And then when their elders cried, 'Stop!', they would say to themselves: 'These elders do not realize we are in a cave. They think this fire is the sun, and it will burn up my pupils.' Wouldn't they?
+Socrates: [W|And [then ]w]hen their elders cried, 'Stop!', they would [say|think] to themselves: 'These elders [don't|do not] realize [we're|we are] in a cave. They [believe|think] this fire is the sun, and it will burn [up ]my pupils.' Wouldn't they?
 Meno: That would be our [strategy|stratagem], yes.
-Socrates: And if some youth ever returned to that cave, after dwelling in the bright outside, they really would be quite blind, while their eyes readjusted to the darkness, wouldn't they?
+Socrates: And if some youth [ever ]returned to [that|the] cave, after dwelling [on the bright surface|in the bright outside], they really would be [quite ]blind, while their eyes [|re|re-]adjusted to the darkness, wouldn't they?
 Meno: Quite blind[, yes| indeed|].
-Socrates: And their elders would say, 'You should have listened to us! We told you you would go blind if you stared at the sun like that! If only you had listened!'
-Meno: Yes, and their elders would be quite upset.
-Socrates: And what would happen to whoever it was that told that youth to turn and face the fire in the cave? He'd be accused of corrupting the youth, wouldn't he?
+Socrates: [And t|T]heir elders would [say|lament], 'You should have listened to us! We told you you would go blind if you stared at the sun like that! If only you had listened!'
+Meno: Yes, [and ]their [poor ]elders would be [quite|most] [upset|distraught].
+Socrates: [W|And w]hat would happen to whoever it was that told that youth to turn and face the fire in the cave? He'd be accused of corrupting the youth, wouldn't he?
 Meno: At the very [least|minimum].
-Socrates: Because the youth's eyes were damaged? Or because of the thoughts in the youth's head?
-Meno: Because the youth's eyes were damaged, obviously.
-Socrates: So then, there is no danger of me corrupting you, Meno, merely by making you think about lines of text on a tablet, is there?
+Socrates: Because the youth's eyes were damaged? Or because of [the ]thoughts in the youth's [mind|head]?
+Meno: Because the youth's eyes were damaged, [obviously|clearly|of course].
+Socrates: So then, [there's|there is] no danger [[that ]I'll corrupt|of [me|my] corrupting] you, Meno, merely by making you think about lines of text on a tablet, is there?
 Meno: None[ at all| whatsoever|].
-Socrates: In that case, let's proceed. For the last thing I would ever want to do to you is corrupt you, dear Meno.
-Meno: Yes, Socrates, let's get back to the issue at hand. I don't want you to dodge my challenge by going off on some wild tangent. Let me remind you of your precarious position. You claimed, last time we met, that there is no such thing as learning, rather, there is only remembering. I have pointed out that by that logic, I already know all the contents of this conversation we are having. And I have challenged you to help me remember those contents. And you are stuck, for if you succeed in this challenge, I shall immediately say the very opposite of what you help me remember I was about to say next.
-Socrates: Thank you, dear Meno, for holding me accountable.
+Socrates: [Then|In that case,] let's proceed. For the last thing I would ever want to do to you is corrupt you, Meno.
+Meno: [Please do|Yes], Socrates, let's get back to the issue at hand. [Don't|I don't want you to] [dodge|evade] my challenge by [going off on|pursuing|chasing after] some wild tangent. [Let me|I'll] remind you of your precarious position. You claimed, [the ]last time we met, that [there is|there's] no such thing as learning, rather, there is only remembering. I [have ]pointed out that by that logic, I already know all the contents of this [conversation|discussion] [we're|we are] [having|engaged in]. And [I have|I've] challenged you to help me remember those contents. And [you're|you are] stuck[ hard], for [if|should] you succeed in this [challenge|task], I shall immediately say the [very|exact|precise] opposite of what you help me remember I was about to say next.
+Socrates: Thank you, [my ]dear Meno, for holding me accountable.
 Meno: Let's get on with it, then.
-Socrates: Yes, we must proceed. Well, then, suppose instead of handing you the first line of this conversation as X, suppose I handed you the whole conversation as X, up until I said 'Yes, we must proceed'. And suppose I wanted your function to output the first five characters. What would it output?
-Meno: It would output 'Meno:'.
-Socrates: And what if I wanted your function to output the first ten characters?
-Meno: Then it would output 'Meno:Goodm'.
-Socrates: And what would that function be, that outputs the first ten characters?
-Meno: It would be like this:
+Socrates: Yes, we must proceed. Well, [then, ]suppose instead of handing you the first line of this conversation as X, suppose I handed you the [whole|entire|whole entire] conversation as X, up until [when ]I said 'Yes, we must proceed'. [And s|S]uppose I wanted [your function to|that your function should] output the first five characters[ of X]. What [then ]would it output?
+Meno: It would output 'Meno:'
+Socrates: [[And|Well,] w|W]hat if I wanted [your function|it] to output the first ten characters?
+Meno: [Then i|I]t would output 'Meno:Goodm'.
+Socrates: [[And|Well,] w|W]hat would that function be, that outputs the first ten characters?
+Meno: It would be [like ]this:
   def output_first_ten(X):
     print(X[:10])
 Socrates: But look here. There's some space on your servant's tablet between 'Meno:' and 'Good'. And if someone included that space in the X that they passed you, then your function would not output 'Meno:Goodm', rather it would output 'Meno: Good', wouldn't it?
