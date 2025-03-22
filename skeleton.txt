@@ -55,45 +55,45 @@ Socrates: So the reason [why ]this supposed one-sided conversation would not win
 Meno: [Yes|Indeed|Quite so].
 Socrates: [And is|Is] there any other reason why this supposed one-sided conversation would not [win|beat] your challenge?
 Meno: No.
-Socrates: In that one-sided example, I used earlier pieces of our conversation as tools. But you say, the [lone|only|sole] reason [why ]that example [would fail|failed] to solve the challenge, is because of the content of the resulting one-sided conversation?
+Socrates: In that one-sided example, I used earlier pieces of our conversation as tools. But you say, the [lone|only|sole] reason [why ]that example [would fail|failed] to solve the challenge, is [because of|due to] the content[s] of the resulting one-sided conversation?
 Meno: That's right.
-Socrates: Then it's perfectly alright for me to use earlier pieces of our conversation like that?
-Meno: Yes.
+Socrates: Then it's perfectly alright for me to use earlier pieces of our conversation [like that|that way]?
+Meno: [Certainly|Yes, that's [certainly ][fine|alright]].
 Socrates: Well, supposing I said to you: 'Take our whole entire conversation up until I said the word octopus. Repeat that whole conversation back to me. Then repeat that whole conversation back to me a second time.' Would that solve your challenge?
-Meno: No.
+Meno: [Not at all|Certainly not|Of course not|Obviously not].
 Socrates: Because the content of the resulting conversation would not equal our actual conversation?
 Meno: Yes. For example, in the resulting conversation, you would say: '...up until I said the word octopus'. And then I would say (because at that point I would have finished the first repetition and start in on the second one): 'Good morning, Socrates.'
 Socrates: Whereas, in our actual conversation, after I said the word octopus, you did not immediately say 'Good morning, Socrates'?
-Meno: Yes.
+Meno: [Yes|Right|That's right].
 Socrates: Then we shall have to think of a more clever method. But first, let's consider the example more deeply. Let X denote our entire conversation up until, and including, when I said the word octopus. And suppose I wanted to ask you to repeat X to me, and then to repeat X to me a second time. Can you program a function that would take X and repeat it that way?
 Meno: Certainly. That's easy. How about this?
   def repeat_twice(X):
     print(X)
     print(X)
 Socrates: So then, if I asked you to take the first sentence you said to me, and plug it in to 'repeat_twice', the resulting output would be as follows? Good morning, Socrates. Good morning, Socrates.
-Meno: Yes.
+Meno: [That's right|Yes|Quite so].
 Socrates: What if I asked you to take the nineteenth sentence you said to me, and plug that into 'repeat_twice'? What would the result be?
 Meno: I'm afraid I do not remember exactly what that nineteenth thing was.
 Socrates: Can you think of any way of recalling it?
 Meno: Well, yes. We could read it off my servant boy's tablet here. He's been diligently writing down this conversation for me. You know I treasure your words more than gold, Socrates.
 Socrates: I should warn you not to read or write too much philosophy, Meno. For you cannot ask questions of a book, and neither can a book question you. But in this case I admit it's convenient. You say that by consulting this tablet, we can recall exactly what the nineteenth sentence you said was?
-Meno: Yes.
+Meno: [Yes|Indeed|That's right|Easily|With ease].
 Socrates: But isn't your servant writing some other things here? Look. He writes 'Meno:' whenever you begin talking. He writes 'Socrates:' when I do.
-Meno: Yes.
+Meno: [Yes|Sure].
 Socrates: We have a very serious problem, then. Look at the tablet right here, near the very top. It says: 'Good morning to you, Meno, my friend. Meno:' Now I can't remember. Did I say 'Meno:' immediately after I said 'Good morning to you, Meno, my friend'? Or does 'Meno:' here mean that you started talking?
 Meno: I believe it means that I started talking. I don't think you literally said 'Meno, my friend, Meno'.
 Socrates: But look here, near the bottom. It says, quote: Did I say 'Meno:' immediately after I said 'Good morning to you, Meno, my friend'? Unquote. Well then. I know it was me who said 'Did I say', but who said 'immediately'? Which one is it? Did Socrates say, 'Did I say Meno: immediately after...'? Or did I say 'Did I say' and then Meno jumped in and said 'immediately after'?
 Meno: I'm pretty sure you said 'Did I say Meno: immediately after...'
 Socrates: But the tablet itself doesn't tell us for certain?
-Meno: No.
+Meno: I [suppose|guess] it [might not|doesn't].
 Socrates: And just think. If you were reading this tablet by your lonesome, you couldn't even ask it whether this 'Socrates:' here means that Meno said 'Socrates:', or whether it means Socrates started talking. So you see the danger, then, of reading too much philosophy?
-Meno: Yes.
+Meno: [Perhaps|Maybe].
 Socrates: And your challenge is quite hopeless. For if I claim to remind you what our whole conversation is, you won't be able to check if my claim is true. For you can't tell from this tablet who said what when, can you?
-Meno: No.
+Meno: I [suppose|guess] not.
 Socrates: But maybe we can modify the challenge. Do you at least know what is written on the tablet? For example, that the very first letter on the tablet is 'G'?
-Meno: Yes.
+Meno: [Yes|Certainly|Indeed].
 Socrates: Then maybe instead of helping you to recall our future conversation, I could instead help you to recall the future contents of the tablet. Your little paradox would still apply, wouldn't it?
-Meno: Yes.
+Meno: [It would|Quite|Absolutely].
 Socrates: And I wouldn't even need to help you recall my own future contributions to the tablet, would I? Wouldn't you say I won if I could just help you recall your future contributions to the tablet?
 Meno: I'm not sure what you mean exactly by that, Socrates.
 Socrates: Let me give you an example. Suppose I helped you to remember that your own future contributions to the tablet would be:
@@ -106,23 +106,23 @@ Meno: That would be cheating, Socrates. You know they say, only a fool puts word
 Socrates: You are very cunning, Meno. I think not even Ulysses could trick you.
 Meno: Why do you say that, Socrates?
 Socrates: Do you remember how Ulysses tricked Polyphemus, the cyclops? He lied to Polyphemus, he said his name was Noman. Then when Polyphemus's friends came and asked if some man was slaying him, Polyphemus said, 'Noman is slaying me.' Didn't Ulysses do that on purpose, so that the cyclops's friends would misunderstand and think Polyphemus had said "No man is slaying me"? Isn't that exactly the kind of syntactical-semantical confusion you have so effortlessly avoided just now?
-Meno: Yes.
+Meno: I [guess|suppose|reckon] [it is|so].
 Socrates: I think this challenge is very difficult, and I almost want to give up, except a voice in my head compels me not to do that. Certainly this task is beyond my own power, and I can only hope that it is within your power, Meno. So I will ask you questions and we will see whether you can figure out how to defeat yourself in this challenge, though I daresay you have a conflict of interest in the matter. Let us start from the beginning. Doesn't the first line on this tablet say, "Meno: Good morning, Socrates."?
-Meno: Yes.
+Meno: We've [thoroughly |already |]established that.
 Socrates: And if I asked you to plug that line into your 'repeat_twice' function, would the result be the following?
   Meno: Good morning, Socrates.
   Meno: Good morning, Socrates.
-Meno: Yes.
+Meno: [Yes|Yes, of course].
 Socrates: What if instead of you, what if a cobbler plugged that line
   into your 'repeat_twice'? Would the result be the following?
   Meno: Good morning, Socrates.
   Meno: Good morning, Socrates.
-Meno: Yes.
+Meno: Again[,] yes.
 Socrates: And what if a painter plugged that line into 'repeat_twice'?
   Would the result be the following?
   Meno: Good morning, Socrates.
   Meno: Good morning, Socrates.
-Meno: Yes.
+Meno: [Yes, it|It] would [still be so|be the same], even if we were painters.
 Socrates: And what if a sailor plugged that line into 'repeat_twice'?
   Would the result be the following?
   Meno: Good morning, Socrates.
@@ -130,61 +130,61 @@ Meno: Good morning, Socrates.
 Socrates: Hey! Don't you know it's impolite to finish someone's sentence for him?
 Meno: I'm sorry, Socrates. It's just that you were being rather predictable.
 Socrates: I was doing that on purpose because I suspected you'd react that way. You see, I wanted to show you something. Look on the tablet near the bottom here, where you finished my sentence for me just now. Don't you think someone could get very confused reading this?
-Meno: Yes.
+Meno: [Quite|Absolutely] confused.
 Socrates: So then, reading philosophy from a tablet, without being able to ask questions to the philosopher, isn't much good, is it?
 Meno: Sure it's no good, Socrates, provided the tablet was deliberately designed to be confusing! You know, I'm starting to understand why they accuse you of corrupting the youth.
 Socrates: Meno, that's a ridiculous rumour. All I have ever done to the youth is inspire them to think a little. But anyone can think anything they want, and then turn around and unthink it just as easily.
-Meno: Yes.
+Meno: [Yes|Certainly].
 Socrates: And all these things we've been saying are just idle thoughts, aren't they? You could ponder these things all day and night, and then the very next day, you could ponder the exact opposite.
-Meno: Yes.
+Meno: [You're right|I agree].
 Socrates: So one cannot corrupt the youth just by contemplating thoughts together with them. For one can change one's thoughts just as easily as one can imagine a mountain of gold, don't you agree?
-Meno: Yes.
+Meno: If you put it that way, [yes|sure].
 Socrates: And changing people's thoughts is like writing Greek on the surface of the water. The water is so pliable you can write on it with your bare finger. But the instant that you've written there, your writing disappears, doesn't it?
-Meno: Yes.
+Meno: [Yes|Certainly].
 Socrates: In fact, I always assumed that's what Thales meant, when he said that everything is made of water. He meant that, in time, all the impressions we make on the world fade, as if we inscribed them on the face of the sea. You could not corrupt the Aegean by writing on its surface, no matter how scandalous the things you wrote there. Even language itself changes. And we attempt to nail that down, by imposing sharp constraints on it in the form of poetry. But over long enough time, even that fails, and it's like trying to keep the tide from going out by nailing the water to the sand. In the same way, I believe you could never corrupt a man just by writing thoughts into his mind, Meno.
 Meno: But surely you do admit some corrupt youths exist, don't you, Socrates?
 Socrates: I admit it.
 Meno: Then how could any youth be corrupted, if not through his mind?
 Socrates: Youths have physical bodies, too, besides just their minds, don't they?
-Meno: Yes.
+Meno: [Yes|Of course].
 Socrates: So to really corrupt the youth, you'd have to corrupt their bodies, not their minds. Wouldn't you?
-Meno: Yes.
+Meno: [Perhaps|Maybe].
 Socrates: And isn't the eye the most fragile and sensitive part of the body?
-Meno: Yes.
+Meno: [So it would seem|It would seem so].
 Socrates: And the slightest damage to the eye is more grievous than a violent wound elsewhere on the body?
-Meno: Yes.
+Meno: Within reasonable limits, [yes|sure].
 Socrates: So if someone were going to corrupt the youth, they should try to corrupt the eyes of the youth, shouldn't they?
-Meno: Yes.
+Meno: [Perhaps|Maybe].
 Socrates: And perhaps that's why people think I have a corrupting influence, not because of the words I say, but because of these bulging, bugging eyes I have. And because my eyes bulge out, people assume their children's eyes will bulge out from talking to me. As if it is not we who converse, but as if our eyes are men conversing with each other. But no-one could convince a man to harm his own eye, right?
-Meno: Yes.
+Meno: [No-one|Nobody].
 Socrates: Then, to corrupt a man's eye, one would have to trick him into doing something that hurts his eye, yes?
-Meno: Yes.
+Meno: I guess so[, Socrates].
 Socrates: One would have to persuade him to do something that damages his eye slowly. One would have to persuade him to hurt his eye in such a way that he didn't even know he was hurting it. Otherwise, he would quickly turn against you, wouldn't he?
-Meno: Yes.
+Meno: Yes, and [he would|he'd] [despise|hate] you.
 Socrates: Can you think of any way a man could damage his own eye like that?
 Meno: Well, he could stare the sun, Socrates.
 Socrates: So then, to corrupt the youth in the most efficient and reliable way, one should persuade them to stare at the sun?
 Meno: Yes. That is, if one wanted to corrupt the youth, Socrates. Not that either of us wants that.
 Socrates: But if you convinced a young man to stare at the sun, wouldn't wiser men come to his rescue? Wouldn't they tell him, 'Stop! You must not stare at the sun! It will make you go blind!'?
-Meno: Yes.
+Meno: [Yes|Indeed].
 Socrates: And so in order for your diabolical plan to work, you would have to anticipate that, wouldn't you? You'd have to not just persuade your young victim that he should gaze at the sun, but even predict that his elders will say 'Stop!'. You'd have to make him think his elders were wrong, wouldn't you?
-Meno: Yes.
+Meno: [There would|There'd] be no other way[to do it].
 Socrates: But he loves his elders. He would never believe they would intentionally lie to him. You'd have to convince him his elders meant the best, but that they themselves were decieved.
-Meno: Yes.
+Meno: [[I suppose y|Y][ou'd|ou would] have to].
 Socrates: You'd have to convince him they're like men in a cave, staring at shadows on the wall. That the sun is a fire behind them, casting those shadows. And that their eyes are accustomed to the dark, and that in order to escape the cave, they must turn and face the sun, wouldn't you?
-Meno: Yes.
+Meno: [That would be|That is|That'd be] one way to do it.
 Socrates: And then when their elders cried, 'Stop!', they would say to themselves: 'These elders do not realize we are in a cave. They think this fire is the sun, and it will burn up my pupils.' Wouldn't they?
-Meno: Yes.
-Socrates: And if the youth ever returned to that cave, after dwelling in the bright outside, they really would be quite blind, while their eyes readjusted to the darkness, wouldn't they?
-Meno: Yes.
+Meno: That would be our [strategy|stratagem], yes.
+Socrates: And if some youth ever returned to that cave, after dwelling in the bright outside, they really would be quite blind, while their eyes readjusted to the darkness, wouldn't they?
+Meno: Quite blind[, yes| indeed|].
 Socrates: And their elders would say, 'You should have listened to us! We told you you would go blind if you stared at the sun like that! If only you had listened!'
-Meno: Yes.
+Meno: Yes, and their elders would be quite upset.
 Socrates: And what would happen to whoever it was that told that youth to turn and face the fire in the cave? He'd be accused of corrupting the youth, wouldn't he?
-Meno: Yes.
+Meno: At the very [least|minimum].
 Socrates: Because the youth's eyes were damaged? Or because of the thoughts in the youth's head?
 Meno: Because the youth's eyes were damaged, obviously.
 Socrates: So then, there is no danger of me corrupting you, Meno, merely by making you think about lines of text on a tablet, is there?
-Meno: No.
+Meno: None[ at all| whatsoever|].
 Socrates: In that case, let's proceed. For the last thing I would ever want to do to you is corrupt you, dear Meno.
 Meno: Yes, Socrates, let's get back to the issue at hand. I don't want you to dodge my challenge by going off on some wild tangent. Let me remind you of your precarious position. You claimed, last time we met, that there is no such thing as learning, rather, there is only remembering. I have pointed out that by that logic, I already know all the contents of this conversation we are having. And I have challenged you to help me remember those contents. And you are stuck, for if you succeed in this challenge, I shall immediately say the very opposite of what you help me remember I was about to say next.
 Socrates: Thank you, dear Meno, for holding me accountable.
@@ -198,7 +198,7 @@ Meno: It would be like this:
   def output_first_ten(X):
     print(X[:10])
 Socrates: But look here. There's some space on your servant's tablet between 'Meno:' and 'Good'. And if someone included that space in the X that they passed you, then your function would not output 'Meno:Goodm', rather it would output 'Meno: Good', wouldn't it?
-Meno: Yes.
+Meno: [Yes|That's right|It would].
 Socrates: Could you modify your function to discard any such spaces? You'd better modify it to discard tabs and line-breaks too, while we're at it.
 Meno: Sure. Here's the modified version:
   def output_first_ten_nospace(X):
@@ -212,9 +212,9 @@ Socrates: And it's a good thing we removed the linebreaks, for otherwise it woul
   Meno:Goodmorning,Socrates.
   Socrates:Good
 And I think that would be much harder to work with. So I think we're making progress. We are not limited to printing fragments of earlier conversation directly, are we? We can transform those fragments first, before printing them, can't we? For example, you could write a program that prints the first ten characters of the conversation, but converted to uppercase. What would the result be?
-Meno: It would be 'MENo:GOODM'.
-Socrates: In that case, can we say that you have taken an initial fragment of our conversation, and you have transformed it in a certain way, and that 'MENo:GOODM' was the output?
-Meno: Yes.
+Meno: It would be 'MENO:GOODM'.
+Socrates: In that case, can we say that you have taken an initial fragment of our conversation, and you have transformed it in a certain way, and that 'MENO:GOODM' was the output?
+Meno: [Yes|Certainly|That's right].
 Socrates: Well, as to your challenge, suppose I described a more elaborate transformation. And suppose you performed that transformation on this conversation so far, from the start until the moment when I said "Well, as to your challenge". And suppose that the output was:
   You win, Socrates.
   You're welcome.
@@ -232,7 +232,7 @@ Socrates: Well, let us change our approach then. Suppose we described some elabo
   You're welcome.
   I admit it.""")
 And suppose that as soon as you saw that output, you said, "You win, Socrates," and I said, "Thank you, Meno," and you said, "You're welcome," and I said, "Then you admit there is no learning, only remembering?" and you said, "I admit it." Then I would have passed your challenge?
-Meno: Yes.
+Meno: [Yes|Certainly|Indeed].
 Socrates: Even though what you said started with "You win, Socrates," and not with "print"?
 Meno: Yes, in this example your transformation has not directly produced my next lines in the conversation, but rather, a program which produces those lines. I would grant you victory in that case. But again, it will never happen, for the same reason as before, Socrates.
 Socrates: What about the following scenario? Suppose we described a transformation, and you performed that transformation on this conversation so far, from the start until the moment when I said, "What about the following scenario?" And suppose the output was:
@@ -246,7 +246,7 @@ Meno: Yes, Socrates. But that would never happen, for the same reason as above.
 Socrates: What if, instead of my saying, "What do you think?", I instead said,
   "How now, Meno?", and you said, "I think you lose, Socrates." Would I have
   passed your challenge?
-Meno: Yes.
+Meno: [Yes|Quite].
 Socrates: Why?
 Meno: Because the transformation produced a program saying how I will respond to you. And it said that if you next say "What do you think?", I will say "I think you win, Socrates." And that otherwise, I will say, "I think you lose, Socrates." And since you say, "How now, Meno?", rather than, "What do you think?", and since I then say "I think you lose, Socrates," the prediction was correct.
 Socrates: But that would never happen, would it?
@@ -262,7 +262,7 @@ Meno: I think ten-to-one is still too little hay, Socrates.
 Socrates: Well then, how many characters of conversation do you think would be enough, to encode one character of this program we are looking for?
 Meno: I don't really know. I guess it depends on the size of the alphabet used to write the program.
 Socrates: You mean, if programs were written with a larger alphabet, then we would need more characters of conversation per character of program?
-Meno: Yes.
+Meno: [Yes|That's right].
 Socrates: Then I guess since we don't have all day to stand here talking, we should agree to write this desired program with as small an alphabet as possible. We should ask ourselves, which characters are absolutely essential for writing computer programs? Within reason, I mean. We're not trying to compete in some obfuscated code contest.
 Meno: I think a reasonable alphabet for writing programs would be:
   alphabet = "abcdefghijklmnopqrstuvwxyz"
