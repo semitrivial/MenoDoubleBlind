@@ -6,3 +6,4 @@ it's encrypted.
 c=jn(smpl(p,z.len
 shfl(d=rng(x.len
 if c==z:exec(jn(x.i:i in d
+#
