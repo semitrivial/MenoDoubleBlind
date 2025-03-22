@@ -6,7 +6,7 @@ want = open('coded.py', 'r').read()
 BLOCK_SIZE = 200
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
-alphabet += "()[]:'=,+*_#\n"
+alphabet += " ()[]:'=,+_#\n"
 alphabet += '"'
 
 def get_first_fork(txt):
@@ -74,7 +74,10 @@ def choose_block(txt, needle):
 
 result = ""
 for w in want:
-    needle = alphabet.index(w)
+    try:
+        needle = alphabet.index(w)
+    except Exception:
+        breakpoint()
     block, remainder = choose_block(raw, needle)
     print(f"---Successfully got '{w}'")
     print("   ..." + block.replace('\n', '\n    ') + "...")

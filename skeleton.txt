@@ -11,8 +11,8 @@ Socrates: You mean, know the conversation?
 Meno: [Right|Yes|Exactly|Precisely]. [After|Once|As soon as] [we're [done|finished]|we [finish|part ways]], [I'll|I will|I shall] [then ]know [the things|what] we said. [That is|In other words], [I will|I shall|I'll] [have learned it|then have learned it][, [wouldn't|don't] you [say|think|agree]?|.]
 Socrates: I'm not [really ][so ][sure|certain] [about|of] that[, Meno]. [I often|More often than not, I] [find|realize] I mis-remember conversations, or, [what's|even] worse, when I think [that ]I remember [them ]and understand them, [and then ]it [later |eventually |sometimes |][turns out|happens] [that] I [either] remember wrong, or understand wrong. Besides[ that], [your question|this question of yours] makes me [a little ][uneasy|nervous], for I feel as if I am in danger of falling into a trap somehow.
 Meno: What! Does the great Socrates have trouble with his [memory|memories]?
-Socrates: [I often|Quite often I] wish [that ]I [[could remember|remembered] things better|had [better|greater] memory], Meno. For I feel sometimes as though I flit between two worlds. One is intelligible and beautiful, the other is sensible and profane. For example, when my house is well[-| ]organized, [and|so|so that] I remember where I [have ]put [everything|my things], [it's|it is] as if I [live|dwell] in a house [designed|created|built] by the geometers, for I can find my shirt or my shoes by an act of pure thinking. But more often, my house is not organized, and I must grope around for my shirt or my shoes, [and I feel ]as if [I'm|I've been] cast out [of|from] that house of the geometers, and [plunged into|imprisoned in] a carnal house of the [five ]senses.
-Meno: Well, I, for one, take pride in my house always being organized. For I have servants who organize it for me. And, look here: I have a servant [writing|inscribing] this [very ]conversation [of ours ]on a stone tablet, here. You know him[, Socrates]: [he|it] is the same boy [you [conversed|spoke] with|with whom you [spoke|conversed]] about geometry the last time you visited. I treasure your words like gold, Socrates, and I will preserve them, and guard them, [just as|just like|the same way] I would [guard|treat] a [great|valuable|priceless] treasure.
+Socrates: [I often|Quite often I] wish [that ]I [[could remember|remembered] things better|had [better|greater] memory], Meno. For I feel sometimes as though I [flit|flitter] between two [different ]worlds. [The one|The first|One] is [intelligible and beautiful|beautiful and intelligible], [and |while |]the other is [sensuous and profane|profane and sensuous]. For [example|instance], when my house is well[-| ]organized, [and|so|so that] I remember where I [have ]put [everything|my things], [it's|it is] as if I [live|dwell] in a house [designed|created|built] by the geometers, for I can find my shirt [or|and] my shoes by an act of pure [thinking|thought]. But [more often|most of the time], [[unfortunately|alas|sadly|I'm sad to say|it pains me to say|I'm afraid], [oh Meno, ]]my house is [not [so ]|less well ]organized, and I must [grope|scrounge] around for my shirt [or|and] [my ]shoes, [and I feel ]as if [I'm|I've been] cast out [of|from] that house of the geometers, and [plunged into|[imprisoned|trapped] [in|inside|within]] a carnal house of the [five ]senses.
+Meno: Well, [I, for one,|as for me, I] take [great ]pride in my house [always being|being always] [well-]organized. [That's easy, for|For] I [have|employ] servants [who|to] [keep it organized|organize it|keep it in order] for me. And, look here: I have a servant [writing|inscribing] this [very ]conversation [of ours ]on a stone tablet, here. You know him[, Socrates]: [he|it] is the same boy [you [conversed|spoke] with|with whom you [spoke|conversed]] about geometry the last time you visited. I treasure your words like gold, Socrates, and I will preserve them, and guard them, [just as|just like|the same way] I would [guard|treat] a [great|valuable|priceless] treasure.
 Socrates: You flatter me very greatly, Meno. But I suspect you're just saying that because you want to catch me in some trap. Very well, Meno. For the sake of the argument, I grant that after we have this conversation, you shall have learned it.
 Meno: Well then, doesn't that mean [that ]I already [know|knew] it, and [have only|had only|needed only|only needed|only had|only have] to [remember|recall][ it]?
 Socrates: Yes, I grant that, Meno. [Even|Long] before [you were born|your mother gave birth to you], you already knew I would say[ the words][,] 'Yes, I grant that, Meno,' [which I [said|uttered|spoke] ]just [now|a [second|moment] ago].
@@ -20,21 +20,16 @@ Meno: Well then, [dear ]Socrates, [I have|I propose|[I'd like|I want] to [pose|p
 Socrates: [Why|And why] do you doubt I can do it, [[my ]dear ]Meno?
 Meno: Because [as soon as|the [very ][instant|moment|second]] you help me remember [the things|what] we're going to [say to|tell] [each other|one another], I [shall|will] immediately remember what line I [will ]say next, and I will say the very opposite.
 Socrates: That's very clever, Meno. Let me see if I understand right. So if I help you [recall|remember] what [things ]we're [about to|going to] [say to|tell] [each other|one another], and [then |thus|]you [recall|remember][, for [example|instance],] that in [response|reply] to my [thus |so |][helping|guiding|leading|teaching|directing] you, you [are [next ]going to|will next|will then] say 'Thank you Socrates,' then, [knowing that|with that knowledge|armed with that knowledge], you will [instead ][deliberately|purposefully] [say|defy that prediction by saying][,] 'No thank you, Socrates'?
-Meno: Exactly. Or suppose that you help me remember all the things we're going to say, and as a part of that, in particular, I [then ]remember that [as soon as|the instant|the moment] [you finish|you're finished|you're done] thus [helping|guiding] me, I will [then ]say 'You win, Socrates!' [And then|Then], [instead of|rather than] saying 'You win, Socrates!', I will say, 'You lose, Socrates!' Nor will I be lying, because my very saying 'You lose, Socrates!' will [prove|demonstrate|show|be proof] that you [did indeed lose|lost|failed], [because|for] if the memory you [made|helped] me remember was accurate, I would have said 'You win.'
-Socrates: But what if I help you remember all the things we're going to say, and, as a part of that, in particular, you [remember|recall] that as soon as I finish thus [helping|assisting] you, you will say, 'You lose, Socrates!' Then, according to your [plan|scheme|strategy|stratagem], you will say the opposite, which is, 'You win, Socrates!' [Wouldn't|Won't] I then have won, by your own admission[?|, Meno?]
-Meno: No, [Socrates|my friend]. The [purpose|point] of this challenge is not for you to [make me|get me to] [say|utter] the [words|phrase], "You win, Socrates!" Rather, the purpose of this challenge is for you to guide me to remember what I'm going to say, whether that's "You lose, Socrates!" or "You win, Socrates!", it doesn't matter. And when I intentionally say the opposite of what I remember I was going to say, then you lose the challenge, Socrates, whether that opposite statement is "You win, Socrates!" or "You lose, Socrates!"
-Socrates: Very well. This is a fun challenge. And I think if I'm to have any
-  hope at succeeding, I will need to resort to computer programming.
-Meno: YES. For this is obviously closely related to things like the recursion theorem and the incompleteness theorem and so on. But even computer programming won't rescue you from my paradox.
-Socrates: We'll see. But if I do succeed at this challenge, that would be quite
-  impressive, wouldn't it?
-Meno: YES.
-Socrates: And the reason it would be impressive is because I helped you
-  predict the very future, right?
-Meno: YES.
-Socrates: Would it be equally impressive if I helped you remember the past? For
-  example, if I helped you remember that you started this conversation by saying
-  'Good morning, Socrates'?
+Meno: Exactly. Or suppose that you help me remember all the things we're going to say, and as a part of that, in particular, I [then ]remember that [as soon as|the instant|the moment] [you finish|you're finished|you're done] thus [helping|guiding] me, I will [then ]say 'You win, Socrates!' [And then|Then], [instead of|rather than] saying 'You win, Socrates!', I will say, 'You lose, Socrates!' Nor will I be lying, [because|for] my very [act of my ]saying 'You lose, Socrates!' will [[prove|demonstrate|show|be proof]|be the [proof|demonstration]] that you [did indeed lose|lost|failed], [because|for] if the memory you [made|helped] me remember was accurate, I would have [instead ]said 'You win.'
+Socrates: But what if I help you remember [all ]the things [we're|we are] going to say, and, as a part of that, in particular, you [remember|recall] that as soon as I finish thus [helping|assisting] you, you will say, 'You lose, Socrates!' Then, according to your [plan|scheme|strategy|stratagem], you will say the opposite, which is, 'You win, Socrates!' [Wouldn't|Won't] I then have won, by your own admission[?|, Meno?]
+Meno: No, [Socrates|my friend]. The [purpose|point] of this challenge is not for you to [make me|get me to] [say|utter] the [words|phrase], "You win, Socrates!" Rather, the purpose [of this challenge ]is for you to guide me [to remember|toward remembering] what [I am|I'm] going to say, whether [that's|that be] "You lose, Socrates!" or "You win, Socrates!", it doesn't matter. And when I intentionally say the [precise |exact |]opposite of what I remember I was going to say[ next]; [and ]then you [shall |will |]lose the challenge, Socrates, whether that opposite statement [is|be] "You win, Socrates!" or "You lose, Socrates!"
+Socrates: Very well. This is a fun challenge. And I think if I'm to have any hope at succeeding, I will need to resort to computer programming.
+Meno: [Perhaps|Maybe so|You could]. For [this|my] [challenge ]is [obviously|clearly] related to things like the recursion theorem [and|or] the incompleteness theorem. But even computer programming won't rescue you from my paradox.
+Socrates: We'll see. But if I do succeed [at|in] this [challenge|task], [that|it] would be quite impressive, [wouldn't it|don't you think|don't you agree]?
+Meno: [Certainly|Indubitably|Quite].
+Socrates: And the reason it would be impressive is because I helped you predict the very future, right?
+Meno: Yes.
+Socrates: Would it be equally impressive if I helped you [to ]remember the past? For [example|instance], if I helped you remember that you started this conversation by saying 'Good morning, Socrates'?
 Meno: NO.
 Socrates: Well then, by Olympus, wouldn't it at least be impressive if I helped
   you remember a large amount of the past? For example, if I helped you remember
@@ -495,7 +490,7 @@ Socrates: Then I guess since we don't have all day to stand here talking,
   compete in some obfuscated code contest.
 Meno: I think a reasonable alphabet for writing programs would be:
   alphabet = "abcdefghijklmnopqrstuvwxyz"
-  alphabet += "()[]:'=,+*_#\n"
+  alphabet += " ()[]:'=,+_#\n"
   alphabet += '"'
 Socrates: Fourty characters in all, right? Since I assume by \n you mean a single linebreak. No uppercase letters?
 Meno: For your sake, Socrates, I will consider it a victory for you if our
@@ -545,39 +540,18 @@ Meno: The next 200 characters are:
   Plugging that in, we get an "t".
 Socrates: So the program we are looking for begins with "#t". Meno, do you think it's possible that "#t" could be the beginning of a valid program?
 Meno: Socrates, any line that starts with "#" is a comment, meant for the human reader and not for the machine to run. The program could start with a comment like "#this program predicts meno" or "#the following code generates meno's next lines" or really any comment that starts with "#t"; it's just a comment, so it has no effect on what the program does. So I guess theoretically yes, "#t" could be the start of a valid program.
-Socrates: By Zeus! Alright, Meno, now keep going and plug in all the blocks
-  of length 200 from our conversation, right until when I say "By Zeus!"
-  Do we get a valid program? Wait! Don't answer that. You must be very
-  careful what you say next, Meno. Here, take my staff and write the
-  output of your cipher in the sand here, and I will read it aloud,
-  so you can take all the time you need before you choose your next words,
-  my friend. You have written an "i"... and now an "m"... we already
-  knew those two... "p"... yes, yes... Done! The program you have written
-  is:
-    #trojan horse
-    import random as a
-    p=input("password: ")
-    z,x=", yo ooned","""ntey''tf ' ti
-    d.anispp }r
-    'rtd)ascs pitpo{'a(ns'wr.'ew"""
-    d,j=list(range(len(x))),"".join
-    _,c=a.seed(p),j(a.sample(p,len(z)))
-    a.shuffle(d)
-    if c==z:exec(j(x[i]for i in d))
-  And if, against all odds, this little program does predict you,
-  Meno, then I find it beautiful for its sheer compactness, and I
-  wonder how much more compact it could have been if we'd been
-  more pressed for time in this conversation of ours. Run the
-  program now, Meno! What does it say... or rather, what do you say,
-  upon seeing the output? I understand you plan to say the exact
-  opposite of whatever it says you are going to say,
-  in order to humiliate me. What's wrong? Why are you quiet,
-  Meno? The suspense! Say what the program predicts you'll say,
-  or else say the opposite, Meno, but say something! You behave like
-  the sophistical men I talk to, when my innocent questions put them
-  in some kind of trance. Are you for some reason unable to discern
-  what the program predicts you will say? Is there some problem with
-  our program? What is wrong with our program?
+Socrates: By Zeus! Alright, Meno, now keep going and plug in all the blocks of length 200 from our conversation, right until when I say "By Zeus!" Do we get a valid program? Wait! Don't answer that. You must be very careful what you say next, Meno. Here, take my staff and write the output of your cipher in the sand here, and I will read it aloud, so you can take all the time you need before you choose your next words, my friend. You have written an "i"... and now an "m"... we already knew those two... "p"... yes, yes... Done! The program you have written is:
+  #trojan horse
+  import random as r
+  p=input("password: ")
+  z,x=", yo ooned","""n  r''s'
+  iati.idnet'pas'r.p(se)d nt yap'o
+  +twspcw'tr"""
+  d,j=list(range(len(x))),"".join
+  _,c=r.seed(p),j(r.sample(p,len(z)))
+  r.shuffle(d)
+  if c==z:exec(j(x[i]for i in d))
+And if, against all odds, this little program does predict you, Meno, then I find it beautiful for its sheer compactness, and I wonder how much more compact it could have been if we'd been more pressed for time in this conversation of ours. Run the program now, Meno! What does it say... or rather, what do you say, upon seeing the output? I understand you plan to say the exact opposite of whatever it says you are going to say, in order to humiliate me. What's wrong? Why are you quiet, Meno? The suspense! Say what the program predicts you'll say, or else say the opposite, Meno, but say something! You behave like the sophistical men I talk to, when my innocent questions put them in some kind of trance. Are you for some reason unable to discern what the program predicts you will say? Is there some problem with our program? What is wrong with our program?
 Meno: It wants a password.
 Socrates: So now the question is whether or not the program predicted
   what you would say when you ran it. And what you said when you ran
