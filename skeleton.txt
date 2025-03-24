@@ -263,7 +263,7 @@ Meno: [Yes|That's right|Exactly|Precisely].
 Socrates: Then [I guess ]since we [don't have|haven't got] [all|the whole] day to [just ]stand here talking, we should agree to write this desired program [with|using] as small [of ]an alphabet as [possible|we can]. We should ask ourselves[,|:] which characters are absolutely essential for writing computer programs? Within reason, I mean. [After all, w|W]e're not trying to compete in some obfuscated code contest.
 Meno: I think a reasonable alphabet for writing programs[, without too many characters], [would|might] be:
   alphabet = "abcdefghijklmnopqrstuvwxyz"
-  alphabet += " ()[]:'=,+.#\n"
+  alphabet += " (){}:'=,+.#\n"
   alphabet += '"'
 Socrates: [That's f|F]orty characters in all, right? [Since|For|As] I assume by \n you mean a linebreak[, which is [one single|just one] character]. [And n|N]o uppercase letters[, like "A", "B", [|or |and ]"C"]?
 Meno: For your sake, Socrates, I [will|shall] [consider|deem] it a victory for you if our program predicts [I will|I'll] say "hey", all lowercase, even if my servant here actually writes "Hey" with the H uppercase.
