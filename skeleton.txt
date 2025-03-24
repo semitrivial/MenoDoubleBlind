@@ -119,13 +119,11 @@ Socrates: What if instead of you, a cobbler [were to plug|plugged] that line int
   Meno: Good morning, Socrates.
   Meno: Good morning, Socrates.
 Meno: Again[,] yes.
-Socrates: And what if a painter plugged that line into 'repeat_twice'?
-  Would the result be the following?
+Socrates: And what if a painter plugged that line into 'repeat_twice'? Would the result be the following?
   Meno: Good morning, Socrates.
   Meno: Good morning, Socrates.
 Meno: [Yes, [it|the result|the output]|[Indeed. |Of course. |Certainly. |][It|The result|The output]] [would [still be so|be the same|not change|still not change]|wouldn't change|wouldn't differ], even if we were painters.
-Socrates: And what if a sailor plugged that line into 'repeat_twice'?
-  Would the result be the following?
+Socrates: And what if a sailor plugged that line into 'repeat_twice'? Would the result be the following?
   Meno: Good morning, Socrates.
 Meno: Good morning, Socrates.
 Socrates: Hey! Don't you [know|think] it's [impolite|not polite|rude|a bit rude|a little rude|inconsiderate] to finish [someone[ else]|another person|another man]'s sentence for him[ like that]?
@@ -308,7 +306,7 @@ Meno: Let me see here. Give me a minute... Wow! No, it is not a valid program, S
   c=jn(smpl(p,z.len
   shfl(d=rng(x.len
   if c==z:exec(jn(x.i:i in d
-Socrates: Remarkable. You say it has errors? Perhaps you can repair it. And if, when we repair it, it does predict you, against all odds, then I admire it for its compactness, and I wonder how much shorter it could've been, if we'd been more pressed for time. Tell me, what's the first error you notice?
+Socrates: Remarkable. You say it has errors? Perhaps we can fix it. And if, when we repair it, it does predict you, against all odds, then I admire it for its compactness, and I wonder how much shorter it could've been, if we'd been more pressed for time. Tell me, what's the first error you notice?
 Meno: The first line is spelled wrong. The comment should be "#Trojan Horse".
 Socrates: I assume that's not the only error. If you repair that, what's the next error?
 Meno: The last three lines are missing two closing right-parentheses each.

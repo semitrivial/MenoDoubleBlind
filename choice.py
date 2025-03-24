@@ -91,6 +91,24 @@ for w in want:
     result += block
     raw = remainder
 
-#3336/34436 gives 12/331 (3.6%)
-#Need about 29x more on the right
-#Need about 2.7x more on the left
+def findall(needle):
+    return [i for i in range(len(result)) if result[i:].startswith(needle)]
+
+result = result.replace("defrepeat_twice(X):", "\nSKIP  def repeat_twice(X):")
+result = result.replace("print(X)", "\nSKIP    print(X)")
+result = result.replace("follows?Goodmorning,Socrates.Goodmorning,Socrates.", "follows?\nSKIP  Good morning, Socrates.\nSKIP  Good morning, Socrates.")
+result = result.replace("Wow!Youwin,Socrates!", "\nSKIP  Wow!\nSKIP  You win, Socrates!")
+result = result.replace("Meno:Goodmorning,Socrates.Meno:Goodmorning,Socrates.Meno:", "\nSKIP  MENO: Good morning, Socrates.\nSKIP  MENO: Good morning, Socrates.Meno:")
+result = result.replace("Meno:Goodmorning,Socrates.Meno:Goodmorning,Socrates.Socrates:", "\nSKIP  MENO: Good morning, Socrates.\nSKIPMENO: Good morning, Socrates.Socrates:")
+result = result.replace("defoutput_first_ten(X):print(X{:10})", "\nSKIP  def output_first_ten(X):\nSKIP    print(X[:10])")
+result = result.replace("defoutput_first_ten_", "\nSKIP  def output_first_ten_")
+result = result.replace('X=X.replace("","")#Removespaces', '\nSKIP  X=X.replace(" ","") # Remove spaces')
+result = result.replace('X=X.replace("\\n","")#Removeline-breaks', '\nSKIP  X=X.replace("\\n","") # Remove line-breaks')
+result = result.replace('X=X.replace("\\t","")#Removetabs', '\nSKIP  X=X.replace("\\t","") # Remove tabs')
+breakpoint()
+result = result.replace("print(X{:10})", "\nSKIP  print(X[:10])")
+result = result.replace("Meno:Goodmorning,Socrates.Socrates:GoodAnd", "\nSKIP  Meno:Goodmorning,Socrates.\nSKIP  Socrates:Good\nAnd")
+result = result.replace("was:Youwin,Socrates.You'rewelcome.Iadmitit.", "was:\nSKIP  You win, Socrates.\nSKIP  You're welcome.\nSKIP  I admit it.\n")
+result = result.replace('print("""Youwin,Socrates.You\'rewelcome.Iadmitit.""")And', '\nSKIP  print("""You win, Socrates.\nSKIP  You\'re welcome.\nSKIP  I admit it.""")\nAnd')
+result = result.replace('socrates_line=input("EnterSocrates\'nextline:")ifsocrates_line=="Whatdoyouthink?":print("Ithinkyouwin,Socrates.")else:print("Ithinkyoulose,Socrates."And', '\nSKIP  socrates_line=input("Enter Socrates\' next line: ")\nSKIP  if socrates_line=="What do you think?":\nSKIP    print("I think you win, Socrates.")\nSKIP  else:\nSKIP    print("I think you lose, Socrates."\nAnd')
+#result = result.replace('alphabet="abcdefghijklmnopqrstuvwxyz"alphabet+=" ()[]:\'=,+.#\\n"alphabet+=\'"\'')
