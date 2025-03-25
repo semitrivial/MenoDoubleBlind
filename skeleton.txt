@@ -9,7 +9,7 @@ Socrates: [And ]I suppose you've [come up with|invented|contrived|discovered] so
 Meno: Quite. Once we finish this [delightful ][discussion|conversation] [we're|we are] [having|currently having|having right now], don't you think [that then ][I will|I'll] know [all ]the [various ]things we [will have ]said[ in it]?
 Socrates: You mean, know the conversation?
 Meno: [Right|Yes|Exactly|Precisely]. [After|Once|As soon as] [we're [done|finished]|we [finish|part ways]], [I'll|I will|I shall] [then ]know [everything|what] we said. [That is|In other words], [I will|I shall|I'll] [have learned it|then have learned it][, [wouldn't|don't] you [say|think|agree]?|.]
-Socrates: I'm not [really ][so ][sure|certain] [about|of] that[, Meno]. [I often|More often than not, I] [find|realize] I mis-remember conversations, or, [what's|even] worse, when I think [that ]I remember [them ]and understand them, [and then ]it [later |eventually |sometimes |][turns out|happens] [that] I [either] remember wrong, or understand wrong. Besides[ that], [your question|this question of yours] makes me [a little ][uneasy|nervous], for I feel as if I am in danger of falling into a trap somehow.
+Socrates: I'm not [really ][so ][sure|certain] [about|of] that[, Meno]. [I often|More often than not, I] [find|realize] I mis-remember conversations, or, [what's|even] worse, when I think [that ]I remember [them ]and understand them, [and then ]it [later |eventually |sometimes |][turns out|happens] [that ]I [either]remember wrong, or understand wrong. Besides[ that], [your question|this question of yours] makes me [a little ][uneasy|nervous], for I feel as if I am in danger of falling into a trap somehow.
 Meno: What! Does the great Socrates have trouble with his [memory|memories]?
 Socrates: [I often|Quite often I] wish [that ]I [[could remember|remembered] things better|had [better|greater] memory], Meno. For I feel sometimes as though I [flit|flitter] between two [different ]worlds. [The one|The first|One] is [intelligible and beautiful|beautiful and intelligible], [and |while |]the other is [sensuous and profane|profane and sensuous]. For [example|instance], when my house is well[-| ]organized, [and|so|so that] I remember where I [have ]put [everything|my things], [it's|it is] as if I [live|dwell] in a house [designed|created|built] by the geometers, for I can find my shirt [or|and] my shoes by an act of pure [thinking|thought]. But [more often|most of the time], [[unfortunately|alas|sadly|I'm sad to say|it pains me to say|I'm afraid], [oh Meno, ]]my house is [not [so ]|less well ]organized, and I must [grope|scrounge] around for my shirt [or|and] [my ]shoes, [and I feel ]as if [I'm|I've been] cast out [of|from] that house of the geometers, and [plunged into|[imprisoned|trapped] [in|inside|within]] a carnal house of the [five ]senses.
 Meno: Well, [I, for one,|as for me, I] take [great ]pride in my house [always being|being always] [well-]organized. [That's easy, for|For] I [have|employ] servants [who|to] [keep it organized|organize it|keep it in order] for me. And, look here: I have a servant [writing|inscribing] this [very ]conversation [of ours ]on a stone tablet, here. You know him[, Socrates]: [he|it] is the same boy [you [conversed|spoke] with|with whom you [spoke|conversed]] about geometry the last time you visited. I treasure your words like gold, Socrates, and I will preserve them, and guard them, [just as|just like|the same way] I would [guard|treat] a [great|valuable|priceless] treasure.
@@ -146,7 +146,7 @@ Socrates: [I admit it|I'll admit that].
 Meno: [Then|Well,] how could [any|a] youth be corrupted, if not through his [mind|thoughts]?
 Socrates: Youths have physical bodies, too, besides just their minds, [don't|haven't] they?
 Meno: [Yes|Of course|Certainly].
-Socrates: So to really corrupt the youth, you['d|would] have to corrupt their bodies, not their minds.[ Wouldn't you?]
+Socrates: So to really corrupt the youth, you['d| would] have to corrupt their bodies, not their minds.[ Wouldn't you?]
 Meno: [Perhaps|Maybe].
 Socrates: And isn't the eye [by far ]the most fragile and sensitive [part of the body|body part|body-part]?
 Meno: [So it would [appear|seem]|It would [appear|seem] so].
@@ -163,13 +163,13 @@ Meno: Yes, and [he would|he'd] [despise|hate] you[, too].
 Socrates: Can you think of any way a man could damage his own eye like that?
 Meno: [Well, h|H]e could [stare|gaze] at the sun, Socrates[, [I suppose|if] that's what you're [getting|trying to [get|hint]] at].
 Socrates: So [then, ]to corrupt the youth in the most [efficient|reliable|efficient and reliable] way, one should [persuade them to stare|trick them into staring] at the sun?
-Meno: Yes. That is, if one [wanted|wants] to corrupt the youth, Socrates. [Not that  |Of course n]either of us [would want|wants] that[.|!]
+Meno: Yes. That is, if one [wanted|wants] to corrupt the youth, Socrates. [Not that |Of course n]either of us [would want|wants] that[.|!]
 Socrates: But if you [did convince|convinced] a young man to stare at the sun, wouldn't wiser men [come to his rescue|rescue him]? Wouldn't they [tell him|say], 'Stop! You [must not|mustn't] stare at the sun! It will [make you go blind|blind you]!'?
 Meno: [Yes|Indeed].
 Socrates: And so in order [for your diabolical plan to work|that your diabolical plan should work][ properly], you would have to anticipate that, [wouldn't you|would you not]? Much like[| how| the way in which] we're trying to anticipate Meno here. You'd have to not just persuade your young victim [that ]he should gaze at the sun, but even predict [that ]his elders [would|will] [tell him|say] 'Stop!' [And y|Y]ou'd have to make him think his elders were [wrong|mistaken], wouldn't you?
-Meno: [There would|There'd] be no other way[to do it].
+Meno: [There would|There'd] be no other way[ to do it].
 Socrates: But he loves his elders[!|.] [He would|He'd] never believe they would intentionally [lie to|mislead|deceive] him. You'd have to convince him his elders meant [the best|well], [but|and] that they themselves [were|had been] decieved.
-Meno: [[I suppose y|Y][ou'd|ou would] have to].
+Meno: [I suppose y|Y][ou'd|ou would] have to.
 Socrates: You'd have to convince him [that ]they're like men in a cave, staring at shadows on the wall. [And t|T]hat the sun is a fire behind them, casting those shadows. [And t|T]hat their eyes [are|have grown] accustomed to the dark, and [that ]in order to escape[ the cave], they must turn and face the sun, wouldn't you?
 Meno: [That would be|That is|That'd be] one way to do it.
 Socrates: [W|And [then ]w]hen their elders cried, 'Stop!', they would [say|think] to themselves: 'These elders [don't|do not] realize [we're|we are] in a cave. They [believe|think] this fire is the sun, and it will burn [up ]my pupils.' Wouldn't they?
