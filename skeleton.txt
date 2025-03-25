@@ -31,7 +31,7 @@ Socrates: And the reason it would be impressive is because I helped you predict 
 Meno: Yes.
 Socrates: [And would|Would] it be equally impressive if I helped you [to ]remember the past? For [example|instance], if I [helped|were to help] you [remember|recall] that you [began|started] this [whole ][conversation|discussion] by saying 'Good morning, Socrates'?
 Meno: No.
-Socrates: Well then, by Olympus, wouldn't it at least be impressive if I helped you remember a large amount of the past? For [example|instance], if I helped you [to remember|to recall|remember] this [whole|entire|whole entire] conversation from 'Good morning, Socrates', all the way up to 'Well then, by Olympus'? [Wouldn't that be|Would that not be] impressive?
+Socrates: Well then, by Olympus, wouldn't it at least be impressive if I helped you remember a large amount of the past? For [example|instance], if I helped you [to remember|to recall|remember] this [whole|entire|whole entire] conversation from 'Good morning, Socrates,' all the way up to 'Well then, by Olympus'? [Wouldn't that be|Would that not be] impressive?
 Meno: No.
 Socrates: So what you've said in the past is, in [some|a certain] sense, trivial[ and unimpressive]?
 Meno: [Yes|Quite trivial|Most trivial][, Socrates].
@@ -44,7 +44,7 @@ Meno: [Of course|Perfectly reasonable].
 Socrates: So for example, suppose I ask you: take the first sentence you said to me, and repeat it to me again[ right now], and then afterward, please repeat it to me [again ]a second time. And suppose I [claimed|asserted] that, by [doing so|so doing], you would recite our [entire|whole] conversation. Would I be right?
 Meno: [Absolutely|Certainly] not.
 Socrates: Why not?
-Meno: Well, suppose I did exactly [what you propose|that]. Then I would say: 'Good morning, Socrates. Goodmorning, Socrates.'
+Meno: Well, suppose I did exactly [what you propose|that]. Then I would say: 'Good morning, Socrates. Good morning, Socrates.'
 Socrates: Well, [wouldn't that be|isn't that] a conversation? Albeit, a [bit|little] one-sided?
 Meno: It would be a [very ]short[,| and] one-sided conversation.
 Socrates: But [I would|I'd] be wrong when I claimed that [that ]one-sided conversation was [our|this] [entire|whole] conversation we are having?
@@ -62,7 +62,7 @@ Meno: [Certainly|Yes, that's [certainly ][fine|alright]].
 Socrates: Well, [supposing|suppose] I [said to|instructed] you: 'Take [our|this] [whole|entire|whole entire] conversation up until I said the word octopus. Repeat that whole conversation back to me. Then repeat that whole conversation back to me a second time.' Would that [solve|[be|give] a solution to] your challenge?
 Meno: [Not at all|Certainly not|Of course not|Obviously not].
 Socrates: Because the content[s] of the resulting conversation would [not [equal|be equal to]|be unequal to] [our|the] actual conversation?
-Meno: Yes. For example, in the resulting conversation, you would say: '...up until I said the word octopus'. [And then|Then], because at that point [I would|I'd] [have finished|be done with] the first repetition and it would be time [for|to start in on] the second one, I would say: 'Good morning, Socrates.'
+Meno: Yes. For example, in the resulting conversation, you would say: '...up until I said the word octopus.' [And then|Then], because at that point [I would|I'd] [have finished|be done with] the first repetition and it would be time [for|to start in on] the second one, I would say: 'Good morning, Socrates.'
 Socrates: Whereas, in [our|the] [actual|true|real] conversation, [after|when] I said the [word octopus|"octopus"], you did not immediately [say|respond|answer|follow up with] 'Good morning, Socrates'?
 Meno: [Yes|Right|That's right].
 Socrates: Then we shall have to think of a more clever method. But first, let's consider the example more deeply. Let X denote our [whole|entire] conversation up until, and including, when I said [the word octopus|"octopus"]. [And suppose|Suppose] I wanted [to ask ]you to repeat X to me, and then to repeat X to me a second time. [Can|Could] you [program|write] a function that would take X and repeat it that way?
