@@ -296,8 +296,8 @@ Socrates: So the [computer ]program [we are|we're] [looking|searching] for [begi
 Meno: [That's [right|correct]|Yes][.|, Socrates.]
 Socrates: Meno, do you think it's possible that "#t" could be the [beginning|start] of a valid [computer ]program?
 Meno: Well, Socrates, [any|a] line that starts with "#" is [what's known as ]a comment, [which is ]meant for the human reader[ [of the program ]to read], not for the machine itself to [run|execute]. The program could start with a comment, [like|such as] "#this program predicts meno" or "#the following source-code generates meno's next lines in the dialogue," or [really any comment|any other comment] that [starts|begins] with a "#t"[; i|. I][t's|t is] [just|only] a comment, [so ]it has no effect on [what the program ultimately produces|the program's ultimate output in the end]. So I [guess|suppose] theoretically[,] yes, it is at least possible, [al]though I still [think|believe] [[it's]|it would be] [quite|rather] unlikely, [or ][possibly|perhaps] even a miracle, but at least it does remain narrowly within the vague realm of possibility that "#t" could be the start of a program.
-Socrates: By Zeus! Alright, Meno, now keep going and plug in all the blocks of length 200 from our conversation, right until when I say "By Zeus!" And if the number of characters before "By Zeus" is not a perfect multiple of 200, just discard the last short block, so for example, if the number of chracters is 1415, then discard the last 15 characters and plug in the first seven length-200 blocks. Do we get a valid program?
-Meno: Let me see here. Give me a minute... Wow! No, it is not a valid program, Socrates. But I was expecting it to be pure gibberish, and instead it's only partially gibberish. It sort of looks like a computer program, but it has all kinds of weird errors. Here it is, Socrates:
+Socrates: By Zeus! Alright, Meno, keep going. Plug in all the length-200 blocks from our conversation, right until when I say "By Zeus!" And if the number of characters before "By Zeus" is not a perfect multiple of 200, discard the last short block, so for example, if the number of chracters is 1415, discard the last 15 and plug in the first seven length-200 blocks. Do we get a valid program?
+Meno: Let me see here... No, it is not a valid program. But I was expecting it to be pure gibberish, and instead it's only partially gibberish. It resembles a computer program, but it has all kinds of errors. Here it is, Socrates, and note the double space between the "n" and the "r" on line 3:
   #trojn hrse
   seed(p=askpword())
   z,x=", yo ooned","""n  r''s'
@@ -306,26 +306,26 @@ Meno: Let me see here. Give me a minute... Wow! No, it is not a valid program, S
   c=jn(smpl(p,z.len
   shfl(d=rng(x.len
   if c==z:exec(jn(x.i:i in d
-Socrates: Remarkable. You say it has errors? Perhaps we can fix it. And if, when we repair it, it does predict you, against all odds, then I admire it for its compactness, and I wonder how much shorter it could've been, if we'd been more pressed for time. Tell me, what's the first error you notice?
+Socrates: You say it has errors? Perhaps we can fix it. And if, when we repair it, it predicts you, against all odds, then I admire its compactness, and I wonder how much shorter it could be, if we'd been more pressed for time. Tell me, what's the first error you notice?
 Meno: The first line is spelled wrong. The comment should be "#Trojan Horse".
-Socrates: I assume that's not the only error. If you repair that, what's the next error?
+Socrates: I assume that's not the only error. Repair that. What's the next error?
 Meno: The last three lines are missing two closing right-parentheses each.
 Socrates: If you repair that, what's the next error?
-Meno: This code defines variables inside parentheses, as if the author were writing C instead of Python. For example, the line, "seed(p=askpword())" ought to be two lines: "p=askpword()", followed by "seed(p)".
-Socrates: Go ahead and repair that line. I see the same error in the definition of "d" in the penultimate line, so repair that, too. Are there any other errors?
+Meno: This code defines variables inside parentheses, as if the author were writing C instead of Python. For example, the line "seed(p=askpword())" should be two lines: "p=askpword()", then "seed(p)".
+Socrates: Go ahead and repair that line. I see the same error in the definition of "d" in the penultimate line. Repair that, too. Are there any other errors?
 Meno: The functions "seed", "smpl", and "shfl" are undefined.
-Socrates: Does any standard library have those? Maybe they can be imported.
-Meno: Not by those exact names... wait! The "random" library has functions "seed", "sample", and "shuffle", that must be what's meant. I'll insert a line "import random" right below the Trojan horse comment. And I'll change "seed" to "random.seed", I'll change "smpl" to "random.sample", and I'll change "shfl" to "random.shuffle".
+Socrates: Does any library have those? Maybe we can import them.
+Meno: Not by those exact names. Wait! The "random" library has "seed", "sample", and "shuffle", that must be what's meant. I'll insert a line "import random" right below the Trojan horse comment. And I'll change "seed" to "random.seed", "smpl" to "random.sample", and "shfl" to "random.shuffle".
 Socrates: Any other errors?
 Meno: "z.len" should be "len(z)" and "x.len" should be "len(x)".
 Socrates: Anything else?
 Meno: The expression "x.i:i in d" should clearly be "x[i] for i in d". It's like someone confused Python comprehensions with mathematical set notation.
 Socrates: Anything else?
-Meno: It looks like "rng" should be the standard function "range". And I think "jn" should be "''.join".
+Meno: It looks like "rng" should be the standard function "range". And I think "jn" should be '"".join'.
 Socrates: Anything else?
-Meno: In modern versions of Python, "range(len(x))" should be "list(range(len(x)))".
-Socrates: Once you've fixed all that, are there any more errors?
-Meno: Only one more. This function "askpword" is undefined. I've never heard of a function like that.
+Meno: In modern Python, "range(len(x))" should be "list(range(len(x)))".
+Socrates: Once you fix all that, are there any more errors?
+Meno: Just one. This function "askpword" is undefined.
 Socrates: Could the name be short for something?
 Meno: Maybe "ask_password". I'll replace that line with "p=input('Enter the password: ')".
 Socrates: What's the program now, with all the errors fixed?
@@ -337,17 +337,17 @@ Meno: Here you go, Socrates:
   z,x=", yo ooned","""n  r''s'
   iati.idnet'pas'r.p(se)d nt yap'o
   +twspcw'tr"""
-  c=''.join(random.sample(p,len(z)))
+  c="".join(random.sample(p,len(z)))
   d=list(range(len(x)))
   random.shuffle(d)
   if c==z:exec(''.join(x[i] for i in d))
-Socrates: Run the program, Meno! What does it say, or rather, what do you say, upon seeing the output? I understand you plan to say the opposite of whatever it says you'll say. What's wrong? Why are you quiet, Meno? Say what the program predicts you'll say, or else say the opposite, but say something! You behave like the sophists, when my innocent questions put them in some kind of trance. Are you unable to discern what the program predicts you'll say? Is there some problem with your program? What is wrong with it?
+Socrates: Run the program, Meno! What does it say, or rather, what do you say, after running it? I understand you plan to say the opposite of whatever it says you'll say. What's wrong? Why are you quiet? Say what it predicts you'll say, or say the opposite, but say something! You behave like the sophists, when my innocent questions put them in a trance. Is there some problem with your program? What is wrong with it?
 Meno: It wants a password.
-Socrates: Now the question is whether or not the program predicted you. Did it predict you would say, "It wants a password"? You're in a bind, Meno. For until you enter the password, you won't know what it will say once you enter it. For example, maybe when you enter the password, your program will say, "It wants a password." And you can't say your code heard this part of the conversation. For an algorithm has no ears to hear with. So if, when the password is entered, it predicts what was said in the meantime, then that is just as good as if it predicted it all in advance, without the password. Ah! But you can read the code, Meno. It is too late for you to say the opposite of "It wants a password." But maybe you can study the code, Meno, and figure out the next prediction. For example, maybe when you enter the password, the program will print "It wants a password" and then "You win, Socrates." You've already said "It wants a password", but you still have time to say "You lose, Socrates," and defy the oracle. What's the matter Meno? Can't you figure out from the code what the password is, or what the program would do if you entered the password? Is there something wrong, Meno?
+Socrates: Now the question is whether the program predicted you. Did it predict you would say, "It wants a password"? You're in a bind, Meno. For until you enter the password, you won't know what it will say once you enter it. For example, maybe when you enter the password, your program will say, "It wants a password." You can't say your code heard this part of the conversation. For an algorithm has no ears. So if, when the password is entered, it predicts what was said in the meantime, that's as good as if it predicted it all in advance, without the password. Ah! But you can read the code, Meno. It's too late to say the opposite of "It wants a password." But maybe you can study the code, and figure out the next prediction. For example, maybe when you enter the password, the program will print "It wants a password" and then "You win, Socrates." You already said "It wants a password", but you can still say "You lose, Socrates," and defy the oracle. What's the matter? Can't you figure out from the code what the password is, or what the program would do if you entered the password? Is there something wrong, Meno?
 Meno: It's encrypted.
-Socrates: If the code is encrypted, I suppose you can't study it to see what it would predict upon receiving the password. If you could decrypt it, you could study it, and you could have seen it would print, "It wants a password," and "It's encrypted." And even though it was too late to say the opposite of "It wants a password," still, you could have said the opposite of "It's encrypted," if you could only have decrypted it. Well, Meno, you have no choice now. You must enter the password, and we shall see what your program predicted. So then! Meno! Tell me! What is the password?
+Socrates: If the code is encrypted, you can't study it to see what it would predict upon receiving the password. If you could decrypt it, you could study it, and you could have seen it would print, "It wants a password," and "It's encrypted." And even though it was too late to say the opposite of "It wants a password," still, you could have said the opposite of "It's encrypted," if you could only have decrypted it. Well, Meno, you have no choice now. You must enter the password, and we shall see what your program predicted. Meno! Tell me! What is the password?
 Meno: I don't know any password, Socrates.
-Socrates: I should have guessed a devious mind like yours would come up with such a self-referential password. So! The password, in your own words, dear Meno, is: "I don't know any password, Socrates." Enter that, and if your wisdom is as great as I believe, I think as soon as you enter it, your program will print:
+Socrates: I should have guessed a mind like yours would come up with such a self-referential password. So! The password, in your own words, dear Meno, is: "I don't know any password, Socrates." Enter that, and if your wisdom is as great as I believe, I think as soon as you enter it, your program will print:
   it wants a password.
   it's encrypted.
   I don't know any password, Socrates.
