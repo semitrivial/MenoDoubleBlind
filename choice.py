@@ -1,6 +1,4 @@
 raw = open('skeleton.txt', 'r').read()
-raw = raw.replace(" ","")
-raw = raw.replace("\n", "")
 want = open('coded.py', 'r').read()
 
 BLOCK_SIZE = 200
@@ -9,9 +7,19 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet += " ()[]:'=,+.#\n"
 alphabet += '"'
 
+def first_block(txt):
+    x = txt[BLOCK_SIZE*4]
+    i,cnt=0,0
+    while True:
+        if (txt[i]!=" ") and (txt[i]!="\n"):
+            cnt += 1
+            if cnt == BLOCK_SIZE:
+                return txt[:i+1]
+        i += 1
+
 def get_first_fork(txt):
     try:
-        txt[:BLOCK_SIZE].index("[")
+        first_block(txt).index("[")
     except ValueError:
         return None, None, None
 
@@ -61,15 +69,22 @@ def myord(x):
         return ord("]")
     return ord(x)
 
+def sum_block(block):
+    s = 0
+    for ch in block:
+        if (ch!=" ") and (ch!="\n"):
+            s += myord(ch)
+    return s
+
 def choose_block(txt, needle):
     choices, before, after = get_first_fork(txt)
 
     if choices is None:
-        block = txt[:BLOCK_SIZE]
-        s = sum(myord(x) for x in block) % len(alphabet)
+        block = first_block(txt)
+        s = sum_block(block) % len(alphabet)
         if s != needle:
             raise KeyError
-        remainder = txt[BLOCK_SIZE:]
+        remainder = txt[len(block):]
         return block, remainder
 
     for choice in enum_choices(choices):
