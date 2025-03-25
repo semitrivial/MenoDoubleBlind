@@ -110,5 +110,5 @@ def findall(needle):
     return [i for i in range(len(result)) if result[i:].startswith(needle)]
 
 dia = open("dialogue.txt", "w")
-dia.write(result)
+dia.write(result.replace("{","[").replace("}","]"))
 dia.close()
