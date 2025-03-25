@@ -340,7 +340,7 @@ Meno: Here you go, Socrates:
   c="".join(random.sample(p,len(z)))
   d=list(range(len(x)))
   random.shuffle(d)
-  if c==z:exec(''.join(x[i] for i in d))
+  if c==z:exec("".join(x[i] for i in d))
 Socrates: Run the program, Meno! What does it say, or rather, what do you say, after running it? I understand you plan to say the opposite of whatever it says you'll say. What's wrong? Why are you quiet? Say what it predicts you'll say, or say the opposite, but say something! You behave like the sophists, when my innocent questions put them in a trance. Is there some problem with your program? What is wrong with it?
 Meno: It wants a password.
 Socrates: Now the question is whether the program predicted you. Did it predict you would say, "It wants a password"? You're in a bind, Meno. For until you enter the password, you won't know what it will say once you enter it. For example, maybe when you enter the password, your program will say, "It wants a password." You can't say your code heard this part of the conversation. For an algorithm has no ears. So if, when the password is entered, it predicts what was said in the meantime, that's as good as if it predicted it all in advance, without the password. Ah! But you can read the code, Meno. It's too late to say the opposite of "It wants a password." But maybe you can study the code, and figure out the next prediction. For example, maybe when you enter the password, the program will print "It wants a password" and then "You win, Socrates." You already said "It wants a password", but you can still say "You lose, Socrates," and defy the oracle. What's the matter? Can't you figure out from the code what the password is, or what the program would do if you entered the password? Is there something wrong, Meno?
