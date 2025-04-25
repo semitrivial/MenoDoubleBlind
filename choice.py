@@ -146,6 +146,9 @@ while i < len(excerpts):
             buf += f"({cnt} lines of dialogue later...)"
     i += 2
 
+wordcnt = len(buf.split(" "))
+print(f"[Excerpts is approximately {wordcnt} words]")
+
 excerpts_fp = open("excerpts.txt", "w")
 excerpts_fp.write(buf)
 excerpts_fp.close()
