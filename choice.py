@@ -14,6 +14,8 @@ def should_ignore_character(ch):
         return True
     if ch == "-":
         return True
+    if ch == "*":
+        return True
     return False
 
 def first_block(txt):
