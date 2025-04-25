@@ -132,7 +132,7 @@ while i < len(excerpts):
     buf += excerpts[i]
     if i+1 < len(excerpts):
         cnt = len(excerpts[i+1])
-        if cnt>0:
+        if cnt>1:
             buf += '\n'
             buf += f"({cnt} characters later...)"
             buf += '\n'

@@ -344,7 +344,7 @@ Meno: Here you go:
   if c==z:exec("".join(x[i] for i in d))
 Socrates: Run it! What does it predict? I understand you plan to say the opposite. What's wrong? You are quiet. Is there some problem with your program?
 Meno: It wants a password.
-Socrates: You're in a bind, for until you enter the password, you won't know what it will say once you enter it. Maybe when you enter the password, it will say, "It wants a password." It's too late to say the opposite of "It wants a password." Maybe studying the code, you can figure out the next prediction, and defy the oracle. What's wrong? Can't you analyze the code to determine the next prediction?
+Socrates: You're in a bind, for until you enter the password, you won't know what it will say once you enter it. Maybe when you enter the password, it will say, "It wants a password." It's too late to say the opposite of that. Maybe studying the code, you can figure out the next prediction, and defy the oracle? What's wrong? Can't you analyze the code to determine the next prediction?
 Meno: It's encrypted.
 Socrates: Then you must enter the password, and we shall see what your program predicted. Meno! Tell me! What is the password?
 Meno: I don't know any password, Socrates.
