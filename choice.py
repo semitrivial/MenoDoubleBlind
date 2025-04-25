@@ -119,6 +119,34 @@ for w in want:
 
 result += raw
 
+result = result.replace("{","[").replace("}","]")
+
 dia = open("dialogue.txt", "w")
-dia.write(result.replace("{","[").replace("}","]").replace("***",""))
+dia.write(result.replace("***",""))
 dia.close()
+
+def lines_in_excerpt(x):
+    lines = x.splitlines()
+    cnt = 0
+    for line in lines:
+        if line.startswith("Socrates:"):
+            cnt += 1
+        elif line.startswith("Meno:"):
+            cnt += 1
+    return cnt
+
+excerpts = result.split("***")[1:]
+i = 0
+buf = ""
+while i < len(excerpts):
+    buf += excerpts[i]
+    if i+1 < len(excerpts):
+        cnt = lines_in_excerpt(excerpts[i+1])
+        if cnt>0:
+            buf += f"({cnt} lines of dialogue later...)"
+    i += 2
+
+excerpts_fp = open("excerpts.txt", "w")
+excerpts_fp.write(buf)
+excerpts_fp.close()
+
