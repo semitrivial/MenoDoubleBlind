@@ -7,11 +7,20 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 alphabet += " ()[]:'=,+.#\n"
 alphabet += '"'
 
+def should_ignore_character(ch):
+    if ch == " ":
+        return True
+    if ch == "\n":
+        return True
+    if ch == "-":
+        return True
+    return False
+
 def first_block(txt):
     x = txt[BLOCK_SIZE*4]
     i,cnt=0,0
     while True:
-        if (txt[i]!=" ") and (txt[i]!="\n") and (txt[i]!="-"):
+        if not(should_ignore_character(txt[i])):
             cnt += 1
             if cnt == BLOCK_SIZE:
                 return txt[:i+1]
@@ -72,7 +81,7 @@ def myord(x):
 def sum_block(block):
     s = 0
     for ch in block:
-        if (ch!=" ") and (ch!="\n") and (ch!="-"):
+        if not(should_ignore_character(ch)):
             s += myord(ch)
     return s
 
