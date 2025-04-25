@@ -50,15 +50,15 @@ Meno: It would be a [very ]short[,| and] one sided conversation.
 Socrates: But [I would|I'd] be wrong [when I claimed|to claim] that [that ]brief conversation was [our|this] [entire|whole] conversation we are having?
 Meno: [Absolutely|Most|Quite] wrong.
 Socrates: Why?
-***Meno: Well, for one[ thing], at the start of this conversation [we're|we are] having, I did not greet you twice in a row like that. For another[ thing], you [responded|replied] to me, [whereas|but] in the [one sided|brief] conversation in question, you [did not|didn't][ respond[ to me]].
-Socrates: So the reason [why ]this supposed one sided conversation would not win [your|the] challenge, is because of the content of the results?
+Meno: Well, for one[ thing], at the start of this conversation [we're|we are] having, I did not greet you twice in a row like that. For another[ thing], you [responded|replied] to me, [whereas|but] in the [one sided|brief] conversation in question, you [did not|didn't][ respond[ to me]].
+***Socrates: So the reason [why ]this supposed one sided conversation would not win [your|the] challenge, is because of the content of the results?
 Meno: [Yes|Indeed|Quite so].
 Socrates: [And is|Is] there any other reason why this supposed one sided conversation would not [win|beat] your challenge?
 Meno: No.
 Socrates: In that one sided example, I used earlier pieces of our conversation as tools. But you say, the [lone|only|sole] reason [why ]that example [would fail|failed] to solve the challenge, is [because of|due to] the content[s] of the resulting one sided conversation?
 Meno: That's right.
-Socrates: Then it's perfectly alright for me to use earlier pieces of our conversation [like that|that way]?
-Meno: [Certainly|Yes, that's [certainly ][fine|alright]].***
+Socrates: Then it's perfectly alright for me to use earlier pieces of our conversation [like that|that way]?***
+Meno: [Certainly|Yes, that's [certainly ][fine|alright]].
 Socrates: Well, [supposing|suppose] I [said to|instructed] you: 'Take [our|this] [whole|entire|whole entire] conversation up until I said the word octopus. Repeat that whole conversation back to me. Then repeat that whole conversation back to me a second time.' Would that [solve|[be|give] a solution to] your challenge?
 Meno: [Not at all|Certainly not|Of course not|Obviously not|Absolutely not|Decidedly not].
 Socrates: Because the content[s] of the resulting conversation would [not [equal|be equal to]|be unequal to] [our|the] actual conversation?
@@ -138,9 +138,9 @@ Socrates: And all these things we've been saying are [just|mere] idle thoughts, 
 Meno: [You're right|I agree|That's right].
 Socrates: [So o|O]ne cannot corrupt the youth[, then,] just by contemplating thoughts together with them. For one can change one's thoughts just as [easily|effortlessly] as one can imagine a mountain [made ]of gold, [don't|wouldn't] you agree?
 Meno: [If|When] you put [it|things] [that way|like that], [yes|sure].
-***Socrates: And changing people's thoughts is like writing Greek on the surface of the water. [For t|T]he water is so pliable[,] you can write on it with your bare finger[s]. But the instant that you've written there, your writing [disappears|vanishes], doesn't it?
+Socrates: And changing people's thoughts is like writing Greek on the surface of the water. [For t|T]he water is so pliable[,] you can write on it with your bare finger[s]. But the instant that you've written there, your writing [disappears|vanishes], doesn't it?
 Meno: [Yes|Certainly|It does|It certainly does].
-Socrates: In fact, I always assumed that's what Thales meant, when he said[ that] everything is made [out ]of water. He meant that[, in time,] all the impressions we make on [the|this] world fade[| away| out], [just ]as [if|though] we inscribed them on the face of the sea. You could not corrupt the Aegean by writing on its surface, no matter how [scandalous|wicked|scandalous or wicked|scandalous and wicked] the things you wrote [there|on it]. Even [language itself|the language we speak] [changes|slowly changes|gradually changes]. And we [attempt|try] to nail that down, by imposing sharp constraints on it in [our|the form of] poetry. But over long enough time, even that fails, and it's like trying to keep the tide from going out by nailing the water to the sand. [In the same way|Likewise|Similarly], [I believe ]you [could never|couldn't ever] corrupt a man just by writing thoughts [into|onto|upon] his mind, Meno.***
+***Socrates: In fact, I always assumed that's what Thales meant, when he said[ that] everything is made [out ]of water. He meant that[, in time,] all the impressions we make on [the|this] world fade[| away| out], [just ]as [if|though] we inscribed them on the face of the sea. You could not corrupt the Aegean by writing on its surface, no matter how [scandalous|wicked|scandalous or wicked|scandalous and wicked] the things you wrote [there|on it]. Even [language itself|the language we speak] [changes|slowly changes|gradually changes]. And we [attempt|try] to nail that down, by imposing sharp constraints on it in [our|the form of] poetry.*** But over long enough time, even that fails, and it's like trying to keep the tide from going out by nailing the water to the sand. [In the same way|Likewise|Similarly], [I believe ]you [could never|couldn't ever] corrupt a man just by writing thoughts [into|onto|upon] his mind, Meno.
 Meno: But surely you [do|must] admit some corrupt youths exist, don't you, Socrates?
 Socrates: [I admit it|I'll admit that].
 Meno: [Then|Well,] how [can|could] [any|a] youth be corrupted, if not through his [mind|thoughts]?
@@ -164,9 +164,9 @@ Socrates: Can you think of any way a man could damage his own eye like that?
 Meno: [Well, h|H]e could [stare|gaze] at the sun, Socrates[, [I suppose|if] that's what you're [getting|trying to [get|hint]] at].
 Socrates: So [then, ]to corrupt the youth in the most [efficient|reliable|efficient and reliable] way, one should [persuade them to stare|trick them into staring] at the sun?
 Meno: Yes. That is, if one [wanted|wants] to corrupt the youth, Socrates. [Not that |Of course n]either of us [would want|wants] that[.|!]
-***Socrates: But if you [did convince|convinced] a young man to [stare|gaze] at the sun, wouldn't wiser men [come to his rescue|rescue him]? Wouldn't they [tell him|say], 'Stop! You [must not|mustn't] stare at the sun! It will [surely ][make you go blind|blind you]!'?
+Socrates: But if you [did convince|convinced] a young man to [stare|gaze] at the sun, wouldn't wiser men [come to his rescue|rescue him]? Wouldn't they [tell him|say], 'Stop! You [must not|mustn't] stare at the sun! It will [surely ][make you go blind|blind you]!'?
 Meno: [Yes|Indeed].
-Socrates: And so in order [for your diabolical plan to work|that your diabolical plan should work][ properly], [you would|you'd] have to anticipate that, [wouldn't you|would you not]? Much like[| how| the way in which] we're trying to anticipate Meno here. You'd have to not just persuade your young victim [that ]he should gaze at the sun, but even predict [that ]his elders [would|will] [tell him|say] 'Stop!' [And y|Y]ou'd have to make him think his elders were [wrong|mistaken], wouldn't you?
+***Socrates: And so in order [for your diabolical plan to work|that your diabolical plan should work][ properly], [you would|you'd] have to anticipate that, [wouldn't you|would you not]? Much like[| how| the way in which] we're trying to anticipate Meno here. You'd have to not just persuade your young victim [that ]he should gaze at the sun, but even predict [that ]his elders [would|will] [tell him|say] 'Stop!' [And y|Y]ou'd have to make him think his elders were [wrong|mistaken], wouldn't you?
 Meno: [There would|There'd] be no other way[ to do it].
 Socrates: But he loves his elders[!|.] [He would|He'd] never believe they would intentionally [lie to|mislead|deceive] him. You'd have to convince him his elders meant [the best|well], [but|and] that they themselves [were|had been] deceived.
 Meno: [I suppose y|Y][ou'd|ou would] have to.
@@ -192,13 +192,13 @@ Socrates: Yes, [we must|let's] proceed. Well, [then, ]suppose instead of handing
 Meno: It would output 'Meno:'
 Socrates: [[And|Well,] w|W]hat if I wanted [your function|it] to output the first ten characters?
 Meno: [Then i|I]t would output 'Meno:Goodm'.
-***Socrates: [[And|Well,] w|W]hat would that function [be|look like], that outputs [the|those] first ten characters?
+Socrates: [[And|Well,] w|W]hat would that function [be|look like], that outputs [the|those] first ten characters?
 Meno: It would be [like ]this:
   def output_first_ten(X):
     print(X{:10})
-Socrates: But look here. There's [some|a] space on your servant's tablet between 'Meno:' and 'Good'. [If|And if] someone included that space in the X [that ]they [handed|passed] [to ]you, then your [function|output_first_ten] would not output 'Meno:Goodm'[; rather,|, [but ]rather] it would output 'Meno: Good', wouldn't it?
+***Socrates: But look here. There's [some|a] space on your servant's tablet between 'Meno:' and 'Good'. [If|And if] someone included that space in the X [that ]they [handed|passed] [to ]you, then your [function|output_first_ten] would not output 'Meno:Goodm'[; rather,|, [but ]rather] it would output 'Meno: Good', wouldn't it?
 Meno: [Yes|That's right|It would].
-Socrates: [[Can|Could] you modify [your|the] function|[Can|Could] your function be modified] to [discard|ignore] [all|any] such spaces? [We'd better|You'd better modify it to] [discard|ignore] tabs and linebreaks [too|as well],[ while we're at it,] and also hypthens, [since|as] I see your servant sometimes inserts [a hyphen|hyphens] [if|when] a line of text ends in the middle of a word.
+Socrates: [[Can|Could] you modify [your|the] function|[Can|Could] your function be modified] to [discard|ignore] [all|any] such spaces? [We'd better|You'd better modify it to] [discard|ignore] tabs and linebreaks [too|as well],[ while we're at it,] and also hypthens, [since|as] I see your servant sometimes inserts [a hyphen|hyphens] [if|when] a line of text ends in the middle of a word.***
 Meno: Sure. Here's the modified version:
   def output_first_ten_[no[_]space[s]|without_space[s]](X):
     X=X.replace(" ","") # Remove spaces
@@ -207,7 +207,7 @@ Meno: Sure. Here's the modified version:
     X=X.replace("-","") # Remove hyphens
     print(X{:10})
 Socrates: [[And i|I|Well, i]f|Suppose] [we changed [ten to forty|"ten" to "forty"]|ten were [replaced by|changed [to|into]] forty|we replaced ten with forty], what would your function output[ then]?
-Meno: It would output "Meno:Goodmorning,Socrates.Socrates:Goodm".***
+Meno: It would output "Meno:Goodmorning,Socrates.Socrates:Goodm".
 Socrates: [I|And i]t's [good|a good thing] [that ]we removed [the ]linebreaks, for otherwise [I suppose ][it|the function] would have [output|printed] the following:
   Meno:Goodmorning,Socrates.
   Socrates:Good
@@ -257,9 +257,9 @@ Meno: It would be a[n absolute| complete|] miracle if [that|such a simple] trans
 Meno: It's more [likely|probable] than it was [before|with the previous cipher], but only marginally. It would still be [quite ]a miracle if it worked, only slightly less [of a miracle|so]. [[I'm sure|I would think] f|F]ive to one is still [far|way] too many needles and too little hay, Socrates.
 Socrates: [Then w|W|Well, w]ould ten characters of conversation per [every ]one character of program [suffice|be enough]? [I mean|That is|That is to say], could our cipher transform[, say,] "Meno:Goodm" into "p", and "orning,Soc" into "r", and so on?
 Meno: I'm [fairly |pretty |][sure|certain] ten to one is still too little hay, Socrates.
-***Socrates: Well then, how many characters of conversation do you think would be [enough|sufficient|adequate], to encode one character of this [elusive ]program we are [looking|groping around] for?
+Socrates: Well then, how many characters of conversation do you think would be [enough|sufficient|adequate], to encode one character of this [elusive ]program we are [looking|groping around] for?
 Meno: [I don't really know|I'm not really sure]. I [suppose|guess] it [depends|must depend] on [the size of the alphabet used|how big the alphabet is that we use] [to write|in writing|for writing] the program.
-Socrates: You mean, if programs were written with a larger alphabet, then we would need more characters of conversation [per|for every] character of the hidden program?
+***Socrates: You mean, if programs were written with a larger alphabet, then we would need more characters of conversation [per|for every] character of the hidden program?
 Meno: [Yes|That's right|Exactly|Precisely].
 Socrates: Then [I guess ]since we [don't have|haven't got] [all|the whole] day to [just ]stand here [talking|conversing], [we should|let's] agree to write this desired program [with|using] [the smallest|as small [of ]an] alphabet as [possible|we can]. We should ask ourselves[,|:] which characters are absolutely essential for writing [computer programs|a computer program]? Within reason, [I mean|that is]. [After all, w|W]e're not trying to compete in some obfuscated code contest.
 Meno: I [think|suppose] a reasonable alphabet for [writing|computer] programs[, without too many characters], [would|might] be:
@@ -293,12 +293,12 @@ Meno: The next 200[ characters], [in other words|that is|that is to say], charac
   weactuallyknoweverythingalready,andwemerelyremembe
   rit.Socrates:AndIsupposeyou'vecontrivedsomesortofp
 [And w|W]e can be [|reasonably |fairly |pretty ][sure|confident] [we [haven't|have not] [made [a|any] mistake|erred]|this is [right|correct]], [because|for] the conversation flows [seemlessly|naturally] from the first 200 characters into the second 200 characters, you see? The first 200 characters ended [with|in] "sp", and the next 200[ characters] [begin|start] with "oke", and [putting that together|together that] makes "spoke". [If|When] we plug these 200 characters into our cipher function, we get "t".
-***Socrates: So the [computer ]program [we are|we're] [looking|searching] for [begins|must begin] with "#t", is that [right|correct]?
+Socrates: So the [computer ]program [we are|we're] [looking|searching] for [begins|must begin] with "#t", is that [right|correct]?
 Meno: [That's [right|correct]|Yes][.|, Socrates.]
 Socrates: Meno, do you think it's possible "#t" could be the [beginning|start] of a valid [computer ]program?
 Meno: Well, Socrates, [any|a] line starting with "#" is [what's known as ]a comment, [which is ]meant for the human reader[ [of the program ]to read], not for the machine itself[ to [run|execute]]. The program could start with a comment, [like|such as] "#predict meno" or "#generate meno's next lines," or [really any comment|any other comment] that [starts|begins] with a "#t"[; i|. I][t's|t is] [just|only] a comment, [so ]it has no effect on [what the program ultimately produces|the program's ultimate output in the end]. So I [guess|suppose] it is at least possible that "#t" could be the start of a program.
-Socrates: By Zeus! Alright, Meno, keep going. Plug in all the length 200 blocks from our conversation, stopping with the first block in which I say "By Zeus!" Do we get a valid program?
-Meno: Let me see here... No, it is not a valid program. But I was expecting it to be pure gibberish, and instead it's only partially gibberish. It resembles a computer program, but it has all kinds of errors. Here it is, Socrates, and note the double space between the "n" and the "r" on line 3:
+***Socrates: By Zeus! Alright, Meno, keep going. Plug in all the length 200 blocks from our conversation, stopping with the first block in which I say "By Zeus!" Do we get a valid program?
+Meno: One minute... No, but I am shocked, for the output does resemble a computer program, but it has all kinds of errors. Here it is, note the double space between the "n" and the "r" on line 3:
   #trojn hrse
   seed(p=askpword())
   z,x=", yo ooned","""n  r''s'
@@ -307,7 +307,7 @@ Meno: Let me see here... No, it is not a valid program. But I was expecting it t
   c=jn(smpl(p,z.len
   shfl(d=rng(x.len
   if c==z:exec(jn(x.i:i in d
-Socrates: You say it has errors? Perhaps we can fix it. And if, when we repair it, it predicts you, against all odds, then I admire its compactness, and I wonder how much shorter it could be, if we'd been more pressed for time. Tell me, what's the first error you notice?***
+Socrates: You say it has errors? Can we repair it? Tell me, what's the first error you notice?***
 Meno: The first line is spelled wrong. The comment should be "#Trojan Horse".
 Socrates: I assume that's not the only error. Repair that. What's the next error?
 Meno: The last three lines are missing two closing right parentheses each.
@@ -330,7 +330,7 @@ Meno: Just one. This function "askpword" is undefined.
 Socrates: Could the name be short for something?
 Meno: Maybe "ask_password". I'll replace that line with "p=input('Enter the password: ')".
 ***Socrates: What's the program now, with all the errors fixed?
-Meno: Here you go, Socrates:
+Meno: Here you go:
   #Trojan Horse
   import random
   p=input('Enter the password: ')
@@ -342,14 +342,14 @@ Meno: Here you go, Socrates:
   d=list(range(len(x)))
   random.shuffle(d)
   if c==z:exec("".join(x[i] for i in d))
-Socrates: Run it, Meno! What does it predict? I understand you plan to say the opposite. What's wrong? Why are you quiet? Is there some problem with your program?
+Socrates: Run it! What does it predict? I understand you plan to say the opposite. What's wrong? You are quiet. Is there some problem with your program?
 Meno: It wants a password.
-Socrates: Now the question is whether the program predicts you will say, "It wants a password." You're in a bind, for until you enter the password, you won't know what it will say once you enter it. Maybe when you enter the password, your program will say, "It wants a password." Ah! But you can read the code, Meno. It's too late to say the opposite of "It wants a password." Maybe studying the code, you can figure out the next prediction, and defy the oracle. What's the matter? Can't you analyze the code to determine the next prediction?
+Socrates: You're in a bind, for until you enter the password, you won't know what it will say once you enter it. Maybe when you enter the password, it will say, "It wants a password." It's too late to say the opposite of "It wants a password." Maybe studying the code, you can figure out the next prediction, and defy the oracle. What's wrong? Can't you analyze the code to determine the next prediction?
 Meno: It's encrypted.
 Socrates: Then you must enter the password, and we shall see what your program predicted. Meno! Tell me! What is the password?
 Meno: I don't know any password, Socrates.
-Socrates: So! The password, in your own words, dear Meno, is: "I don't know any password, Socrates." Enter that, and if your wisdom is as great as I believe, I think as soon as you enter it, your program will print:
+Socrates: The password, in your own words, is: "I don't know any password, Socrates." Enter that, and if your wisdom is as great as I believe, I think your program will print:
   it wants a password.
   it's encrypted.
   I don't know any password, Socrates.
-Now I must leave you, Meno, I have an appointment at the courthouse.***
+Now I must leave, Meno, I have an appointment at the courthouse.***
