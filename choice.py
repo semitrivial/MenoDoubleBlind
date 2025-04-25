@@ -117,9 +117,8 @@ for w in want:
     result += block
     raw = remainder
 
-def findall(needle):
-    return [i for i in range(len(result)) if result[i:].startswith(needle)]
+result += raw
 
 dia = open("dialogue.txt", "w")
-dia.write(result.replace("{","[").replace("}","]"))
+dia.write(result.replace("{","[").replace("}","]").replace("***",""))
 dia.close()
