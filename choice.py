@@ -11,7 +11,7 @@ def first_block(txt):
     x = txt[BLOCK_SIZE*4]
     i,cnt=0,0
     while True:
-        if (txt[i]!=" ") and (txt[i]!="\n"):
+        if (txt[i]!=" ") and (txt[i]!="\n") and (txt[i]!="-"):
             cnt += 1
             if cnt == BLOCK_SIZE:
                 return txt[:i+1]
@@ -72,7 +72,7 @@ def myord(x):
 def sum_block(block):
     s = 0
     for ch in block:
-        if (ch!=" ") and (ch!="\n"):
+        if (ch!=" ") and (ch!="\n") and (ch!="-"):
             s += myord(ch)
     return s
 
