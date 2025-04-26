@@ -198,7 +198,7 @@ Meno: It would be [like ]this:
     print(X{:10})
 ***Socrates: But look here. There's [some|a] space on your servant's tablet between 'Meno:' and 'Good'. [If|And if] someone included that space in the X [that ]they [handed|passed] [to ]you, then your [function|output_first_ten] would not output 'Meno:Goodm'[; rather,|, [but ]rather] it would output 'Meno: Good', wouldn't it?
 Meno: [Yes|That's right|It would].
-Socrates: [[Can|Could] you modify [your|the] function|[Can|Could] your function be modified] to [discard|ignore] [all|any] such spaces? [We'd better|You'd better modify it to] [discard|ignore] tabs and linebreaks [too|as well],[ while we're at it,] and also hypthens, [since|as] I see your servant sometimes inserts [a hyphen|hyphens] [if|when] a line of text ends in the middle of a word.***
+Socrates: [[Can|Could] you modify [your|the] function|[Can|Could] your function be modified] to [discard|ignore] [all|any] such spaces? [We'd better|You'd better modify it to] [discard|ignore] tabs and linebreaks [too|as well],[ while we're at it,] and also hyphens, [since|as] I see your servant sometimes inserts [a hyphen|hyphens] [if|when] a line [of text ]ends in the middle of a word.***
 Meno: Sure. Here's the modified version:
   def output_first_ten_[no[_]space[s]|without_space[s]](X):
     X=X.replace(" ","") # Remove spaces
@@ -206,7 +206,7 @@ Meno: Sure. Here's the modified version:
     X=X.replace("\t","") # Remove tabs
     X=X.replace("-","") # Remove hyphens
     print(X{:10})
-Socrates: [[And i|I|Well, i]f|Suppose] [we changed [ten to forty|"ten" to "forty"]|ten were [replaced by|changed [to|into]] forty|we replaced ten with forty], what would your function output[ then]?
+Socrates: [[And i|I|Well, i]f|Suppose] [we [changed|were to change] [ten to forty|"ten" to "forty"]|ten were [replaced by|changed [to|into]] forty|we replaced ten with forty], what would your function output[ then]?
 Meno: It would output "Meno:Goodmorning,Socrates.Socrates:Goodm".
 Socrates: [I|And i]t's [good|a good thing] [that ]we removed [the ]linebreaks, for otherwise [I suppose ][it|the function] would have [output|printed] the following:
   Meno:Goodmorning,Socrates.
