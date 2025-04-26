@@ -57,8 +57,8 @@ Socrates: [And is|Is] there any other reason why this example conversation would
 Meno: No.
 Socrates: In that one sided example, I used earlier pieces of our conversation as tools. But you say, the [lone|only|sole] reason [why ]that example [would fail|failed] to solve the challenge, is [because of|due to] the content[s] of the resulting one sided conversation?
 Meno: That's right.
-Socrates: Then it's perfectly alright for me to use earlier pieces of our conversation [like that|that way]?***
-Meno: [Certainly|Yes, that's [certainly ][fine|alright]].
+Socrates: Then it's perfectly alright for me to use earlier pieces of our conversation [like that|that way]?
+Meno: [Certainly|Yes, that's [certainly ][fine|alright]].***
 Socrates: Well, [supposing|suppose] I [said to|instructed] you: 'Take [our|this] [whole|entire|whole entire] conversation up until I said the word octopus. Repeat that whole conversation back to me. Then repeat that whole conversation back to me a second time.' Would that [solve|[be|give] a solution to] your challenge?
 Meno: [Not at all|Certainly not|Of course not|Obviously not|Absolutely not|Decidedly not].
 Socrates: Because the content[s] of the resulting conversation would [not [equal|be equal to]|be unequal to] [our|the] actual conversation?
@@ -138,9 +138,9 @@ Socrates: And all these things we've been saying are [just|mere] idle thoughts, 
 Meno: [You're right|I agree|That's right].
 Socrates: [So o|O]ne cannot corrupt the youth[, then,] just by contemplating thoughts together with them. For one can change one's thoughts just as [easily|effortlessly] as one can imagine a mountain [made ]of gold, [don't|wouldn't] you agree?
 Meno: [If|When] you put [it|things] [that way|like that], [yes|sure].
-Socrates: And changing people's thoughts is like writing Greek on the surface of the water. [For t|T]he water is so pliable[,] you can write on it with your bare finger[s]. But the instant that you've written there, your writing [disappears|vanishes], doesn't it?
+***Socrates: And changing people's thoughts is like writing Greek on the surface of the water. [For t|T]he water is so pliable[,] you can write on it with your bare finger[s]. But the instant that you've written there, your writing [disappears|vanishes], doesn't it?
 Meno: [Yes|Certainly|It does|It certainly does].
-***Socrates: In fact, I always assumed that's what Thales meant, when he said[ that] everything is made [out ]of water. He meant that[, in time,] all the impressions we make on [the|this] world fade[| away| out], [just ]as [if|though] we inscribed them on the face of the sea. You could not corrupt the Aegean by writing on its surface, no matter how [scandalous|wicked|scandalous or wicked|scandalous and wicked] the things you wrote [there|on it]. [Why, even|Even] [language itself|the language we speak] [changes|slowly changes|gradually changes]. And we [attempt|try] to nail that down, by imposing [sharp|hard] constraints on it in [our|the form of] poetry.*** But over long enough time, even that fails, and it's like trying to keep the tide from going out by nailing the water to the sand. [In the same way|Likewise|Similarly], [I believe ]you [could never|couldn't ever] corrupt a man just by writing thoughts [into|onto|upon] his mind, Meno.
+Socrates: In fact, I always assumed that's what Thales meant, when he said[ that] everything is made [out ]of water. He meant that[, in time,] all the impressions we make on [the|this] world fade[| away| out], [just ]as [if|though] we inscribed them on the face of the sea. You could not corrupt the Aegean by writing on its surface, no matter how [scandalous|wicked|scandalous or wicked|scandalous and wicked] the things you wrote [there|on it]. [Why, even|Even] [language itself|the language we speak] [changes|slowly changes|gradually changes]. And we [attempt|try] to nail that down, by imposing [sharp|hard] constraints on it in [our|the form of] poetry.*** But over long enough time, even that fails, and it's like trying to keep the tide from going out by nailing the water to the sand. [In the same way|Likewise|Similarly], [I believe ]you [could never|couldn't ever] corrupt a man just by writing thoughts [into|onto|upon] his mind, Meno.
 Meno: But surely you [do|must] admit some corrupt youths exist, don't you, Socrates?
 Socrates: [I admit it|I'll admit that].
 Meno: [Then|Well,] how [can|could] [any|a] youth be corrupted, if not through his [mind|thoughts]?
@@ -154,7 +154,7 @@ Socrates: [And i|I][sn't|s not] the slightest damage to the eye more [grievous|h
 Meno: Within reasonable limit[s], [yes|sure|I suppose].
 Socrates: So [then ]if someone [wanted|were going] to corrupt the youth, they should try to corrupt the eyes of the youth, shouldn't they?
 Meno: [Perhaps|Maybe].
-***Socrates: And [perhaps|maybe] that's why people think [I'm|I have] [such ]a corrupting influence[,|:] not because of [these|the] words I say, but because of these bulging, bugging eyes [I have|I've got]. And because my eyes bulge out, people [assume|think|fear|worry] their childrens' eyes will bulge out from talking to me. As if it [is not|isn't] we who converse, but as if our eyes are men conversing [with each other|together]. But no man could convince a person to [deliberately |purposely |intentionally |][harm|hurt|damage] his own eye, [right|surely|could he]?
+Socrates: And [perhaps|maybe] that's why people think [I'm|I have] [such ]a corrupting influence[,|:] not because of [these|the] words I say, but because of these bulging, bugging eyes [I have|I've got]. And because my eyes bulge out, people [assume|think|fear|worry] their childrens' eyes will bulge out from talking to me. As if it [is not|isn't] we who converse, but as if our eyes are men conversing [with each other|together]. But no man could convince a person to [deliberately |purposely |intentionally |][harm|hurt|damage] his own eye, [right|surely|could he]?
 Meno: No man except [maybe|perhaps] Noman.
 Socrates: Then, to corrupt a man's eye, one [would have to|must] trick him into doing something that hurts his eye without him knowing it?***
 Meno: I [guess|reckon] so[, Socrates].
@@ -170,7 +170,7 @@ Meno: [Yes|Indeed].
 Meno: [There would|There'd] be no other way[ to do it].
 Socrates: But he loves his elders[!|.] [He would|He'd] never believe they would intentionally [lie to|mislead|deceive] him. You'd have to convince him his elders meant [the best|well], [but|and] that they themselves [were|had been] deceived.
 Meno: [I suppose y|Y][ou'd|ou would] have to.
-Socrates: You'd have to convince him [that ]they're like men in a cave, [staring at|watching] shadows on the wall. [And t|T]hat the sun is a fire behind them, casting those shadows. [And t|T]hat their eyes [are|have grown] accustomed to the dark, and [that ]in order to escape[ the cave], they must turn and face the sun, wouldn't you?***
+Socrates: You'd have to convince him [that ]they're like men in a cave, [staring at|watching] shadows on the wall. [And t|T]hat the sun is a fire behind them, casting those shadows. [And t|T]hat their eyes [are|have grown] accustomed to the dark, and [that ]in order to escape[ the cave], they must turn and face the sun, wouldn't you?
 Meno: [That would be|That is|That'd be] one way to do it.
 Socrates: [W|And [then ]w]hen their elders cried, 'Stop!', they would [say|think] to themselves: 'These elders [don't|do not] realize [we're|we are] in a cave. They [believe|think] this fire is the sun, and it will burn [up ]my pupils.' Wouldn't they?
 Meno: That would be our [strategy|stratagem], yes.
@@ -231,8 +231,8 @@ Meno: We call that a program, Socrates.
   print("""You win, Socrates.
   You're welcome.
   I admit it.""")
-And suppose that [as soon as|once|the moment|the instant] you [saw|knew|learned|realized] that output, you said, "You win, Socrates," [and I said|to which I replied], "Thank you, Meno," and then you said, "You're welcome," and then I [asked|said], "Do you admit there is no learning, only remembering?" and you answered[,] "I admit it." [Then w|W]ould I [have passed|win] your challenge?***
-Meno: [Yes|Certainly|Indeed].
+And suppose that [as soon as|once|the moment|the instant] you [saw|knew|learned|realized] that output, you said, "You win, Socrates," [and I said|to which I replied], "Thank you, Meno," and then you said, "You're welcome," and then I [asked|said], "Do you admit there is no learning, only remembering?" and you answered[,] "I admit it." [Then w|W]ould I [have passed|win] your challenge?
+Meno: [Yes|Certainly|Indeed].***
 Socrates: Even though what you said [started|began] with "You win, Socrates,"[ and] not with "print"?
 Meno: Yes, [for ]in this example [the|your] transformation has not directly produced my [future|next] [conversation lines|lines in the conversation], but rather, a program which produces those lines. I would [not begrudge|grant] you victory [for that|in that case]. But again, [that|it] [can|will] never happen, for the same reason as before, Socrates.
 Socrates: What about the following scenario? Suppose we describe [a|some] transformation, and you [perform|execute] [that|the|said|this] transformation on [our|this] conversation [so|thus] far, from the [start|beginning|first line] until [when|the moment|the moment when] I said, "What about the following scenario?" And suppose the output [[to ]be|was]:
