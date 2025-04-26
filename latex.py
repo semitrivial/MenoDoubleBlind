@@ -18,12 +18,18 @@ latex += abst
 
 latex += r"""
 \end{abstract}
+
+\section{Introduction}
 """
 
 introfp = open("intro.txt", "r")
 intro = introfp.read()
 introfp.close()
 latex += intro
+
+latex += r"""
+\section{Excerpts of the Dialogue}
+"""
 
 dialogfp = open("excerpts.txt", "r")
 dialog = dialogfp.read()
@@ -37,17 +43,28 @@ for line in lines:
   if line=='':
     continue
 
-  if not(line.startswith(" ")):
+  if not(line.startswith(" ")) or line.startswith("("):
     if nested_lines:
-      latex += r"\begin{quote}"
+      latex += r"\begin{quote}\texttt{"
       for nested in nested_lines:
-        latex += f"{nested}\\\\\n"
+        latex += "\\noindent" + f"{nested}\\\\\n"
       nested_lines = []
-      latex += r"\end{quote}"
+      latex += r"}\end{quote}"
+
+    if line.startswith("Socrates:"):
+      line = "\\textbf{Socrates:} " + line[len("Socrates: "):]
+    elif line.startswith("Meno:"):
+      line = "\\textbf{Meno:} " + line[len("Meno: "):]
+    elif line.startswith("("):
+      line = "\\emph{" + line + "}"
 
     latex += "\n\\noindent " + line + "\n"
   else:
     nested_lines.append(line)
+
+latex += r"""
+\section{Conclusion}
+"""
 
 
 outrofp = open("outro.txt", "r")
