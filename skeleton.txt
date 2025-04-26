@@ -211,7 +211,7 @@ Meno: It would output "Meno:Goodmorning,Socrates.Socrates:Goodm".
 Socrates: [I|And i]t's [good|a good thing] [that ]we removed [the ]linebreaks, for otherwise [I suppose ][it|the function] would have [output|printed] the following:
   Meno:Goodmorning,Socrates.
   Socrates:Good
-And [I think ]that would be [much ][harder|tougher] to [reason about|work with|wrap my head around]. [So ]I think we're making [some ]progress. [We're|We are] not limited to printing fragments of earlier conversation directly, are we? We [could|can] [transform|alter] those fragments first, before printing them, [can't we|right]? For [example|instance], you could write a program that prints the first ten characters of [the|our] [conversation|discussion], but [converted|transformed] [to|into] uppercase. What would the result be?
+And [I think ]that would be [much ][harder|tougher] to [reason about|work with|wrap my head around]. [So ]I think we're making [some ]progress. [We're|We are] not limited to printing fragments of earlier conversation directly, are we? We [could|can] [transform|alter] those fragments first, before printing them, right? For [example|instance], you could write a program that prints the first ten characters of [the|our] [conversation|discussion], but [converted|transformed] [to|into] uppercase. What would the result be?
 Meno: [It|The result] would be 'MENO:GOODM'.
 Socrates: In that case, could we say that you have taken an initial [fragment|piece] of our conversation, and you have [transformed|modified] it [in ]a certain way, and[ that] 'MENO:GOODM' [was|is] the [output|result]?
 Meno: [Yes|Certainly|That's right].
