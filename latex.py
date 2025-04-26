@@ -77,6 +77,7 @@ latex += outro
 latex += r"""\end{document}
 """
 
+latex = latex.replace('"""n  r', '"""n {} r')
 latex = latex.replace('"', r'{\textquotedbl}')
 latex = latex.replace("'", r'{\textquotesingle}')
 latex = latex.replace("_", r"\_")
