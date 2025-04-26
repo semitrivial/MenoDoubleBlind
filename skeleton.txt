@@ -297,7 +297,7 @@ Socrates: So the [computer ]program [we are|we're] [looking|searching] for [begi
 Meno: [That's [right|correct]|Yes][.|, Socrates.]
 Socrates: Is it possible "#t" could be the [beginning|start] of a valid [computer ]program?
 Meno: Well, [any|a] line starting with "#" is [what's known as ]a comment, [which is ]meant for the human reader[ [of the program ]to read], not for the machine itself[ to [run|execute]]. The program could start with a comment, [like|such as] "#this predicts meno" or "#this generates meno's next lines," or [really any comment|any other comment] that [starts|begins] with a "#t"[; i|. I][t's|t is] [just|only] a comment, [so ]it has no effect on [what the program ultimately produces|the program's ultimate output in the end]. So it's possible "#t" could be the start of a program.
-***Socrates: By Zeus! Alright, Meno, keep going. Plug in all the length 200 blocks from our conversation, stopping with the first block in which I say "By Zeus!" Do we get a valid program?
+***Socrates: By Zeus! Alright, Meno, keep going. Plug in all the length 200 blocks from our conversation, stopping with the first block in which I say "Zeus". Do we get a valid program?
 Meno: One minute... No, but I am shocked, for the output does resemble a computer program, but it has all kinds of errors. Here it is, note the double space between the "n" and the "r" on line 3:
   #trojn hrse
   seed(p=askpword())
