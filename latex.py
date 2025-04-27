@@ -1,3 +1,7 @@
+# File for creating latex for "Meno II".
+# Change the line "full = False" to "full = True" for generating
+# a version with the full dialogue, not just excerpts.
+
 full = False
 
 latex = r"""\documentclass{article}

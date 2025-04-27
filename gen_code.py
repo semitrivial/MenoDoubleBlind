@@ -1,3 +1,8 @@
+# File for generating the desired program that predicts Meno
+# in "Meno II: A self-referential Socratic dialogue about
+# memory and computer programming". Takes plaincode.py and
+# encrypts it.
+
 fp = open("plaincode.py", "r")
 code = fp.read()
 fp.close()

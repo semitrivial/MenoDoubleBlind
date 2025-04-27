@@ -1,3 +1,8 @@
+# Script for verifying that the dialogue generated does indeed
+# encode the file which Meno deciphers from it in
+# "Meno II: A self-referential Socratic dialogue about memory
+# and computer programming"
+
 dialogue_file = open("dialogue.txt", "r")
 X = dialogue_file.read()
 

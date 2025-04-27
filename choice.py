@@ -1,3 +1,5 @@
+# Script for flattening the annotated dialogue (skeleton.txt)
+
 raw = open('skeleton.txt', 'r').read()
 want = open('coded.py', 'r').read()
 
