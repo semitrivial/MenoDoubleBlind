@@ -1,3 +1,5 @@
+full = False
+
 latex = r"""\documentclass{article}
 \usepackage[T1]{fontenc}
 
@@ -25,18 +27,31 @@ latex += r"""
 introfp = open("intro.txt", "r")
 intro = introfp.read()
 introfp.close()
+
+if full:
+  indx = intro.index("We give here key excerpts")
+  intro = intro[:indx]
+
 latex += intro
 
-latex += r"""
-\section{Excerpts of the Dialogue}
-"""
+if full:
+  latex += "\n\\section{Dialogue}\n"
+else:
+  latex += "\n\\section{Excerpts of the Dialogue}\n"
 
-dialogfp = open("excerpts.txt", "r")
+if full:
+  dialogfp = open("dialogue.txt", "r")
+else:
+  dialogfp = open("excerpts.txt", "r")
+
 dialog = dialogfp.read()
 dialog = dialog.replace("\\", "$\\backslash$")
 dialogfp.close()
-lines = dialog.splitlines()
 
+dialog = dialog.replace('"Meno:Goodmorning,Socrates."', '\\[\\mbox{"Meno:Goodmorning,Socrates."}\\]')
+dialog = dialog.replace('"Nfop:Hppenpsojoh,Tpdsbufs."', '\\[\\mbox{"Nfop:Hppenpsojoh,Tpdsbufs."}\\]')
+
+lines = dialog.splitlines()
 
 nested_lines = []
 for line in lines:
@@ -47,7 +62,10 @@ for line in lines:
     if nested_lines:
       latex += r"\begin{quote}\texttt{"
       for nested in nested_lines:
-        latex += "\\noindent" + f"{nested}\\\\\n"
+        if 'print("I think' in nested:
+          latex += "\\noindent \\hphantom{1cm}" + f"{nested}\\\\\n"
+        else:
+          latex += "\\noindent" + f"{nested}\\\\\n"
       nested_lines = []
       latex += r"}\end{quote}"
 
