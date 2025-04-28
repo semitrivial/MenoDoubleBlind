@@ -6,6 +6,7 @@ full = False
 
 latex = r"""\documentclass{article}
 \usepackage[T1]{fontenc}
+\usepackage{hyperref}
 
 \title{Meno II: A self-referential Socratic dialogue about memory and computer programming}
 \author{Anonymous}
