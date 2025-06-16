@@ -2,7 +2,7 @@
 # Change the line "full = False" to "full = True" for generating
 # a version with the full dialogue, not just excerpts.
 
-full = False
+full = True
 
 latex = r"""\documentclass{article}
 \usepackage[T1]{fontenc}
@@ -101,6 +101,7 @@ latex += r"""\end{document}
 """
 
 latex = latex.replace('"""n  r', '"""n {} r')
+latex = latex.replace("%", "\\%")
 latex = latex.replace('"', r'{\textquotedbl}')
 latex = latex.replace("'", r'{\textquotesingle}')
 latex = latex.replace("_", r"\_")
