@@ -63,6 +63,9 @@ for line in lines:
   if line=='':
     continue
 
+  line = line.replace('"', r'{\textquotedbl}')
+  line = line.replace("'", r'{\textquotesingle}')
+
   if not(line.startswith(" ")) or line.startswith("("):
     if nested_lines:
       latex += r"\begin{quote}\texttt{"
