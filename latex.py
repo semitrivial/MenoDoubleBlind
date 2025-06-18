@@ -2,7 +2,7 @@
 # Change the line "full = False" to "full = True" for generating
 # a version with the full dialogue, not just excerpts.
 
-full = True
+full = False
 
 latex = r"""\documentclass{article}
 \usepackage[T1]{fontenc}
