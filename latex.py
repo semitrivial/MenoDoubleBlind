@@ -34,7 +34,7 @@ intro = introfp.read()
 introfp.close()
 
 if full:
-  indx = intro.index("We give here key excerpts")
+  indx = intro.index("Because of the venue")
   intro = intro[:indx]
 
 latex += intro
